@@ -719,7 +719,7 @@ namespace Censo_2024
 
         private void saveDates()
         {
-       
+
 
 
             string identificadorVivienda = textBox1.Text;
@@ -798,9 +798,9 @@ namespace Censo_2024
             string preguntaCuarentaNueve = textBox72.Text;
             string observacionesDireccion = textBox73.Text;
 
-            
 
-            
+
+
 
         }
 
@@ -810,7 +810,7 @@ namespace Censo_2024
         {
             changeColorText(Color.Black);
             changeComponentsColor(Color.White);
-          
+
 
 
         }
@@ -823,7 +823,17 @@ namespace Censo_2024
 
 
 
-            
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton104_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

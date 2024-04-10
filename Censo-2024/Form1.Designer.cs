@@ -174,7 +174,6 @@
             button17 = new Button();
             label74 = new Label();
             label73 = new Label();
-            checkedListBox20 = new CheckedListBox();
             label71 = new Label();
             label72 = new Label();
             tabPage10 = new TabPage();
@@ -202,7 +201,6 @@
             textBox28 = new TextBox();
             label88 = new Label();
             label87 = new Label();
-            checkedListBox21 = new CheckedListBox();
             label86 = new Label();
             label85 = new Label();
             label84 = new Label();
@@ -222,13 +220,9 @@
             tabPage11 = new TabPage();
             label102 = new Label();
             label101 = new Label();
-            checkedListBox24 = new CheckedListBox();
-            checkedListBox25 = new CheckedListBox();
             label100 = new Label();
             button22 = new Button();
             button21 = new Button();
-            checkedListBox22 = new CheckedListBox();
-            checkedListBox23 = new CheckedListBox();
             label99 = new Label();
             label98 = new Label();
             label97 = new Label();
@@ -242,7 +236,6 @@
             label92 = new Label();
             label91 = new Label();
             tabPage12 = new TabPage();
-            checkedListBox28 = new CheckedListBox();
             label119 = new Label();
             label120 = new Label();
             label118 = new Label();
@@ -257,12 +250,10 @@
             textBox34 = new TextBox();
             label111 = new Label();
             label112 = new Label();
-            checkedListBox27 = new CheckedListBox();
             label110 = new Label();
             label109 = new Label();
             button24 = new Button();
             button23 = new Button();
-            checkedListBox26 = new CheckedListBox();
             label108 = new Label();
             label107 = new Label();
             label106 = new Label();
@@ -275,7 +266,6 @@
             button27 = new Button();
             button26 = new Button();
             label132 = new Label();
-            checkedListBox31 = new CheckedListBox();
             label131 = new Label();
             textBox56 = new TextBox();
             label130 = new Label();
@@ -285,16 +275,13 @@
             button25 = new Button();
             textBox55 = new TextBox();
             label126 = new Label();
-            checkedListBox30 = new CheckedListBox();
             label125 = new Label();
             label124 = new Label();
             textBox54 = new TextBox();
-            checkedListBox29 = new CheckedListBox();
             label122 = new Label();
             label123 = new Label();
             label121 = new Label();
             tabPage14 = new TabPage();
-            checkedListBox33 = new CheckedListBox();
             label139 = new Label();
             label138 = new Label();
             textBox58 = new TextBox();
@@ -305,33 +292,27 @@
             button28 = new Button();
             textBox57 = new TextBox();
             label134 = new Label();
-            checkedListBox32 = new CheckedListBox();
             label133 = new Label();
             tabPage15 = new TabPage();
             textBox60 = new TextBox();
             label148 = new Label();
-            checkedListBox36 = new CheckedListBox();
             label147 = new Label();
             button32 = new Button();
             label146 = new Label();
-            checkedListBox35 = new CheckedListBox();
             label144 = new Label();
             label145 = new Label();
             button31 = new Button();
             button30 = new Button();
             label143 = new Label();
             textBox59 = new TextBox();
-            checkedListBox34 = new CheckedListBox();
             label140 = new Label();
             label141 = new Label();
             label142 = new Label();
             tabPage16 = new TabPage();
-            checkedListBox38 = new CheckedListBox();
             label153 = new Label();
             label154 = new Label();
             label155 = new Label();
             label152 = new Label();
-            checkedListBox37 = new CheckedListBox();
             button34 = new Button();
             button33 = new Button();
             label149 = new Label();
@@ -339,40 +320,32 @@
             label151 = new Label();
             tabPage17 = new TabPage();
             label164 = new Label();
-            checkedListBox40 = new CheckedListBox();
             label163 = new Label();
             label162 = new Label();
             label161 = new Label();
             label160 = new Label();
             textBox61 = new TextBox();
             label156 = new Label();
-            checkedListBox39 = new CheckedListBox();
             label157 = new Label();
             label158 = new Label();
             label159 = new Label();
             button36 = new Button();
             button35 = new Button();
             tabPage18 = new TabPage();
-            checkedListBox43 = new CheckedListBox();
             button43 = new Button();
             label171 = new Label();
-            checkedListBox42 = new CheckedListBox();
             label170 = new Label();
             label168 = new Label();
             label169 = new Label();
-            checkedListBox41 = new CheckedListBox();
             label166 = new Label();
             label167 = new Label();
             label165 = new Label();
             button38 = new Button();
             button37 = new Button();
             tabPage19 = new TabPage();
-            checkedListBox44 = new CheckedListBox();
-            checkedListBox46 = new CheckedListBox();
             label180 = new Label();
             label181 = new Label();
             label178 = new Label();
-            checkedListBox45 = new CheckedListBox();
             label175 = new Label();
             label176 = new Label();
             label177 = new Label();
@@ -384,11 +357,9 @@
             tabPage20 = new TabPage();
             button45 = new Button();
             label189 = new Label();
-            checkedListBox48 = new CheckedListBox();
             label188 = new Label();
             button44 = new Button();
             label187 = new Label();
-            checkedListBox47 = new CheckedListBox();
             label186 = new Label();
             label185 = new Label();
             label182 = new Label();
@@ -398,7 +369,6 @@
             button42 = new Button();
             button41 = new Button();
             tabPage21 = new TabPage();
-            checkedListBox50 = new CheckedListBox();
             label193 = new Label();
             label194 = new Label();
             label196 = new Label();
@@ -406,7 +376,6 @@
             label192 = new Label();
             button47 = new Button();
             button46 = new Button();
-            checkedListBox49 = new CheckedListBox();
             label190 = new Label();
             label191 = new Label();
             tabPage22 = new TabPage();
@@ -425,18 +394,15 @@
             button49 = new Button();
             button48 = new Button();
             tabPage23 = new TabPage();
-            checkedListBox51 = new CheckedListBox();
             label206 = new Label();
             label207 = new Label();
             textBox66 = new TextBox();
             label211 = new Label();
-            checkedListBox53 = new CheckedListBox();
             label212 = new Label();
             textBox65 = new TextBox();
             label210 = new Label();
             button55 = new Button();
             label205 = new Label();
-            checkedListBox52 = new CheckedListBox();
             label208 = new Label();
             label209 = new Label();
             button51 = new Button();
@@ -446,19 +412,16 @@
             textBox75 = new TextBox();
             label242 = new Label();
             textBox74 = new TextBox();
-            checkedListBox58 = new CheckedListBox();
             label241 = new Label();
             label219 = new Label();
             label239 = new Label();
             label240 = new Label();
-            checkedListBox56 = new CheckedListBox();
             textBox72 = new TextBox();
             label229 = new Label();
             button58 = new Button();
             label228 = new Label();
             button57 = new Button();
             label227 = new Label();
-            checkedListBox55 = new CheckedListBox();
             label226 = new Label();
             label224 = new Label();
             label225 = new Label();
@@ -474,7 +437,6 @@
             textBox68 = new TextBox();
             label214 = new Label();
             textBox67 = new TextBox();
-            checkedListBox54 = new CheckedListBox();
             label215 = new Label();
             label216 = new Label();
             label213 = new Label();
@@ -485,7 +447,6 @@
             button60 = new Button();
             button59 = new Button();
             label232 = new Label();
-            checkedListBox57 = new CheckedListBox();
             label230 = new Label();
             label231 = new Label();
             tabPage26 = new TabPage();
@@ -505,6 +466,266 @@
             label238 = new Label();
             fondoLogo = new Panel();
             label1 = new Label();
+            groupBox1 = new GroupBox();
+            radioButton1 = new RadioButton();
+            radioButton2 = new RadioButton();
+            radioButton3 = new RadioButton();
+            radioButton4 = new RadioButton();
+            groupBox2 = new GroupBox();
+            radioButton5 = new RadioButton();
+            radioButton6 = new RadioButton();
+            radioButton7 = new RadioButton();
+            radioButton8 = new RadioButton();
+            radioButton9 = new RadioButton();
+            radioButton10 = new RadioButton();
+            groupBox3 = new GroupBox();
+            radioButton15 = new RadioButton();
+            radioButton16 = new RadioButton();
+            groupBox4 = new GroupBox();
+            radioButton12 = new RadioButton();
+            groupBox5 = new GroupBox();
+            radioButton11 = new RadioButton();
+            groupBox6 = new GroupBox();
+            radioButton13 = new RadioButton();
+            radioButton14 = new RadioButton();
+            radioButton17 = new RadioButton();
+            radioButton18 = new RadioButton();
+            radioButton19 = new RadioButton();
+            radioButton20 = new RadioButton();
+            radioButton21 = new RadioButton();
+            groupBox7 = new GroupBox();
+            radioButton22 = new RadioButton();
+            radioButton23 = new RadioButton();
+            radioButton24 = new RadioButton();
+            radioButton25 = new RadioButton();
+            radioButton26 = new RadioButton();
+            radioButton27 = new RadioButton();
+            radioButton28 = new RadioButton();
+            radioButton29 = new RadioButton();
+            radioButton37 = new RadioButton();
+            radioButton36 = new RadioButton();
+            radioButton35 = new RadioButton();
+            groupBox8 = new GroupBox();
+            groupBox9 = new GroupBox();
+            radioButton30 = new RadioButton();
+            radioButton31 = new RadioButton();
+            radioButton32 = new RadioButton();
+            groupBox10 = new GroupBox();
+            radioButton33 = new RadioButton();
+            radioButton34 = new RadioButton();
+            radioButton38 = new RadioButton();
+            radioButton39 = new RadioButton();
+            radioButton40 = new RadioButton();
+            groupBox11 = new GroupBox();
+            radioButton41 = new RadioButton();
+            radioButton42 = new RadioButton();
+            radioButton43 = new RadioButton();
+            radioButton44 = new RadioButton();
+            radioButton45 = new RadioButton();
+            radioButton46 = new RadioButton();
+            groupBox12 = new GroupBox();
+            radioButton47 = new RadioButton();
+            radioButton52 = new RadioButton();
+            groupBox13 = new GroupBox();
+            radioButton48 = new RadioButton();
+            radioButton49 = new RadioButton();
+            groupBox14 = new GroupBox();
+            radioButton50 = new RadioButton();
+            radioButton51 = new RadioButton();
+            groupBox15 = new GroupBox();
+            radioButton53 = new RadioButton();
+            radioButton54 = new RadioButton();
+            radioButton55 = new RadioButton();
+            radioButton56 = new RadioButton();
+            radioButton57 = new RadioButton();
+            radioButton58 = new RadioButton();
+            radioButton59 = new RadioButton();
+            radioButton60 = new RadioButton();
+            radioButton61 = new RadioButton();
+            radioButton62 = new RadioButton();
+            groupBox16 = new GroupBox();
+            radioButton68 = new RadioButton();
+            radioButton69 = new RadioButton();
+            radioButton70 = new RadioButton();
+            radioButton71 = new RadioButton();
+            radioButton72 = new RadioButton();
+            groupBox17 = new GroupBox();
+            radioButton73 = new RadioButton();
+            radioButton74 = new RadioButton();
+            groupBox18 = new GroupBox();
+            radioButton75 = new RadioButton();
+            radioButton76 = new RadioButton();
+            radioButton77 = new RadioButton();
+            radioButton78 = new RadioButton();
+            radioButton79 = new RadioButton();
+            radioButton80 = new RadioButton();
+            radioButton81 = new RadioButton();
+            radioButton82 = new RadioButton();
+            radioButton83 = new RadioButton();
+            radioButton84 = new RadioButton();
+            radioButton63 = new RadioButton();
+            groupBox19 = new GroupBox();
+            radioButton66 = new RadioButton();
+            radioButton85 = new RadioButton();
+            radioButton64 = new RadioButton();
+            radioButton65 = new RadioButton();
+            radioButton67 = new RadioButton();
+            radioButton86 = new RadioButton();
+            radioButton87 = new RadioButton();
+            radioButton88 = new RadioButton();
+            radioButton89 = new RadioButton();
+            radioButton90 = new RadioButton();
+            radioButton91 = new RadioButton();
+            radioButton92 = new RadioButton();
+            groupBox20 = new GroupBox();
+            radioButton93 = new RadioButton();
+            radioButton94 = new RadioButton();
+            radioButton95 = new RadioButton();
+            radioButton96 = new RadioButton();
+            radioButton97 = new RadioButton();
+            radioButton98 = new RadioButton();
+            radioButton99 = new RadioButton();
+            radioButton100 = new RadioButton();
+            radioButton101 = new RadioButton();
+            radioButton102 = new RadioButton();
+            radioButton103 = new RadioButton();
+            radioButton104 = new RadioButton();
+            groupBox21 = new GroupBox();
+            radioButton105 = new RadioButton();
+            radioButton106 = new RadioButton();
+            radioButton108 = new RadioButton();
+            radioButton110 = new RadioButton();
+            radioButton112 = new RadioButton();
+            radioButton114 = new RadioButton();
+            radioButton116 = new RadioButton();
+            groupBox22 = new GroupBox();
+            radioButton107 = new RadioButton();
+            radioButton109 = new RadioButton();
+            radioButton111 = new RadioButton();
+            radioButton113 = new RadioButton();
+            radioButton115 = new RadioButton();
+            radioButton117 = new RadioButton();
+            radioButton118 = new RadioButton();
+            radioButton120 = new RadioButton();
+            radioButton121 = new RadioButton();
+            radioButton122 = new RadioButton();
+            groupBox23 = new GroupBox();
+            radioButton119 = new RadioButton();
+            radioButton123 = new RadioButton();
+            radioButton124 = new RadioButton();
+            radioButton125 = new RadioButton();
+            radioButton126 = new RadioButton();
+            radioButton127 = new RadioButton();
+            radioButton128 = new RadioButton();
+            radioButton129 = new RadioButton();
+            radioButton130 = new RadioButton();
+            radioButton131 = new RadioButton();
+            radioButton132 = new RadioButton();
+            radioButton133 = new RadioButton();
+            groupBox24 = new GroupBox();
+            radioButton134 = new RadioButton();
+            radioButton135 = new RadioButton();
+            groupBox25 = new GroupBox();
+            radioButton136 = new RadioButton();
+            radioButton137 = new RadioButton();
+            radioButton138 = new RadioButton();
+            groupBox26 = new GroupBox();
+            radioButton140 = new RadioButton();
+            radioButton143 = new RadioButton();
+            radioButton144 = new RadioButton();
+            radioButton145 = new RadioButton();
+            radioButton147 = new RadioButton();
+            radioButton148 = new RadioButton();
+            radioButton149 = new RadioButton();
+            radioButton150 = new RadioButton();
+            groupBox27 = new GroupBox();
+            radioButton141 = new RadioButton();
+            radioButton142 = new RadioButton();
+            radioButton146 = new RadioButton();
+            radioButton151 = new RadioButton();
+            radioButton152 = new RadioButton();
+            radioButton153 = new RadioButton();
+            radioButton154 = new RadioButton();
+            groupBox28 = new GroupBox();
+            radioButton139 = new RadioButton();
+            radioButton155 = new RadioButton();
+            radioButton156 = new RadioButton();
+            radioButton157 = new RadioButton();
+            radioButton158 = new RadioButton();
+            radioButton159 = new RadioButton();
+            radioButton160 = new RadioButton();
+            groupBox29 = new GroupBox();
+            radioButton165 = new RadioButton();
+            radioButton166 = new RadioButton();
+            radioButton167 = new RadioButton();
+            groupBox30 = new GroupBox();
+            radioButton162 = new RadioButton();
+            radioButton161 = new RadioButton();
+            groupBox31 = new GroupBox();
+            radioButton163 = new RadioButton();
+            radioButton164 = new RadioButton();
+            radioButton168 = new RadioButton();
+            radioButton169 = new RadioButton();
+            radioButton170 = new RadioButton();
+            radioButton171 = new RadioButton();
+            radioButton172 = new RadioButton();
+            radioButton173 = new RadioButton();
+            groupBox32 = new GroupBox();
+            radioButton174 = new RadioButton();
+            radioButton175 = new RadioButton();
+            groupBox33 = new GroupBox();
+            radioButton176 = new RadioButton();
+            radioButton177 = new RadioButton();
+            radioButton178 = new RadioButton();
+            radioButton179 = new RadioButton();
+            radioButton180 = new RadioButton();
+            radioButton181 = new RadioButton();
+            radioButton182 = new RadioButton();
+            radioButton183 = new RadioButton();
+            radioButton184 = new RadioButton();
+            radioButton185 = new RadioButton();
+            radioButton186 = new RadioButton();
+            radioButton187 = new RadioButton();
+            radioButton188 = new RadioButton();
+            radioButton189 = new RadioButton();
+            radioButton190 = new RadioButton();
+            radioButton191 = new RadioButton();
+            groupBox34 = new GroupBox();
+            radioButton192 = new RadioButton();
+            radioButton193 = new RadioButton();
+            groupBox35 = new GroupBox();
+            radioButton194 = new RadioButton();
+            radioButton195 = new RadioButton();
+            groupBox36 = new GroupBox();
+            radioButton196 = new RadioButton();
+            radioButton197 = new RadioButton();
+            radioButton198 = new RadioButton();
+            radioButton199 = new RadioButton();
+            radioButton200 = new RadioButton();
+            radioButton201 = new RadioButton();
+            radioButton202 = new RadioButton();
+            radioButton203 = new RadioButton();
+            radioButton204 = new RadioButton();
+            radioButton205 = new RadioButton();
+            radioButton206 = new RadioButton();
+            radioButton207 = new RadioButton();
+            radioButton208 = new RadioButton();
+            radioButton209 = new RadioButton();
+            radioButton210 = new RadioButton();
+            radioButton211 = new RadioButton();
+            radioButton212 = new RadioButton();
+            radioButton213 = new RadioButton();
+            groupBox37 = new GroupBox();
+            radioButton230 = new RadioButton();
+            radioButton231 = new RadioButton();
+            radioButton214 = new RadioButton();
+            radioButton215 = new RadioButton();
+            radioButton216 = new RadioButton();
+            radioButton217 = new RadioButton();
+            radioButton218 = new RadioButton();
+            radioButton219 = new RadioButton();
+            radioButton220 = new RadioButton();
+            radioButton221 = new RadioButton();
             tablePanel2.SuspendLayout();
             tabPage1.SuspendLayout();
             tabPage2.SuspendLayout();
@@ -536,6 +757,43 @@
             tabPage27.SuspendLayout();
             tabPage28.SuspendLayout();
             fondoLogo.SuspendLayout();
+            groupBox1.SuspendLayout();
+            groupBox2.SuspendLayout();
+            groupBox3.SuspendLayout();
+            groupBox4.SuspendLayout();
+            groupBox5.SuspendLayout();
+            groupBox6.SuspendLayout();
+            groupBox7.SuspendLayout();
+            groupBox8.SuspendLayout();
+            groupBox9.SuspendLayout();
+            groupBox10.SuspendLayout();
+            groupBox11.SuspendLayout();
+            groupBox12.SuspendLayout();
+            groupBox13.SuspendLayout();
+            groupBox14.SuspendLayout();
+            groupBox15.SuspendLayout();
+            groupBox16.SuspendLayout();
+            groupBox17.SuspendLayout();
+            groupBox18.SuspendLayout();
+            groupBox19.SuspendLayout();
+            groupBox20.SuspendLayout();
+            groupBox21.SuspendLayout();
+            groupBox22.SuspendLayout();
+            groupBox23.SuspendLayout();
+            groupBox24.SuspendLayout();
+            groupBox25.SuspendLayout();
+            groupBox26.SuspendLayout();
+            groupBox27.SuspendLayout();
+            groupBox28.SuspendLayout();
+            groupBox29.SuspendLayout();
+            groupBox30.SuspendLayout();
+            groupBox31.SuspendLayout();
+            groupBox32.SuspendLayout();
+            groupBox33.SuspendLayout();
+            groupBox34.SuspendLayout();
+            groupBox35.SuspendLayout();
+            groupBox36.SuspendLayout();
+            groupBox37.SuspendLayout();
             SuspendLayout();
             // 
             // tablePanel2
@@ -2068,6 +2326,7 @@
             // 
             // tabPage9
             // 
+            tabPage9.Controls.Add(groupBox37);
             tabPage9.Controls.Add(label79);
             tabPage9.Controls.Add(label78);
             tabPage9.Controls.Add(label77);
@@ -2076,7 +2335,6 @@
             tabPage9.Controls.Add(button17);
             tabPage9.Controls.Add(label74);
             tabPage9.Controls.Add(label73);
-            tabPage9.Controls.Add(checkedListBox20);
             tabPage9.Controls.Add(label71);
             tabPage9.Controls.Add(label72);
             tabPage9.Location = new Point(4, 24);
@@ -2157,7 +2415,7 @@
             // 
             label74.Location = new Point(22, 111);
             label74.Name = "label74";
-            label74.Size = new Size(208, 108);
+            label74.Size = new Size(208, 132);
             label74.TabIndex = 71;
             label74.Text = "Teléfono móvil, celular o smartphone\r\nComputador (escritorio, portátil)\r\nTablet\r\nInternet fija\r\nInternet móvil desde un celular, tablet o BAM\r\nInternet por conexión satelital";
             label74.TextAlign = ContentAlignment.MiddleLeft;
@@ -2172,18 +2430,6 @@
             label73.Size = new Size(430, 17);
             label73.TabIndex = 70;
             label73.Text = "˃ Marque una respuesta para cada equipo o servicio";
-            // 
-            // checkedListBox20
-            // 
-            checkedListBox20.Anchor = AnchorStyles.None;
-            checkedListBox20.BorderStyle = BorderStyle.None;
-            checkedListBox20.FormattingEnabled = true;
-            checkedListBox20.Items.AddRange(new object[] { "Si", "Si", "Si", "Si", "Si", "Si", "No", "No", "No", "No", "No", "No" });
-            checkedListBox20.Location = new Point(236, 111);
-            checkedListBox20.MultiColumn = true;
-            checkedListBox20.Name = "checkedListBox20";
-            checkedListBox20.Size = new Size(295, 108);
-            checkedListBox20.TabIndex = 60;
             // 
             // label71
             // 
@@ -2210,6 +2456,7 @@
             // 
             // tabPage10
             // 
+            tabPage10.Controls.Add(groupBox36);
             tabPage10.Controls.Add(button20);
             tabPage10.Controls.Add(button19);
             tabPage10.Controls.Add(label90);
@@ -2234,7 +2481,6 @@
             tabPage10.Controls.Add(textBox28);
             tabPage10.Controls.Add(label88);
             tabPage10.Controls.Add(label87);
-            tabPage10.Controls.Add(checkedListBox21);
             tabPage10.Controls.Add(label86);
             tabPage10.Controls.Add(label85);
             tabPage10.Controls.Add(label84);
@@ -2446,19 +2692,6 @@
             label87.Text = "18.";
             label87.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // checkedListBox21
-            // 
-            checkedListBox21.Anchor = AnchorStyles.None;
-            checkedListBox21.BorderStyle = BorderStyle.None;
-            checkedListBox21.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            checkedListBox21.FormattingEnabled = true;
-            checkedListBox21.Items.AddRange(new object[] { "H", "H", "H", "H", "H", "H", "H", "H", "H", "H", "H", "M", "M", "M", "M", "M", "M", "M", "M", "M", "M", "M" });
-            checkedListBox21.Location = new Point(351, 96);
-            checkedListBox21.MultiColumn = true;
-            checkedListBox21.Name = "checkedListBox21";
-            checkedListBox21.Size = new Size(234, 308);
-            checkedListBox21.TabIndex = 99;
-            // 
             // label86
             // 
             label86.Location = new Point(374, 70);
@@ -2592,15 +2825,13 @@
             // 
             // tabPage11
             // 
+            tabPage11.Controls.Add(groupBox35);
+            tabPage11.Controls.Add(groupBox34);
             tabPage11.Controls.Add(label102);
             tabPage11.Controls.Add(label101);
-            tabPage11.Controls.Add(checkedListBox24);
-            tabPage11.Controls.Add(checkedListBox25);
             tabPage11.Controls.Add(label100);
             tabPage11.Controls.Add(button22);
             tabPage11.Controls.Add(button21);
-            tabPage11.Controls.Add(checkedListBox22);
-            tabPage11.Controls.Add(checkedListBox23);
             tabPage11.Controls.Add(label99);
             tabPage11.Controls.Add(label98);
             tabPage11.Controls.Add(label97);
@@ -2643,28 +2874,6 @@
             label101.TabIndex = 116;
             label101.Text = resources.GetString("label101.Text");
             // 
-            // checkedListBox24
-            // 
-            checkedListBox24.Anchor = AnchorStyles.None;
-            checkedListBox24.BorderStyle = BorderStyle.None;
-            checkedListBox24.FormattingEnabled = true;
-            checkedListBox24.Items.AddRange(new object[] { "No" });
-            checkedListBox24.Location = new Point(152, 149);
-            checkedListBox24.Name = "checkedListBox24";
-            checkedListBox24.Size = new Size(72, 18);
-            checkedListBox24.TabIndex = 115;
-            // 
-            // checkedListBox25
-            // 
-            checkedListBox25.Anchor = AnchorStyles.None;
-            checkedListBox25.BorderStyle = BorderStyle.None;
-            checkedListBox25.FormattingEnabled = true;
-            checkedListBox25.Items.AddRange(new object[] { "Si" });
-            checkedListBox25.Location = new Point(7, 149);
-            checkedListBox25.Name = "checkedListBox25";
-            checkedListBox25.Size = new Size(72, 18);
-            checkedListBox25.TabIndex = 114;
-            // 
             // label100
             // 
             label100.BackColor = Color.LightGray;
@@ -2695,28 +2904,6 @@
             button21.Text = "Siguiente";
             button21.UseVisualStyleBackColor = true;
             button21.Click += button21_Click;
-            // 
-            // checkedListBox22
-            // 
-            checkedListBox22.Anchor = AnchorStyles.None;
-            checkedListBox22.BorderStyle = BorderStyle.None;
-            checkedListBox22.FormattingEnabled = true;
-            checkedListBox22.Items.AddRange(new object[] { "No" });
-            checkedListBox22.Location = new Point(414, 149);
-            checkedListBox22.Name = "checkedListBox22";
-            checkedListBox22.Size = new Size(72, 18);
-            checkedListBox22.TabIndex = 110;
-            // 
-            // checkedListBox23
-            // 
-            checkedListBox23.Anchor = AnchorStyles.None;
-            checkedListBox23.BorderStyle = BorderStyle.None;
-            checkedListBox23.FormattingEnabled = true;
-            checkedListBox23.Items.AddRange(new object[] { "Si" });
-            checkedListBox23.Location = new Point(269, 149);
-            checkedListBox23.Name = "checkedListBox23";
-            checkedListBox23.Size = new Size(72, 18);
-            checkedListBox23.TabIndex = 107;
             // 
             // label99
             // 
@@ -2832,7 +3019,9 @@
             // 
             // tabPage12
             // 
-            tabPage12.Controls.Add(checkedListBox28);
+            tabPage12.Controls.Add(groupBox33);
+            tabPage12.Controls.Add(groupBox32);
+            tabPage12.Controls.Add(groupBox31);
             tabPage12.Controls.Add(label119);
             tabPage12.Controls.Add(label120);
             tabPage12.Controls.Add(label118);
@@ -2847,12 +3036,10 @@
             tabPage12.Controls.Add(textBox34);
             tabPage12.Controls.Add(label111);
             tabPage12.Controls.Add(label112);
-            tabPage12.Controls.Add(checkedListBox27);
             tabPage12.Controls.Add(label110);
             tabPage12.Controls.Add(label109);
             tabPage12.Controls.Add(button24);
             tabPage12.Controls.Add(button23);
-            tabPage12.Controls.Add(checkedListBox26);
             tabPage12.Controls.Add(label108);
             tabPage12.Controls.Add(label107);
             tabPage12.Controls.Add(label106);
@@ -2868,18 +3055,6 @@
             tabPage12.TabIndex = 11;
             tabPage12.Text = "tabPage12";
             tabPage12.UseVisualStyleBackColor = true;
-            // 
-            // checkedListBox28
-            // 
-            checkedListBox28.Anchor = AnchorStyles.None;
-            checkedListBox28.BorderStyle = BorderStyle.None;
-            checkedListBox28.FormattingEnabled = true;
-            checkedListBox28.Items.AddRange(new object[] { "Casado/a", "Conviviente o pareja sin acuerdo de unión civil", "Conviviente civil (con acuerdo de unión civil)", "Anulado/a", "Separado/a", "Divorciado/a", "Viudo/a", "Soltero/a" });
-            checkedListBox28.Location = new Point(669, 151);
-            checkedListBox28.MultiColumn = true;
-            checkedListBox28.Name = "checkedListBox28";
-            checkedListBox28.Size = new Size(305, 162);
-            checkedListBox28.TabIndex = 132;
             // 
             // label119
             // 
@@ -2918,14 +3093,14 @@
             // 
             // textBox53
             // 
-            textBox53.Location = new Point(568, 334);
+            textBox53.Location = new Point(597, 335);
             textBox53.Name = "textBox53";
             textBox53.Size = new Size(69, 23);
             textBox53.TabIndex = 128;
             // 
             // label117
             // 
-            label117.Location = new Point(568, 306);
+            label117.Location = new Point(597, 309);
             label117.Name = "label117";
             label117.Size = new Size(69, 25);
             label117.TabIndex = 127;
@@ -2934,14 +3109,14 @@
             // 
             // textBox52
             // 
-            textBox52.Location = new Point(476, 334);
+            textBox52.Location = new Point(524, 335);
             textBox52.Name = "textBox52";
             textBox52.Size = new Size(69, 23);
             textBox52.TabIndex = 126;
             // 
             // label116
             // 
-            label116.Location = new Point(476, 306);
+            label116.Location = new Point(524, 309);
             label116.Name = "label116";
             label116.Size = new Size(69, 25);
             label116.TabIndex = 125;
@@ -2950,7 +3125,7 @@
             // 
             // label115
             // 
-            label115.Location = new Point(382, 306);
+            label115.Location = new Point(450, 309);
             label115.Name = "label115";
             label115.Size = new Size(69, 25);
             label115.TabIndex = 124;
@@ -2959,7 +3134,7 @@
             // 
             // textBox48
             // 
-            textBox48.Location = new Point(382, 334);
+            textBox48.Location = new Point(449, 335);
             textBox48.Name = "textBox48";
             textBox48.Size = new Size(69, 23);
             textBox48.TabIndex = 123;
@@ -2967,9 +3142,9 @@
             // label113
             // 
             label113.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label113.Location = new Point(426, 260);
+            label113.Location = new Point(463, 273);
             label113.Name = "label113";
-            label113.Size = new Size(220, 23);
+            label113.Size = new Size(147, 23);
             label113.TabIndex = 122;
             label113.Text = "¿En qué fecha nació?";
             label113.TextAlign = ContentAlignment.MiddleLeft;
@@ -2980,7 +3155,7 @@
             label114.BackColor = Color.DarkCyan;
             label114.ForeColor = Color.White;
             label114.ImageAlign = ContentAlignment.MiddleLeft;
-            label114.Location = new Point(382, 260);
+            label114.Location = new Point(419, 273);
             label114.Name = "label114";
             label114.Size = new Size(29, 23);
             label114.TabIndex = 121;
@@ -2989,15 +3164,15 @@
             // 
             // textBox34
             // 
-            textBox34.Location = new Point(398, 220);
+            textBox34.Location = new Point(463, 223);
             textBox34.Name = "textBox34";
-            textBox34.Size = new Size(220, 23);
+            textBox34.Size = new Size(190, 23);
             textBox34.TabIndex = 120;
             // 
             // label111
             // 
             label111.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label111.Location = new Point(426, 181);
+            label111.Location = new Point(452, 183);
             label111.Name = "label111";
             label111.Size = new Size(220, 23);
             label111.TabIndex = 119;
@@ -3010,31 +3185,19 @@
             label112.BackColor = Color.DarkCyan;
             label112.ForeColor = Color.White;
             label112.ImageAlign = ContentAlignment.MiddleLeft;
-            label112.Location = new Point(382, 181);
+            label112.Location = new Point(417, 183);
             label112.Name = "label112";
             label112.Size = new Size(29, 23);
             label112.TabIndex = 118;
             label112.Text = "21.";
             label112.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // checkedListBox27
-            // 
-            checkedListBox27.Anchor = AnchorStyles.None;
-            checkedListBox27.BorderStyle = BorderStyle.None;
-            checkedListBox27.FormattingEnabled = true;
-            checkedListBox27.Items.AddRange(new object[] { "Hombre", "Mujer" });
-            checkedListBox27.Location = new Point(398, 151);
-            checkedListBox27.MultiColumn = true;
-            checkedListBox27.Name = "checkedListBox27";
-            checkedListBox27.Size = new Size(305, 18);
-            checkedListBox27.TabIndex = 117;
-            // 
             // label110
             // 
             label110.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label110.Location = new Point(426, 110);
+            label110.Location = new Point(463, 109);
             label110.Name = "label110";
-            label110.Size = new Size(211, 23);
+            label110.Size = new Size(136, 23);
             label110.TabIndex = 116;
             label110.Text = "¿Cuál es su sexo?";
             label110.TextAlign = ContentAlignment.MiddleLeft;
@@ -3045,7 +3208,7 @@
             label109.BackColor = Color.DarkCyan;
             label109.ForeColor = Color.White;
             label109.ImageAlign = ContentAlignment.MiddleLeft;
-            label109.Location = new Point(382, 110);
+            label109.Location = new Point(419, 109);
             label109.Name = "label109";
             label109.Size = new Size(29, 23);
             label109.TabIndex = 115;
@@ -3072,22 +3235,10 @@
             button23.UseVisualStyleBackColor = true;
             button23.Click += button23_Click;
             // 
-            // checkedListBox26
-            // 
-            checkedListBox26.Anchor = AnchorStyles.None;
-            checkedListBox26.BorderStyle = BorderStyle.None;
-            checkedListBox26.FormattingEnabled = true;
-            checkedListBox26.Items.AddRange(new object[] { "Jefe/a de hogar", "Esposo/a o cónyuge", "Conviviente por unión civil", "Conviviente de hecho o pareja", "Hijo/a", "Hijo/a del cónyuge, conviviente o pareja", "Hermano/a", "Padre/Madre", "Cuñado/a", "Suegro/a", "Yerno/Nuera", "Nieto/a", "Abuelo/a", "Otro pariente", "No pariente", "Servicio doméstico puertas adentro" });
-            checkedListBox26.Location = new Point(21, 169);
-            checkedListBox26.MultiColumn = true;
-            checkedListBox26.Name = "checkedListBox26";
-            checkedListBox26.Size = new Size(305, 162);
-            checkedListBox26.TabIndex = 110;
-            // 
             // label108
             // 
             label108.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label108.Location = new Point(58, 110);
+            label108.Location = new Point(58, 100);
             label108.Name = "label108";
             label108.Size = new Size(277, 44);
             label108.TabIndex = 109;
@@ -3165,10 +3316,12 @@
             // 
             // tabPage13
             // 
+            tabPage13.Controls.Add(groupBox30);
+            tabPage13.Controls.Add(groupBox29);
+            tabPage13.Controls.Add(groupBox28);
             tabPage13.Controls.Add(button27);
             tabPage13.Controls.Add(button26);
             tabPage13.Controls.Add(label132);
-            tabPage13.Controls.Add(checkedListBox31);
             tabPage13.Controls.Add(label131);
             tabPage13.Controls.Add(textBox56);
             tabPage13.Controls.Add(label130);
@@ -3178,11 +3331,9 @@
             tabPage13.Controls.Add(button25);
             tabPage13.Controls.Add(textBox55);
             tabPage13.Controls.Add(label126);
-            tabPage13.Controls.Add(checkedListBox30);
             tabPage13.Controls.Add(label125);
             tabPage13.Controls.Add(label124);
             tabPage13.Controls.Add(textBox54);
-            tabPage13.Controls.Add(checkedListBox29);
             tabPage13.Controls.Add(label122);
             tabPage13.Controls.Add(label123);
             tabPage13.Controls.Add(label121);
@@ -3222,18 +3373,6 @@
             label132.TabIndex = 148;
             label132.Text = "-----> PASE A 27";
             // 
-            // checkedListBox31
-            // 
-            checkedListBox31.Anchor = AnchorStyles.None;
-            checkedListBox31.BorderStyle = BorderStyle.None;
-            checkedListBox31.FormattingEnabled = true;
-            checkedListBox31.Items.AddRange(new object[] { "En esta comuna", "En otra comuna" });
-            checkedListBox31.Location = new Point(631, 177);
-            checkedListBox31.MultiColumn = true;
-            checkedListBox31.Name = "checkedListBox31";
-            checkedListBox31.Size = new Size(150, 36);
-            checkedListBox31.TabIndex = 147;
-            // 
             // label131
             // 
             label131.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -3254,7 +3393,7 @@
             // label130
             // 
             label130.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label130.Location = new Point(631, 149);
+            label130.Location = new Point(631, 128);
             label130.Name = "label130";
             label130.Size = new Size(293, 23);
             label130.TabIndex = 144;
@@ -3266,7 +3405,7 @@
             label129.BackColor = Color.LightGray;
             label129.Font = new Font("Segoe UI", 7F);
             label129.ForeColor = Color.DarkCyan;
-            label129.Location = new Point(631, 89);
+            label129.Location = new Point(631, 75);
             label129.Name = "label129";
             label129.Size = new Size(343, 49);
             label129.TabIndex = 143;
@@ -3275,7 +3414,7 @@
             // label127
             // 
             label127.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label127.Location = new Point(681, 50);
+            label127.Location = new Point(665, 39);
             label127.Name = "label127";
             label127.Size = new Size(293, 23);
             label127.TabIndex = 142;
@@ -3288,7 +3427,7 @@
             label128.BackColor = Color.DarkCyan;
             label128.ForeColor = Color.White;
             label128.ImageAlign = ContentAlignment.MiddleLeft;
-            label128.Location = new Point(631, 50);
+            label128.Location = new Point(615, 39);
             label128.Name = "label128";
             label128.Size = new Size(29, 23);
             label128.TabIndex = 141;
@@ -3322,18 +3461,6 @@
             label126.TabIndex = 138;
             label126.Text = "Si es en otro país anote el nombre del país";
             // 
-            // checkedListBox30
-            // 
-            checkedListBox30.Anchor = AnchorStyles.None;
-            checkedListBox30.BorderStyle = BorderStyle.None;
-            checkedListBox30.FormattingEnabled = true;
-            checkedListBox30.Items.AddRange(new object[] { "Venezuela", "Perú", "Haití", "Colombia", "Bolivia", "Argentina", "Otro país" });
-            checkedListBox30.Location = new Point(18, 250);
-            checkedListBox30.MultiColumn = true;
-            checkedListBox30.Name = "checkedListBox30";
-            checkedListBox30.Size = new Size(375, 54);
-            checkedListBox30.TabIndex = 137;
-            // 
             // label125
             // 
             label125.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -3348,7 +3475,7 @@
             // 
             label124.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label124.ForeColor = Color.DarkCyan;
-            label124.Location = new Point(18, 164);
+            label124.Location = new Point(18, 154);
             label124.Name = "label124";
             label124.Size = new Size(329, 20);
             label124.TabIndex = 135;
@@ -3356,22 +3483,10 @@
             // 
             // textBox54
             // 
-            textBox54.Location = new Point(16, 187);
+            textBox54.Location = new Point(16, 177);
             textBox54.Name = "textBox54";
             textBox54.Size = new Size(331, 23);
             textBox54.TabIndex = 134;
-            // 
-            // checkedListBox29
-            // 
-            checkedListBox29.Anchor = AnchorStyles.None;
-            checkedListBox29.BorderStyle = BorderStyle.None;
-            checkedListBox29.FormattingEnabled = true;
-            checkedListBox29.Items.AddRange(new object[] { "Aún no nacía", "En esta comuna", "En otra comuna" });
-            checkedListBox29.Location = new Point(18, 89);
-            checkedListBox29.MultiColumn = true;
-            checkedListBox29.Name = "checkedListBox29";
-            checkedListBox29.Size = new Size(305, 54);
-            checkedListBox29.TabIndex = 133;
             // 
             // label122
             // 
@@ -3410,7 +3525,8 @@
             // 
             // tabPage14
             // 
-            tabPage14.Controls.Add(checkedListBox33);
+            tabPage14.Controls.Add(groupBox27);
+            tabPage14.Controls.Add(groupBox26);
             tabPage14.Controls.Add(label139);
             tabPage14.Controls.Add(label138);
             tabPage14.Controls.Add(textBox58);
@@ -3421,7 +3537,6 @@
             tabPage14.Controls.Add(button28);
             tabPage14.Controls.Add(textBox57);
             tabPage14.Controls.Add(label134);
-            tabPage14.Controls.Add(checkedListBox32);
             tabPage14.Controls.Add(label133);
             tabPage14.Location = new Point(4, 24);
             tabPage14.Name = "tabPage14";
@@ -3430,18 +3545,6 @@
             tabPage14.TabIndex = 13;
             tabPage14.Text = "tabPage14";
             tabPage14.UseVisualStyleBackColor = true;
-            // 
-            // checkedListBox33
-            // 
-            checkedListBox33.Anchor = AnchorStyles.None;
-            checkedListBox33.BorderStyle = BorderStyle.None;
-            checkedListBox33.FormattingEnabled = true;
-            checkedListBox33.Items.AddRange(new object[] { "Entre 2023 y 2024", "Entre 2020 y 2022", "Entre 2017 y 2019", "Entre 2014 y 2016", "Entre 2010 y 2013", "Entre 2000 y 2009", "Entre 1990 y 1999", "Antes de 1990" });
-            checkedListBox33.Location = new Point(631, 172);
-            checkedListBox33.MultiColumn = true;
-            checkedListBox33.Name = "checkedListBox33";
-            checkedListBox33.Size = new Size(343, 72);
-            checkedListBox33.TabIndex = 155;
             // 
             // label139
             // 
@@ -3527,7 +3630,7 @@
             // 
             // textBox57
             // 
-            textBox57.Location = new Point(30, 186);
+            textBox57.Location = new Point(30, 220);
             textBox57.Name = "textBox57";
             textBox57.Size = new Size(331, 23);
             textBox57.TabIndex = 146;
@@ -3536,23 +3639,11 @@
             // 
             label134.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label134.ForeColor = Color.DarkCyan;
-            label134.Location = new Point(30, 163);
+            label134.Location = new Point(30, 197);
             label134.Name = "label134";
             label134.Size = new Size(329, 20);
             label134.TabIndex = 145;
             label134.Text = "Si es en otro país anote el nombre del país";
-            // 
-            // checkedListBox32
-            // 
-            checkedListBox32.Anchor = AnchorStyles.None;
-            checkedListBox32.BorderStyle = BorderStyle.None;
-            checkedListBox32.FormattingEnabled = true;
-            checkedListBox32.Items.AddRange(new object[] { "Venezuela", "Perú", "Haití", "Colombia", "Bolivia", "Argentina", "Otro país" });
-            checkedListBox32.Location = new Point(30, 94);
-            checkedListBox32.MultiColumn = true;
-            checkedListBox32.Name = "checkedListBox32";
-            checkedListBox32.Size = new Size(375, 54);
-            checkedListBox32.TabIndex = 144;
             // 
             // label133
             // 
@@ -3566,20 +3657,20 @@
             // 
             // tabPage15
             // 
+            tabPage15.Controls.Add(groupBox25);
+            tabPage15.Controls.Add(groupBox24);
+            tabPage15.Controls.Add(groupBox23);
             tabPage15.Controls.Add(textBox60);
             tabPage15.Controls.Add(label148);
-            tabPage15.Controls.Add(checkedListBox36);
             tabPage15.Controls.Add(label147);
             tabPage15.Controls.Add(button32);
             tabPage15.Controls.Add(label146);
-            tabPage15.Controls.Add(checkedListBox35);
             tabPage15.Controls.Add(label144);
             tabPage15.Controls.Add(label145);
             tabPage15.Controls.Add(button31);
             tabPage15.Controls.Add(button30);
             tabPage15.Controls.Add(label143);
             tabPage15.Controls.Add(textBox59);
-            tabPage15.Controls.Add(checkedListBox34);
             tabPage15.Controls.Add(label140);
             tabPage15.Controls.Add(label141);
             tabPage15.Controls.Add(label142);
@@ -3608,22 +3699,10 @@
             label148.TabIndex = 168;
             label148.Text = "Especifique";
             // 
-            // checkedListBox36
-            // 
-            checkedListBox36.Anchor = AnchorStyles.None;
-            checkedListBox36.BorderStyle = BorderStyle.None;
-            checkedListBox36.FormattingEnabled = true;
-            checkedListBox36.Items.AddRange(new object[] { "Mapuche", "Aymara", "Rapa Nui", "Atacameño o Lickanantay", "Quechua", "Colla", "Diaguita", "Kawésqar", "Yagán", "Chango", "Selk’nam", "Otro" });
-            checkedListBox36.Location = new Point(650, 165);
-            checkedListBox36.MultiColumn = true;
-            checkedListBox36.Name = "checkedListBox36";
-            checkedListBox36.Size = new Size(277, 108);
-            checkedListBox36.TabIndex = 167;
-            // 
             // label147
             // 
             label147.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label147.Location = new Point(634, 143);
+            label147.Location = new Point(636, 126);
             label147.Name = "label147";
             label147.Size = new Size(293, 19);
             label147.TabIndex = 166;
@@ -3632,7 +3711,7 @@
             // 
             // button32
             // 
-            button32.Location = new Point(884, 108);
+            button32.Location = new Point(879, 88);
             button32.Name = "button32";
             button32.Size = new Size(43, 23);
             button32.TabIndex = 165;
@@ -3642,23 +3721,11 @@
             // 
             // label146
             // 
-            label146.Location = new Point(781, 113);
+            label146.Location = new Point(776, 93);
             label146.Name = "label146";
             label146.Size = new Size(97, 30);
             label146.TabIndex = 164;
             label146.Text = "-----> PASE A 29";
-            // 
-            // checkedListBox35
-            // 
-            checkedListBox35.Anchor = AnchorStyles.None;
-            checkedListBox35.BorderStyle = BorderStyle.None;
-            checkedListBox35.FormattingEnabled = true;
-            checkedListBox35.Items.AddRange(new object[] { "Si", "No" });
-            checkedListBox35.Location = new Point(650, 95);
-            checkedListBox35.MultiColumn = true;
-            checkedListBox35.Name = "checkedListBox35";
-            checkedListBox35.Size = new Size(150, 36);
-            checkedListBox35.TabIndex = 163;
             // 
             // label144
             // 
@@ -3707,7 +3774,7 @@
             // 
             label143.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label143.ForeColor = Color.DarkCyan;
-            label143.Location = new Point(22, 158);
+            label143.Location = new Point(19, 204);
             label143.Name = "label143";
             label143.Size = new Size(279, 20);
             label143.TabIndex = 158;
@@ -3715,21 +3782,10 @@
             // 
             // textBox59
             // 
-            textBox59.Location = new Point(22, 181);
+            textBox59.Location = new Point(19, 227);
             textBox59.Name = "textBox59";
             textBox59.Size = new Size(279, 23);
             textBox59.TabIndex = 157;
-            // 
-            // checkedListBox34
-            // 
-            checkedListBox34.Anchor = AnchorStyles.None;
-            checkedListBox34.BorderStyle = BorderStyle.None;
-            checkedListBox34.FormattingEnabled = true;
-            checkedListBox34.Items.AddRange(new object[] { "Chilena (exclusivamente)", "Chilena y otra (doble nacionalidad)", "Otra nacionalidad" });
-            checkedListBox34.Location = new Point(22, 82);
-            checkedListBox34.Name = "checkedListBox34";
-            checkedListBox34.Size = new Size(266, 108);
-            checkedListBox34.TabIndex = 156;
             // 
             // label140
             // 
@@ -3768,12 +3824,12 @@
             // 
             // tabPage16
             // 
-            tabPage16.Controls.Add(checkedListBox38);
+            tabPage16.Controls.Add(groupBox22);
+            tabPage16.Controls.Add(groupBox21);
             tabPage16.Controls.Add(label153);
             tabPage16.Controls.Add(label154);
             tabPage16.Controls.Add(label155);
             tabPage16.Controls.Add(label152);
-            tabPage16.Controls.Add(checkedListBox37);
             tabPage16.Controls.Add(button34);
             tabPage16.Controls.Add(button33);
             tabPage16.Controls.Add(label149);
@@ -3786,18 +3842,6 @@
             tabPage16.TabIndex = 15;
             tabPage16.Text = "tabPage16";
             tabPage16.UseVisualStyleBackColor = true;
-            // 
-            // checkedListBox38
-            // 
-            checkedListBox38.Anchor = AnchorStyles.None;
-            checkedListBox38.BorderStyle = BorderStyle.None;
-            checkedListBox38.FormattingEnabled = true;
-            checkedListBox38.Items.AddRange(new object[] { "Mapuzugun (lengua mapuche)", "Aymara", "Quechua", "Rapa Nui", "lengua indígena de Chile", "Ckunza", "Kawésqar", "Yagán", "Otra lengua indígena de Chile ", "No habla ni entiende ninguna" });
-            checkedListBox38.Location = new Point(623, 146);
-            checkedListBox38.MultiColumn = true;
-            checkedListBox38.Name = "checkedListBox38";
-            checkedListBox38.Size = new Size(310, 126);
-            checkedListBox38.TabIndex = 167;
             // 
             // label153
             // 
@@ -3844,18 +3888,6 @@
             label152.TabIndex = 163;
             label152.Text = "PARA PERSONAS QUE NACIERON EN OTRO PAÍS";
             label152.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // checkedListBox37
-            // 
-            checkedListBox37.Anchor = AnchorStyles.None;
-            checkedListBox37.BorderStyle = BorderStyle.None;
-            checkedListBox37.FormattingEnabled = true;
-            checkedListBox37.Items.AddRange(new object[] { "Afrodescendiente", "Afrochileno/a", "Negro/a", "Del Pueblo Tribal Afrodescendiente Chileno", "Moreno/a de Azapa", "Negro/a de la Chimba", "Ninguna de las anteriores" });
-            checkedListBox37.Location = new Point(33, 101);
-            checkedListBox37.MultiColumn = true;
-            checkedListBox37.Name = "checkedListBox37";
-            checkedListBox37.Size = new Size(312, 126);
-            checkedListBox37.TabIndex = 162;
             // 
             // button34
             // 
@@ -3913,15 +3945,15 @@
             // 
             // tabPage17
             // 
+            tabPage17.Controls.Add(groupBox20);
+            tabPage17.Controls.Add(groupBox19);
             tabPage17.Controls.Add(label164);
-            tabPage17.Controls.Add(checkedListBox40);
             tabPage17.Controls.Add(label163);
             tabPage17.Controls.Add(label162);
             tabPage17.Controls.Add(label161);
             tabPage17.Controls.Add(label160);
             tabPage17.Controls.Add(textBox61);
             tabPage17.Controls.Add(label156);
-            tabPage17.Controls.Add(checkedListBox39);
             tabPage17.Controls.Add(label157);
             tabPage17.Controls.Add(label158);
             tabPage17.Controls.Add(label159);
@@ -3937,24 +3969,12 @@
             // 
             // label164
             // 
-            label164.Location = new Point(516, 113);
+            label164.Location = new Point(552, 113);
             label164.Name = "label164";
             label164.Size = new Size(218, 136);
             label164.TabIndex = 179;
             label164.Text = resources.GetString("label164.Text");
             label164.TextAlign = ContentAlignment.MiddleLeft;
-            // 
-            // checkedListBox40
-            // 
-            checkedListBox40.Anchor = AnchorStyles.None;
-            checkedListBox40.BorderStyle = BorderStyle.None;
-            checkedListBox40.FormattingEnabled = true;
-            checkedListBox40.Items.AddRange(new object[] { "Si", "Si", "Si", "Si", "Si", "Si", "No", "No", "No", "No", "No", "No" });
-            checkedListBox40.Location = new Point(740, 113);
-            checkedListBox40.MultiColumn = true;
-            checkedListBox40.Name = "checkedListBox40";
-            checkedListBox40.Size = new Size(307, 108);
-            checkedListBox40.TabIndex = 178;
             // 
             // label163
             // 
@@ -4007,7 +4027,7 @@
             // 
             // textBox61
             // 
-            textBox61.Location = new Point(18, 252);
+            textBox61.Location = new Point(17, 286);
             textBox61.Name = "textBox61";
             textBox61.Size = new Size(279, 23);
             textBox61.TabIndex = 174;
@@ -4016,23 +4036,11 @@
             // 
             label156.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label156.ForeColor = Color.DarkCyan;
-            label156.Location = new Point(20, 229);
+            label156.Location = new Point(19, 263);
             label156.Name = "label156";
             label156.Size = new Size(279, 20);
             label156.TabIndex = 173;
             label156.Text = "Especifique";
-            // 
-            // checkedListBox39
-            // 
-            checkedListBox39.Anchor = AnchorStyles.None;
-            checkedListBox39.BorderStyle = BorderStyle.None;
-            checkedListBox39.FormattingEnabled = true;
-            checkedListBox39.Items.AddRange(new object[] { "Católica", "Evangélica o protestante", "Judía", "Musulmana", "Mormón", "Católica Ortodoxa", "Budista", "Hinduista", "Fe Bahá’í", "Testigo de Jehová", "Otra religión o credo", "Ninguna" });
-            checkedListBox39.Location = new Point(20, 79);
-            checkedListBox39.MultiColumn = true;
-            checkedListBox39.Name = "checkedListBox39";
-            checkedListBox39.Size = new Size(310, 126);
-            checkedListBox39.TabIndex = 172;
             // 
             // label157
             // 
@@ -4091,14 +4099,14 @@
             // 
             // tabPage18
             // 
-            tabPage18.Controls.Add(checkedListBox43);
+            tabPage18.Controls.Add(groupBox18);
+            tabPage18.Controls.Add(groupBox17);
+            tabPage18.Controls.Add(groupBox16);
             tabPage18.Controls.Add(button43);
             tabPage18.Controls.Add(label171);
-            tabPage18.Controls.Add(checkedListBox42);
             tabPage18.Controls.Add(label170);
             tabPage18.Controls.Add(label168);
             tabPage18.Controls.Add(label169);
-            tabPage18.Controls.Add(checkedListBox41);
             tabPage18.Controls.Add(label166);
             tabPage18.Controls.Add(label167);
             tabPage18.Controls.Add(label165);
@@ -4112,21 +4120,9 @@
             tabPage18.Text = "tabPage18";
             tabPage18.UseVisualStyleBackColor = true;
             // 
-            // checkedListBox43
-            // 
-            checkedListBox43.Anchor = AnchorStyles.None;
-            checkedListBox43.BorderStyle = BorderStyle.None;
-            checkedListBox43.FormattingEnabled = true;
-            checkedListBox43.Items.AddRange(new object[] { "Educación especial o diferencial", "Educación básica", "Primaria (sistema antiguo)", "Media científico humanista o artística", "Media técnico profesional", "Humanidades (sistema antiguo)", "Técnico comercial, industrial,normalista (sistema antiguo)", "Técnico nivel superior (1 a 3 años) (incluye suboficial FFAA) ", "Profesional (4 años o más) (incluye oficial FFAA)", "Magíster", "Doctorado" });
-            checkedListBox43.Location = new Point(627, 249);
-            checkedListBox43.MultiColumn = true;
-            checkedListBox43.Name = "checkedListBox43";
-            checkedListBox43.Size = new Size(332, 108);
-            checkedListBox43.TabIndex = 173;
-            // 
             // button43
             // 
-            button43.Location = new Point(892, 156);
+            button43.Location = new Point(625, 160);
             button43.Name = "button43";
             button43.Size = new Size(43, 23);
             button43.TabIndex = 172;
@@ -4136,30 +4132,18 @@
             // 
             // label171
             // 
-            label171.Location = new Point(789, 161);
+            label171.Location = new Point(522, 165);
             label171.Name = "label171";
             label171.Size = new Size(97, 30);
             label171.TabIndex = 171;
             label171.Text = "-----> PASE A 37";
-            // 
-            // checkedListBox42
-            // 
-            checkedListBox42.Anchor = AnchorStyles.None;
-            checkedListBox42.BorderStyle = BorderStyle.None;
-            checkedListBox42.FormattingEnabled = true;
-            checkedListBox42.Items.AddRange(new object[] { "Nunca asistió", "Sala cuna", "Jardín infantil", "Prekínder", "Kinder" });
-            checkedListBox42.Location = new Point(627, 145);
-            checkedListBox42.MultiColumn = true;
-            checkedListBox42.Name = "checkedListBox42";
-            checkedListBox42.Size = new Size(114, 108);
-            checkedListBox42.TabIndex = 170;
             // 
             // label170
             // 
             label170.BackColor = Color.LightGray;
             label170.Font = new Font("Segoe UI", 7F);
             label170.ForeColor = Color.DarkCyan;
-            label170.Location = new Point(612, 79);
+            label170.Location = new Point(306, 70);
             label170.Name = "label170";
             label170.Size = new Size(362, 44);
             label170.TabIndex = 169;
@@ -4168,7 +4152,7 @@
             // label168
             // 
             label168.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label168.Location = new Point(658, 42);
+            label168.Location = new Point(352, 33);
             label168.Name = "label168";
             label168.Size = new Size(316, 37);
             label168.TabIndex = 168;
@@ -4181,31 +4165,19 @@
             label169.BackColor = Color.DarkCyan;
             label169.ForeColor = Color.White;
             label169.ImageAlign = ContentAlignment.MiddleLeft;
-            label169.Location = new Point(612, 42);
+            label169.Location = new Point(306, 33);
             label169.Name = "label169";
             label169.Size = new Size(28, 23);
             label169.TabIndex = 167;
             label169.Text = "34.";
             label169.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // checkedListBox41
-            // 
-            checkedListBox41.Anchor = AnchorStyles.None;
-            checkedListBox41.BorderStyle = BorderStyle.None;
-            checkedListBox41.FormattingEnabled = true;
-            checkedListBox41.Items.AddRange(new object[] { "Si", "No" });
-            checkedListBox41.Location = new Point(29, 136);
-            checkedListBox41.MultiColumn = true;
-            checkedListBox41.Name = "checkedListBox41";
-            checkedListBox41.Size = new Size(150, 36);
-            checkedListBox41.TabIndex = 166;
-            // 
             // label166
             // 
             label166.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label166.Location = new Point(55, 42);
+            label166.Location = new Point(53, 33);
             label166.Name = "label166";
-            label166.Size = new Size(291, 74);
+            label166.Size = new Size(220, 83);
             label166.TabIndex = 165;
             label166.Text = "¿Asiste actualmente a la educación formal? \r\nIncluye educación parvularia,\r\nespecial, básica, media y superior";
             label166.TextAlign = ContentAlignment.MiddleLeft;
@@ -4216,7 +4188,7 @@
             label167.BackColor = Color.DarkCyan;
             label167.ForeColor = Color.White;
             label167.ImageAlign = ContentAlignment.MiddleLeft;
-            label167.Location = new Point(9, 42);
+            label167.Location = new Point(7, 33);
             label167.Name = "label167";
             label167.Size = new Size(29, 23);
             label167.TabIndex = 164;
@@ -4257,12 +4229,12 @@
             // 
             // tabPage19
             // 
-            tabPage19.Controls.Add(checkedListBox44);
-            tabPage19.Controls.Add(checkedListBox46);
+            tabPage19.Controls.Add(groupBox15);
+            tabPage19.Controls.Add(groupBox14);
+            tabPage19.Controls.Add(groupBox13);
             tabPage19.Controls.Add(label180);
             tabPage19.Controls.Add(label181);
             tabPage19.Controls.Add(label178);
-            tabPage19.Controls.Add(checkedListBox45);
             tabPage19.Controls.Add(label175);
             tabPage19.Controls.Add(label176);
             tabPage19.Controls.Add(label177);
@@ -4278,30 +4250,6 @@
             tabPage19.TabIndex = 18;
             tabPage19.Text = "tabPage19";
             tabPage19.UseVisualStyleBackColor = true;
-            // 
-            // checkedListBox44
-            // 
-            checkedListBox44.Anchor = AnchorStyles.None;
-            checkedListBox44.BorderStyle = BorderStyle.None;
-            checkedListBox44.FormattingEnabled = true;
-            checkedListBox44.Items.AddRange(new object[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10" });
-            checkedListBox44.Location = new Point(26, 144);
-            checkedListBox44.MultiColumn = true;
-            checkedListBox44.Name = "checkedListBox44";
-            checkedListBox44.Size = new Size(381, 90);
-            checkedListBox44.TabIndex = 173;
-            // 
-            // checkedListBox46
-            // 
-            checkedListBox46.Anchor = AnchorStyles.None;
-            checkedListBox46.BorderStyle = BorderStyle.None;
-            checkedListBox46.FormattingEnabled = true;
-            checkedListBox46.Items.AddRange(new object[] { "Si", "No" });
-            checkedListBox46.Location = new Point(602, 238);
-            checkedListBox46.MultiColumn = true;
-            checkedListBox46.Name = "checkedListBox46";
-            checkedListBox46.Size = new Size(381, 18);
-            checkedListBox46.TabIndex = 182;
             // 
             // label180
             // 
@@ -4337,18 +4285,6 @@
             label178.TabIndex = 178;
             label178.Text = " PARA PERSONAS DE 5 AÑOS O MÁS";
             label178.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // checkedListBox45
-            // 
-            checkedListBox45.Anchor = AnchorStyles.None;
-            checkedListBox45.BorderStyle = BorderStyle.None;
-            checkedListBox45.FormattingEnabled = true;
-            checkedListBox45.Items.AddRange(new object[] { "Si", "No" });
-            checkedListBox45.Location = new Point(600, 113);
-            checkedListBox45.MultiColumn = true;
-            checkedListBox45.Name = "checkedListBox45";
-            checkedListBox45.Size = new Size(381, 18);
-            checkedListBox45.TabIndex = 177;
             // 
             // label175
             // 
@@ -4440,13 +4376,13 @@
             // 
             // tabPage20
             // 
+            tabPage20.Controls.Add(groupBox12);
+            tabPage20.Controls.Add(groupBox11);
             tabPage20.Controls.Add(button45);
             tabPage20.Controls.Add(label189);
-            tabPage20.Controls.Add(checkedListBox48);
             tabPage20.Controls.Add(label188);
             tabPage20.Controls.Add(button44);
             tabPage20.Controls.Add(label187);
-            tabPage20.Controls.Add(checkedListBox47);
             tabPage20.Controls.Add(label186);
             tabPage20.Controls.Add(label185);
             tabPage20.Controls.Add(label182);
@@ -4481,21 +4417,10 @@
             label189.TabIndex = 188;
             label189.Text = "-----> PASE A 40";
             // 
-            // checkedListBox48
-            // 
-            checkedListBox48.Anchor = AnchorStyles.None;
-            checkedListBox48.BorderStyle = BorderStyle.None;
-            checkedListBox48.FormattingEnabled = true;
-            checkedListBox48.Items.AddRange(new object[] { "Tenía empleo, pero estuvo de vacaciones, con licencia, en descanso laboral, etc", "Se encontraba buscando empleo y disponible para trabajar", "Estaba estudiando", "Es jubilado/a, pensionado/a o rentista", "Realizó quehaceres de su hogar", "Otra situación" });
-            checkedListBox48.Location = new Point(24, 222);
-            checkedListBox48.Name = "checkedListBox48";
-            checkedListBox48.Size = new Size(446, 108);
-            checkedListBox48.TabIndex = 187;
-            // 
             // label188
             // 
             label188.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label188.Location = new Point(49, 196);
+            label188.Location = new Point(30, 172);
             label188.Name = "label188";
             label188.Size = new Size(328, 23);
             label188.TabIndex = 186;
@@ -4504,7 +4429,7 @@
             // 
             // button44
             // 
-            button44.Location = new Point(404, 142);
+            button44.Location = new Point(404, 120);
             button44.Name = "button44";
             button44.Size = new Size(43, 23);
             button44.TabIndex = 185;
@@ -4514,27 +4439,16 @@
             // 
             // label187
             // 
-            label187.Location = new Point(301, 147);
+            label187.Location = new Point(301, 125);
             label187.Name = "label187";
             label187.Size = new Size(97, 25);
             label187.TabIndex = 184;
             label187.Text = "-----> PASE A 40";
             // 
-            // checkedListBox47
-            // 
-            checkedListBox47.Anchor = AnchorStyles.None;
-            checkedListBox47.BorderStyle = BorderStyle.None;
-            checkedListBox47.FormattingEnabled = true;
-            checkedListBox47.Items.AddRange(new object[] { "Trabajó por un pago en dinero o especies", "Trabajó sin pago para un familiar.." });
-            checkedListBox47.Location = new Point(24, 147);
-            checkedListBox47.Name = "checkedListBox47";
-            checkedListBox47.Size = new Size(271, 36);
-            checkedListBox47.TabIndex = 183;
-            // 
             // label186
             // 
             label186.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label186.Location = new Point(49, 110);
+            label186.Location = new Point(49, 88);
             label186.Name = "label186";
             label186.Size = new Size(328, 23);
             label186.TabIndex = 182;
@@ -4623,7 +4537,8 @@
             // 
             // tabPage21
             // 
-            tabPage21.Controls.Add(checkedListBox50);
+            tabPage21.Controls.Add(groupBox10);
+            tabPage21.Controls.Add(groupBox9);
             tabPage21.Controls.Add(label193);
             tabPage21.Controls.Add(label194);
             tabPage21.Controls.Add(label196);
@@ -4631,7 +4546,6 @@
             tabPage21.Controls.Add(label192);
             tabPage21.Controls.Add(button47);
             tabPage21.Controls.Add(button46);
-            tabPage21.Controls.Add(checkedListBox49);
             tabPage21.Controls.Add(label190);
             tabPage21.Controls.Add(label191);
             tabPage21.Location = new Point(4, 24);
@@ -4641,17 +4555,6 @@
             tabPage21.TabIndex = 20;
             tabPage21.Text = "tabPage21";
             tabPage21.UseVisualStyleBackColor = true;
-            // 
-            // checkedListBox50
-            // 
-            checkedListBox50.Anchor = AnchorStyles.None;
-            checkedListBox50.BorderStyle = BorderStyle.None;
-            checkedListBox50.FormattingEnabled = true;
-            checkedListBox50.Items.AddRange(new object[] { "Empleador/a o patrón/a: con empleados/as contratados/as", "Trabajador/a independiente o por cuenta propia: sin empleados/as contratados/as", "Asalariado/a, empleado/a u obrero/a para un patrón/a", "Trabajador/a de casa particular o servicio doméstico", "Trabajador/a familiar o personal no remunerado en un negocio de un integrante de su familia" });
-            checkedListBox50.Location = new Point(20, 230);
-            checkedListBox50.Name = "checkedListBox50";
-            checkedListBox50.Size = new Size(814, 108);
-            checkedListBox50.TabIndex = 204;
             // 
             // label193
             // 
@@ -4690,7 +4593,7 @@
             // 
             // button54
             // 
-            button54.Location = new Point(500, 99);
+            button54.Location = new Point(931, 84);
             button54.Name = "button54";
             button54.Size = new Size(43, 23);
             button54.TabIndex = 199;
@@ -4700,7 +4603,7 @@
             // 
             // label192
             // 
-            label192.Location = new Point(397, 99);
+            label192.Location = new Point(828, 84);
             label192.Name = "label192";
             label192.Size = new Size(97, 25);
             label192.TabIndex = 198;
@@ -4725,17 +4628,6 @@
             button46.Text = "Atrás";
             button46.UseVisualStyleBackColor = true;
             button46.Click += button46_Click;
-            // 
-            // checkedListBox49
-            // 
-            checkedListBox49.Anchor = AnchorStyles.None;
-            checkedListBox49.BorderStyle = BorderStyle.None;
-            checkedListBox49.FormattingEnabled = true;
-            checkedListBox49.Items.AddRange(new object[] { "Realizó alguna actividad de al menos una hora para generar ingresos, por ejemplo, hizo algún negocio, “pololo” o una actividad para vender a futuro", "Ayudó o realizó algún servicio sin remuneración para la empresa o negocio familiar (de un integrante de su familia)", "No realizó ninguna actividad por ingresos, ni siquiera por una hora" });
-            checkedListBox49.Location = new Point(20, 60);
-            checkedListBox49.Name = "checkedListBox49";
-            checkedListBox49.Size = new Size(814, 108);
-            checkedListBox49.TabIndex = 195;
             // 
             // label190
             // 
@@ -4929,18 +4821,18 @@
             // 
             // tabPage23
             // 
-            tabPage23.Controls.Add(checkedListBox51);
+            tabPage23.Controls.Add(groupBox8);
+            tabPage23.Controls.Add(groupBox7);
+            tabPage23.Controls.Add(groupBox6);
             tabPage23.Controls.Add(label206);
             tabPage23.Controls.Add(label207);
             tabPage23.Controls.Add(textBox66);
             tabPage23.Controls.Add(label211);
-            tabPage23.Controls.Add(checkedListBox53);
             tabPage23.Controls.Add(label212);
             tabPage23.Controls.Add(textBox65);
             tabPage23.Controls.Add(label210);
             tabPage23.Controls.Add(button55);
             tabPage23.Controls.Add(label205);
-            tabPage23.Controls.Add(checkedListBox52);
             tabPage23.Controls.Add(label208);
             tabPage23.Controls.Add(label209);
             tabPage23.Controls.Add(button51);
@@ -4953,21 +4845,10 @@
             tabPage23.Text = "tabPage23";
             tabPage23.UseVisualStyleBackColor = true;
             // 
-            // checkedListBox51
-            // 
-            checkedListBox51.Anchor = AnchorStyles.None;
-            checkedListBox51.BorderStyle = BorderStyle.None;
-            checkedListBox51.FormattingEnabled = true;
-            checkedListBox51.Items.AddRange(new object[] { "Auto particular", "Transporte público (bus, micro, metro, tren, taxi, colectivo)", "Caminando", "Bicicleta (incluye scooter)", "Motocicleta", "Caballo, lancha o bote", "Otro" });
-            checkedListBox51.Location = new Point(567, 72);
-            checkedListBox51.Name = "checkedListBox51";
-            checkedListBox51.Size = new Size(410, 126);
-            checkedListBox51.TabIndex = 213;
-            // 
             // label206
             // 
             label206.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label206.Location = new Point(598, 32);
+            label206.Location = new Point(598, 23);
             label206.Name = "label206";
             label206.Size = new Size(359, 37);
             label206.TabIndex = 212;
@@ -4980,7 +4861,7 @@
             label207.BackColor = Color.DarkCyan;
             label207.ForeColor = Color.White;
             label207.ImageAlign = ContentAlignment.MiddleLeft;
-            label207.Location = new Point(552, 23);
+            label207.Location = new Point(552, 14);
             label207.Name = "label207";
             label207.Size = new Size(39, 23);
             label207.TabIndex = 211;
@@ -4989,7 +4870,7 @@
             // 
             // textBox66
             // 
-            textBox66.Location = new Point(27, 330);
+            textBox66.Location = new Point(27, 337);
             textBox66.Name = "textBox66";
             textBox66.Size = new Size(331, 23);
             textBox66.TabIndex = 210;
@@ -4998,23 +4879,11 @@
             // 
             label211.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label211.ForeColor = Color.DarkCyan;
-            label211.Location = new Point(27, 307);
+            label211.Location = new Point(27, 314);
             label211.Name = "label211";
             label211.Size = new Size(329, 20);
             label211.TabIndex = 209;
             label211.Text = "Anote el nombre del país";
-            // 
-            // checkedListBox53
-            // 
-            checkedListBox53.Anchor = AnchorStyles.None;
-            checkedListBox53.BorderStyle = BorderStyle.None;
-            checkedListBox53.FormattingEnabled = true;
-            checkedListBox53.Items.AddRange(new object[] { "Venezuela", "Perú", "Haití", "Colombia", "Bolivia", "Argentina", "Otro país", "Varias comunas o países" });
-            checkedListBox53.Location = new Point(27, 238);
-            checkedListBox53.MultiColumn = true;
-            checkedListBox53.Name = "checkedListBox53";
-            checkedListBox53.Size = new Size(377, 54);
-            checkedListBox53.TabIndex = 208;
             // 
             // label212
             // 
@@ -5028,7 +4897,7 @@
             // 
             // textBox65
             // 
-            textBox65.Location = new Point(27, 162);
+            textBox65.Location = new Point(27, 168);
             textBox65.Name = "textBox65";
             textBox65.Size = new Size(331, 23);
             textBox65.TabIndex = 206;
@@ -5037,7 +4906,7 @@
             // 
             label210.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label210.ForeColor = Color.DarkCyan;
-            label210.Location = new Point(27, 139);
+            label210.Location = new Point(27, 145);
             label210.Name = "label210";
             label210.Size = new Size(329, 20);
             label210.TabIndex = 205;
@@ -5045,7 +4914,7 @@
             // 
             // button55
             // 
-            button55.Location = new Point(379, 72);
+            button55.Location = new Point(491, 68);
             button55.Name = "button55";
             button55.Size = new Size(43, 23);
             button55.TabIndex = 204;
@@ -5055,27 +4924,16 @@
             // 
             // label205
             // 
-            label205.Location = new Point(276, 72);
+            label205.Location = new Point(388, 68);
             label205.Name = "label205";
             label205.Size = new Size(97, 12);
             label205.TabIndex = 203;
             label205.Text = "-----> PASE A 46";
             // 
-            // checkedListBox52
-            // 
-            checkedListBox52.Anchor = AnchorStyles.None;
-            checkedListBox52.BorderStyle = BorderStyle.None;
-            checkedListBox52.FormattingEnabled = true;
-            checkedListBox52.Items.AddRange(new object[] { "En su comuna, en la vivienda donde reside", "En su comuna, fuera de la vivienda donde reside", "En otra comuna..." });
-            checkedListBox52.Location = new Point(27, 72);
-            checkedListBox52.Name = "checkedListBox52";
-            checkedListBox52.Size = new Size(324, 54);
-            checkedListBox52.TabIndex = 202;
-            // 
             // label208
             // 
             label208.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label208.Location = new Point(58, 32);
+            label208.Location = new Point(58, 23);
             label208.Name = "label208";
             label208.Size = new Size(328, 23);
             label208.TabIndex = 201;
@@ -5088,7 +4946,7 @@
             label209.BackColor = Color.DarkCyan;
             label209.ForeColor = Color.White;
             label209.ImageAlign = ContentAlignment.MiddleLeft;
-            label209.Location = new Point(12, 23);
+            label209.Location = new Point(13, 14);
             label209.Name = "label209";
             label209.Size = new Size(39, 23);
             label209.TabIndex = 200;
@@ -5117,23 +4975,24 @@
             // 
             // tabPage24
             // 
+            tabPage24.Controls.Add(groupBox5);
+            tabPage24.Controls.Add(groupBox4);
+            tabPage24.Controls.Add(groupBox3);
+            tabPage24.Controls.Add(groupBox2);
             tabPage24.Controls.Add(label243);
             tabPage24.Controls.Add(textBox75);
             tabPage24.Controls.Add(label242);
             tabPage24.Controls.Add(textBox74);
-            tabPage24.Controls.Add(checkedListBox58);
             tabPage24.Controls.Add(label241);
             tabPage24.Controls.Add(label219);
             tabPage24.Controls.Add(label239);
             tabPage24.Controls.Add(label240);
-            tabPage24.Controls.Add(checkedListBox56);
             tabPage24.Controls.Add(textBox72);
             tabPage24.Controls.Add(label229);
             tabPage24.Controls.Add(button58);
             tabPage24.Controls.Add(label228);
             tabPage24.Controls.Add(button57);
             tabPage24.Controls.Add(label227);
-            tabPage24.Controls.Add(checkedListBox55);
             tabPage24.Controls.Add(label226);
             tabPage24.Controls.Add(label224);
             tabPage24.Controls.Add(label225);
@@ -5149,7 +5008,6 @@
             tabPage24.Controls.Add(textBox68);
             tabPage24.Controls.Add(label214);
             tabPage24.Controls.Add(textBox67);
-            tabPage24.Controls.Add(checkedListBox54);
             tabPage24.Controls.Add(label215);
             tabPage24.Controls.Add(label216);
             tabPage24.Controls.Add(label213);
@@ -5192,18 +5050,6 @@
             textBox74.Name = "textBox74";
             textBox74.Size = new Size(119, 23);
             textBox74.TabIndex = 240;
-            // 
-            // checkedListBox58
-            // 
-            checkedListBox58.Anchor = AnchorStyles.None;
-            checkedListBox58.BorderStyle = BorderStyle.None;
-            checkedListBox58.FormattingEnabled = true;
-            checkedListBox58.Items.AddRange(new object[] { "Ninguno" });
-            checkedListBox58.Location = new Point(27, 248);
-            checkedListBox58.MultiColumn = true;
-            checkedListBox58.Name = "checkedListBox58";
-            checkedListBox58.Size = new Size(86, 18);
-            checkedListBox58.TabIndex = 239;
             // 
             // label241
             // 
@@ -5249,20 +5095,9 @@
             label240.Text = "47.";
             label240.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // checkedListBox56
-            // 
-            checkedListBox56.Anchor = AnchorStyles.None;
-            checkedListBox56.BorderStyle = BorderStyle.None;
-            checkedListBox56.FormattingEnabled = true;
-            checkedListBox56.Items.AddRange(new object[] { "Prefiere no responder", "No sabe" });
-            checkedListBox56.Location = new Point(590, 334);
-            checkedListBox56.Name = "checkedListBox56";
-            checkedListBox56.Size = new Size(145, 54);
-            checkedListBox56.TabIndex = 234;
-            // 
             // textBox72
             // 
-            textBox72.Location = new Point(590, 290);
+            textBox72.Location = new Point(592, 309);
             textBox72.Name = "textBox72";
             textBox72.Size = new Size(331, 23);
             textBox72.TabIndex = 233;
@@ -5271,7 +5106,7 @@
             // 
             label229.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label229.ForeColor = Color.DarkCyan;
-            label229.Location = new Point(590, 267);
+            label229.Location = new Point(592, 286);
             label229.Name = "label229";
             label229.Size = new Size(329, 20);
             label229.TabIndex = 232;
@@ -5279,7 +5114,7 @@
             // 
             // button58
             // 
-            button58.Location = new Point(813, 199);
+            button58.Location = new Point(878, 198);
             button58.Name = "button58";
             button58.Size = new Size(43, 30);
             button58.TabIndex = 231;
@@ -5289,7 +5124,7 @@
             // 
             // label228
             // 
-            label228.Location = new Point(710, 204);
+            label228.Location = new Point(775, 203);
             label228.Name = "label228";
             label228.Size = new Size(97, 19);
             label228.TabIndex = 230;
@@ -5297,7 +5132,7 @@
             // 
             // button57
             // 
-            button57.Location = new Point(813, 137);
+            button57.Location = new Point(878, 136);
             button57.Name = "button57";
             button57.Size = new Size(43, 28);
             button57.TabIndex = 229;
@@ -5307,23 +5142,11 @@
             // 
             // label227
             // 
-            label227.Location = new Point(710, 144);
+            label227.Location = new Point(775, 143);
             label227.Name = "label227";
             label227.Size = new Size(97, 22);
             label227.TabIndex = 228;
             label227.Text = "-----> PASE A 50";
-            // 
-            // checkedListBox55
-            // 
-            checkedListBox55.Anchor = AnchorStyles.None;
-            checkedListBox55.BorderStyle = BorderStyle.None;
-            checkedListBox55.FormattingEnabled = true;
-            checkedListBox55.Items.AddRange(new object[] { "Masculino", "Femenino ", "Transmasculino", "Transfemenino", "No binario", "Otro [No leer]" });
-            checkedListBox55.Location = new Point(590, 138);
-            checkedListBox55.MultiColumn = true;
-            checkedListBox55.Name = "checkedListBox55";
-            checkedListBox55.Size = new Size(150, 126);
-            checkedListBox55.TabIndex = 227;
             // 
             // label226
             // 
@@ -5456,18 +5279,6 @@
             textBox67.Size = new Size(67, 23);
             textBox67.TabIndex = 211;
             // 
-            // checkedListBox54
-            // 
-            checkedListBox54.Anchor = AnchorStyles.None;
-            checkedListBox54.BorderStyle = BorderStyle.None;
-            checkedListBox54.FormattingEnabled = true;
-            checkedListBox54.Items.AddRange(new object[] { "Ninguno" });
-            checkedListBox54.Location = new Point(27, 53);
-            checkedListBox54.MultiColumn = true;
-            checkedListBox54.Name = "checkedListBox54";
-            checkedListBox54.Size = new Size(86, 18);
-            checkedListBox54.TabIndex = 210;
-            // 
             // label215
             // 
             label215.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
@@ -5521,11 +5332,11 @@
             // 
             // tabPage25
             // 
+            tabPage25.Controls.Add(groupBox1);
             tabPage25.Controls.Add(label233);
             tabPage25.Controls.Add(button60);
             tabPage25.Controls.Add(button59);
             tabPage25.Controls.Add(label232);
-            tabPage25.Controls.Add(checkedListBox57);
             tabPage25.Controls.Add(label230);
             tabPage25.Controls.Add(label231);
             tabPage25.Location = new Point(4, 24);
@@ -5538,7 +5349,7 @@
             // 
             // label233
             // 
-            label233.Location = new Point(7, 191);
+            label233.Location = new Point(10, 227);
             label233.Name = "label233";
             label233.Size = new Size(973, 38);
             label233.TabIndex = 232;
@@ -5571,24 +5382,12 @@
             label232.Font = new Font("Segoe UI", 12F);
             label232.ForeColor = Color.White;
             label232.ImageAlign = ContentAlignment.MiddleLeft;
-            label232.Location = new Point(0, 149);
+            label232.Location = new Point(3, 185);
             label232.Name = "label232";
             label232.Size = new Size(983, 29);
             label232.TabIndex = 229;
             label232.Text = "DEFINICIÓN DE RESIDENCIA HABITUAL";
             label232.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // checkedListBox57
-            // 
-            checkedListBox57.Anchor = AnchorStyles.None;
-            checkedListBox57.BorderStyle = BorderStyle.None;
-            checkedListBox57.FormattingEnabled = true;
-            checkedListBox57.Items.AddRange(new object[] { "Sí", "No", "Prefiere no responder", "No sabe" });
-            checkedListBox57.Location = new Point(30, 68);
-            checkedListBox57.MultiColumn = true;
-            checkedListBox57.Name = "checkedListBox57";
-            checkedListBox57.Size = new Size(150, 90);
-            checkedListBox57.TabIndex = 228;
             // 
             // label230
             // 
@@ -5802,6 +5601,2980 @@
             label1.Size = new Size(985, 177);
             label1.TabIndex = 0;
             // 
+            // groupBox1
+            // 
+            groupBox1.Controls.Add(radioButton4);
+            groupBox1.Controls.Add(radioButton3);
+            groupBox1.Controls.Add(radioButton2);
+            groupBox1.Controls.Add(radioButton1);
+            groupBox1.Location = new Point(48, 60);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(166, 114);
+            groupBox1.TabIndex = 233;
+            groupBox1.TabStop = false;
+            // 
+            // radioButton1
+            // 
+            radioButton1.AutoSize = true;
+            radioButton1.Location = new Point(6, 11);
+            radioButton1.Name = "radioButton1";
+            radioButton1.Size = new Size(34, 19);
+            radioButton1.TabIndex = 0;
+            radioButton1.TabStop = true;
+            radioButton1.Text = "Si";
+            radioButton1.UseVisualStyleBackColor = true;
+            radioButton1.CheckedChanged += radioButton1_CheckedChanged;
+            // 
+            // radioButton2
+            // 
+            radioButton2.AutoSize = true;
+            radioButton2.Location = new Point(6, 36);
+            radioButton2.Name = "radioButton2";
+            radioButton2.Size = new Size(41, 19);
+            radioButton2.TabIndex = 1;
+            radioButton2.TabStop = true;
+            radioButton2.Text = "No";
+            radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton3
+            // 
+            radioButton3.AutoSize = true;
+            radioButton3.Location = new Point(6, 62);
+            radioButton3.Name = "radioButton3";
+            radioButton3.Size = new Size(138, 19);
+            radioButton3.TabIndex = 2;
+            radioButton3.TabStop = true;
+            radioButton3.Text = "Prefiere no responder";
+            radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // radioButton4
+            // 
+            radioButton4.AutoSize = true;
+            radioButton4.Location = new Point(6, 87);
+            radioButton4.Name = "radioButton4";
+            radioButton4.Size = new Size(68, 19);
+            radioButton4.TabIndex = 3;
+            radioButton4.TabStop = true;
+            radioButton4.Text = "No sabe";
+            radioButton4.UseVisualStyleBackColor = true;
+            // 
+            // groupBox2
+            // 
+            groupBox2.Controls.Add(radioButton10);
+            groupBox2.Controls.Add(radioButton9);
+            groupBox2.Controls.Add(radioButton5);
+            groupBox2.Controls.Add(radioButton6);
+            groupBox2.Controls.Add(radioButton7);
+            groupBox2.Controls.Add(radioButton8);
+            groupBox2.Location = new Point(603, 124);
+            groupBox2.Name = "groupBox2";
+            groupBox2.Size = new Size(166, 159);
+            groupBox2.TabIndex = 244;
+            groupBox2.TabStop = false;
+            // 
+            // radioButton5
+            // 
+            radioButton5.AutoSize = true;
+            radioButton5.Location = new Point(6, 87);
+            radioButton5.Name = "radioButton5";
+            radioButton5.Size = new Size(96, 19);
+            radioButton5.TabIndex = 3;
+            radioButton5.TabStop = true;
+            radioButton5.Text = "Trasfemenino";
+            radioButton5.UseVisualStyleBackColor = true;
+            // 
+            // radioButton6
+            // 
+            radioButton6.AutoSize = true;
+            radioButton6.Location = new Point(6, 62);
+            radioButton6.Name = "radioButton6";
+            radioButton6.Size = new Size(107, 19);
+            radioButton6.TabIndex = 2;
+            radioButton6.TabStop = true;
+            radioButton6.Text = "Transmasculino";
+            radioButton6.UseVisualStyleBackColor = true;
+            // 
+            // radioButton7
+            // 
+            radioButton7.AutoSize = true;
+            radioButton7.Location = new Point(6, 36);
+            radioButton7.Name = "radioButton7";
+            radioButton7.Size = new Size(78, 19);
+            radioButton7.TabIndex = 1;
+            radioButton7.TabStop = true;
+            radioButton7.Text = "Femenino";
+            radioButton7.UseVisualStyleBackColor = true;
+            // 
+            // radioButton8
+            // 
+            radioButton8.AutoSize = true;
+            radioButton8.Location = new Point(6, 11);
+            radioButton8.Name = "radioButton8";
+            radioButton8.Size = new Size(80, 19);
+            radioButton8.TabIndex = 0;
+            radioButton8.TabStop = true;
+            radioButton8.Text = "Masculino";
+            radioButton8.UseVisualStyleBackColor = true;
+            // 
+            // radioButton9
+            // 
+            radioButton9.AutoSize = true;
+            radioButton9.Location = new Point(6, 112);
+            radioButton9.Name = "radioButton9";
+            radioButton9.Size = new Size(81, 19);
+            radioButton9.TabIndex = 4;
+            radioButton9.TabStop = true;
+            radioButton9.Text = "No binario";
+            radioButton9.UseVisualStyleBackColor = true;
+            // 
+            // radioButton10
+            // 
+            radioButton10.AutoSize = true;
+            radioButton10.Location = new Point(6, 137);
+            radioButton10.Name = "radioButton10";
+            radioButton10.Size = new Size(49, 19);
+            radioButton10.TabIndex = 5;
+            radioButton10.TabStop = true;
+            radioButton10.Text = "Otro";
+            radioButton10.UseVisualStyleBackColor = true;
+            // 
+            // groupBox3
+            // 
+            groupBox3.Controls.Add(radioButton15);
+            groupBox3.Controls.Add(radioButton16);
+            groupBox3.Location = new Point(603, 353);
+            groupBox3.Name = "groupBox3";
+            groupBox3.Size = new Size(166, 61);
+            groupBox3.TabIndex = 245;
+            groupBox3.TabStop = false;
+            // 
+            // radioButton15
+            // 
+            radioButton15.AutoSize = true;
+            radioButton15.Location = new Point(6, 36);
+            radioButton15.Name = "radioButton15";
+            radioButton15.Size = new Size(68, 19);
+            radioButton15.TabIndex = 1;
+            radioButton15.TabStop = true;
+            radioButton15.Text = "No sabe";
+            radioButton15.UseVisualStyleBackColor = true;
+            // 
+            // radioButton16
+            // 
+            radioButton16.AutoSize = true;
+            radioButton16.Location = new Point(6, 11);
+            radioButton16.Name = "radioButton16";
+            radioButton16.Size = new Size(138, 19);
+            radioButton16.TabIndex = 0;
+            radioButton16.TabStop = true;
+            radioButton16.Text = "Prefiere no responder";
+            radioButton16.UseVisualStyleBackColor = true;
+            // 
+            // groupBox4
+            // 
+            groupBox4.Controls.Add(radioButton12);
+            groupBox4.Location = new Point(26, 236);
+            groupBox4.Name = "groupBox4";
+            groupBox4.Size = new Size(87, 42);
+            groupBox4.TabIndex = 246;
+            groupBox4.TabStop = false;
+            // 
+            // radioButton12
+            // 
+            radioButton12.AutoSize = true;
+            radioButton12.Location = new Point(6, 11);
+            radioButton12.Name = "radioButton12";
+            radioButton12.Size = new Size(72, 19);
+            radioButton12.TabIndex = 0;
+            radioButton12.TabStop = true;
+            radioButton12.Text = "Ninguno";
+            radioButton12.UseVisualStyleBackColor = true;
+            // 
+            // groupBox5
+            // 
+            groupBox5.Controls.Add(radioButton11);
+            groupBox5.Location = new Point(17, 43);
+            groupBox5.Name = "groupBox5";
+            groupBox5.Size = new Size(87, 42);
+            groupBox5.TabIndex = 247;
+            groupBox5.TabStop = false;
+            // 
+            // radioButton11
+            // 
+            radioButton11.AutoSize = true;
+            radioButton11.Location = new Point(6, 11);
+            radioButton11.Name = "radioButton11";
+            radioButton11.Size = new Size(72, 19);
+            radioButton11.TabIndex = 0;
+            radioButton11.TabStop = true;
+            radioButton11.Text = "Ninguno";
+            radioButton11.UseVisualStyleBackColor = true;
+            // 
+            // groupBox6
+            // 
+            groupBox6.Controls.Add(radioButton21);
+            groupBox6.Controls.Add(radioButton20);
+            groupBox6.Controls.Add(radioButton19);
+            groupBox6.Controls.Add(radioButton18);
+            groupBox6.Controls.Add(radioButton17);
+            groupBox6.Controls.Add(radioButton14);
+            groupBox6.Controls.Add(radioButton13);
+            groupBox6.Location = new Point(575, 82);
+            groupBox6.Name = "groupBox6";
+            groupBox6.Size = new Size(382, 187);
+            groupBox6.TabIndex = 247;
+            groupBox6.TabStop = false;
+            // 
+            // radioButton13
+            // 
+            radioButton13.AutoSize = true;
+            radioButton13.Location = new Point(6, 11);
+            radioButton13.Name = "radioButton13";
+            radioButton13.Size = new Size(104, 19);
+            radioButton13.TabIndex = 0;
+            radioButton13.TabStop = true;
+            radioButton13.Text = "Auto particular";
+            radioButton13.UseVisualStyleBackColor = true;
+            // 
+            // radioButton14
+            // 
+            radioButton14.AutoSize = true;
+            radioButton14.Location = new Point(6, 36);
+            radioButton14.Name = "radioButton14";
+            radioButton14.Size = new Size(334, 19);
+            radioButton14.TabIndex = 1;
+            radioButton14.TabStop = true;
+            radioButton14.Text = "Transporte público (bus, micro, metro, tren, taxi, colectivo)";
+            radioButton14.UseVisualStyleBackColor = true;
+            // 
+            // radioButton17
+            // 
+            radioButton17.AutoSize = true;
+            radioButton17.Location = new Point(6, 61);
+            radioButton17.Name = "radioButton17";
+            radioButton17.Size = new Size(87, 19);
+            radioButton17.TabIndex = 2;
+            radioButton17.TabStop = true;
+            radioButton17.Text = "Caminando";
+            radioButton17.UseVisualStyleBackColor = true;
+            // 
+            // radioButton18
+            // 
+            radioButton18.AutoSize = true;
+            radioButton18.Location = new Point(6, 86);
+            radioButton18.Name = "radioButton18";
+            radioButton18.Size = new Size(160, 19);
+            radioButton18.TabIndex = 3;
+            radioButton18.TabStop = true;
+            radioButton18.Text = "Bicicleta (incluye scooter)";
+            radioButton18.UseVisualStyleBackColor = true;
+            // 
+            // radioButton19
+            // 
+            radioButton19.AutoSize = true;
+            radioButton19.Location = new Point(6, 111);
+            radioButton19.Name = "radioButton19";
+            radioButton19.Size = new Size(88, 19);
+            radioButton19.TabIndex = 4;
+            radioButton19.TabStop = true;
+            radioButton19.Text = "Motocicleta";
+            radioButton19.UseVisualStyleBackColor = true;
+            // 
+            // radioButton20
+            // 
+            radioButton20.AutoSize = true;
+            radioButton20.Location = new Point(6, 136);
+            radioButton20.Name = "radioButton20";
+            radioButton20.Size = new Size(143, 19);
+            radioButton20.TabIndex = 5;
+            radioButton20.TabStop = true;
+            radioButton20.Text = "Caballo, lancha o bote";
+            radioButton20.UseVisualStyleBackColor = true;
+            // 
+            // radioButton21
+            // 
+            radioButton21.AutoSize = true;
+            radioButton21.Location = new Point(6, 161);
+            radioButton21.Name = "radioButton21";
+            radioButton21.Size = new Size(49, 19);
+            radioButton21.TabIndex = 6;
+            radioButton21.TabStop = true;
+            radioButton21.Text = "Otro";
+            radioButton21.UseVisualStyleBackColor = true;
+            // 
+            // groupBox7
+            // 
+            groupBox7.Controls.Add(radioButton29);
+            groupBox7.Controls.Add(radioButton22);
+            groupBox7.Controls.Add(radioButton23);
+            groupBox7.Controls.Add(radioButton24);
+            groupBox7.Controls.Add(radioButton25);
+            groupBox7.Controls.Add(radioButton26);
+            groupBox7.Controls.Add(radioButton27);
+            groupBox7.Controls.Add(radioButton28);
+            groupBox7.Location = new Point(27, 218);
+            groupBox7.Name = "groupBox7";
+            groupBox7.Size = new Size(359, 93);
+            groupBox7.TabIndex = 248;
+            groupBox7.TabStop = false;
+            // 
+            // radioButton22
+            // 
+            radioButton22.AutoSize = true;
+            radioButton22.Location = new Point(185, 11);
+            radioButton22.Name = "radioButton22";
+            radioButton22.Size = new Size(73, 19);
+            radioButton22.TabIndex = 6;
+            radioButton22.TabStop = true;
+            radioButton22.Text = "Otro país";
+            radioButton22.UseVisualStyleBackColor = true;
+            // 
+            // radioButton23
+            // 
+            radioButton23.AutoSize = true;
+            radioButton23.Location = new Point(89, 61);
+            radioButton23.Name = "radioButton23";
+            radioButton23.Size = new Size(77, 19);
+            radioButton23.TabIndex = 5;
+            radioButton23.TabStop = true;
+            radioButton23.Text = "Argentina";
+            radioButton23.UseVisualStyleBackColor = true;
+            // 
+            // radioButton24
+            // 
+            radioButton24.AutoSize = true;
+            radioButton24.Location = new Point(89, 36);
+            radioButton24.Name = "radioButton24";
+            radioButton24.Size = new Size(60, 19);
+            radioButton24.TabIndex = 4;
+            radioButton24.TabStop = true;
+            radioButton24.Text = "Bolivia";
+            radioButton24.UseVisualStyleBackColor = true;
+            // 
+            // radioButton25
+            // 
+            radioButton25.AutoSize = true;
+            radioButton25.Location = new Point(89, 11);
+            radioButton25.Name = "radioButton25";
+            radioButton25.Size = new Size(77, 19);
+            radioButton25.TabIndex = 3;
+            radioButton25.TabStop = true;
+            radioButton25.Text = "Colombia";
+            radioButton25.UseVisualStyleBackColor = true;
+            // 
+            // radioButton26
+            // 
+            radioButton26.AutoSize = true;
+            radioButton26.Location = new Point(6, 61);
+            radioButton26.Name = "radioButton26";
+            radioButton26.Size = new Size(50, 19);
+            radioButton26.TabIndex = 2;
+            radioButton26.TabStop = true;
+            radioButton26.Text = "Haití";
+            radioButton26.UseVisualStyleBackColor = true;
+            // 
+            // radioButton27
+            // 
+            radioButton27.AutoSize = true;
+            radioButton27.Location = new Point(6, 36);
+            radioButton27.Name = "radioButton27";
+            radioButton27.Size = new Size(49, 19);
+            radioButton27.TabIndex = 1;
+            radioButton27.TabStop = true;
+            radioButton27.Text = "Perú";
+            radioButton27.UseVisualStyleBackColor = true;
+            // 
+            // radioButton28
+            // 
+            radioButton28.AutoSize = true;
+            radioButton28.Location = new Point(6, 11);
+            radioButton28.Name = "radioButton28";
+            radioButton28.Size = new Size(77, 19);
+            radioButton28.TabIndex = 0;
+            radioButton28.TabStop = true;
+            radioButton28.Text = "Venezuela";
+            radioButton28.UseVisualStyleBackColor = true;
+            // 
+            // radioButton29
+            // 
+            radioButton29.AutoSize = true;
+            radioButton29.Location = new Point(185, 36);
+            radioButton29.Name = "radioButton29";
+            radioButton29.Size = new Size(152, 19);
+            radioButton29.TabIndex = 7;
+            radioButton29.TabStop = true;
+            radioButton29.Text = "Varias comunas o países";
+            radioButton29.UseVisualStyleBackColor = true;
+            // 
+            // radioButton37
+            // 
+            radioButton37.AutoSize = true;
+            radioButton37.Location = new Point(6, 11);
+            radioButton37.Name = "radioButton37";
+            radioButton37.Size = new Size(249, 19);
+            radioButton37.TabIndex = 0;
+            radioButton37.TabStop = true;
+            radioButton37.Text = "En su comuna, en la vivienda donde reside";
+            radioButton37.UseVisualStyleBackColor = true;
+            // 
+            // radioButton36
+            // 
+            radioButton36.AutoSize = true;
+            radioButton36.Location = new Point(6, 36);
+            radioButton36.Name = "radioButton36";
+            radioButton36.Size = new Size(279, 19);
+            radioButton36.TabIndex = 1;
+            radioButton36.TabStop = true;
+            radioButton36.Text = "En su comuna, fuera de la vivienda donde reside";
+            radioButton36.UseVisualStyleBackColor = true;
+            // 
+            // radioButton35
+            // 
+            radioButton35.AutoSize = true;
+            radioButton35.Location = new Point(6, 61);
+            radioButton35.Name = "radioButton35";
+            radioButton35.Size = new Size(118, 19);
+            radioButton35.TabIndex = 2;
+            radioButton35.TabStop = true;
+            radioButton35.Text = "En otra comuna...";
+            radioButton35.UseVisualStyleBackColor = true;
+            // 
+            // groupBox8
+            // 
+            groupBox8.Controls.Add(radioButton35);
+            groupBox8.Controls.Add(radioButton36);
+            groupBox8.Controls.Add(radioButton37);
+            groupBox8.Location = new Point(33, 49);
+            groupBox8.Name = "groupBox8";
+            groupBox8.Size = new Size(359, 93);
+            groupBox8.TabIndex = 249;
+            groupBox8.TabStop = false;
+            // 
+            // groupBox9
+            // 
+            groupBox9.Controls.Add(radioButton30);
+            groupBox9.Controls.Add(radioButton31);
+            groupBox9.Controls.Add(radioButton32);
+            groupBox9.Location = new Point(29, 46);
+            groupBox9.Name = "groupBox9";
+            groupBox9.Size = new Size(816, 93);
+            groupBox9.TabIndex = 250;
+            groupBox9.TabStop = false;
+            // 
+            // radioButton30
+            // 
+            radioButton30.AutoSize = true;
+            radioButton30.Location = new Point(6, 61);
+            radioButton30.Name = "radioButton30";
+            radioButton30.Size = new Size(375, 19);
+            radioButton30.TabIndex = 2;
+            radioButton30.TabStop = true;
+            radioButton30.Text = "No realizó ninguna actividad por ingresos, ni siquiera por una hora";
+            radioButton30.UseVisualStyleBackColor = true;
+            // 
+            // radioButton31
+            // 
+            radioButton31.AutoSize = true;
+            radioButton31.Location = new Point(6, 36);
+            radioButton31.Name = "radioButton31";
+            radioButton31.Size = new Size(631, 19);
+            radioButton31.TabIndex = 1;
+            radioButton31.TabStop = true;
+            radioButton31.Text = "Ayudó o realizó algún servicio sin remuneración para la empresa o negocio familiar (de un integrante de su familia)";
+            radioButton31.UseVisualStyleBackColor = true;
+            // 
+            // radioButton32
+            // 
+            radioButton32.AutoSize = true;
+            radioButton32.Location = new Point(6, 11);
+            radioButton32.Name = "radioButton32";
+            radioButton32.Size = new Size(806, 19);
+            radioButton32.TabIndex = 0;
+            radioButton32.TabStop = true;
+            radioButton32.Text = "Realizó alguna actividad de al menos una hora para generar ingresos, por ejemplo, hizo algún negocio, “pololo” o una actividad para vender a futuro";
+            radioButton32.UseVisualStyleBackColor = true;
+            // 
+            // groupBox10
+            // 
+            groupBox10.Controls.Add(radioButton40);
+            groupBox10.Controls.Add(radioButton39);
+            groupBox10.Controls.Add(radioButton33);
+            groupBox10.Controls.Add(radioButton34);
+            groupBox10.Controls.Add(radioButton38);
+            groupBox10.Location = new Point(29, 218);
+            groupBox10.Name = "groupBox10";
+            groupBox10.Size = new Size(528, 148);
+            groupBox10.TabIndex = 251;
+            groupBox10.TabStop = false;
+            // 
+            // radioButton33
+            // 
+            radioButton33.AutoSize = true;
+            radioButton33.Location = new Point(6, 61);
+            radioButton33.Name = "radioButton33";
+            radioButton33.Size = new Size(312, 19);
+            radioButton33.TabIndex = 2;
+            radioButton33.TabStop = true;
+            radioButton33.Text = "Asalariado/a, empleado/a u obrero/a para un patrón/a";
+            radioButton33.UseVisualStyleBackColor = true;
+            // 
+            // radioButton34
+            // 
+            radioButton34.AutoSize = true;
+            radioButton34.Location = new Point(6, 36);
+            radioButton34.Name = "radioButton34";
+            radioButton34.Size = new Size(457, 19);
+            radioButton34.TabIndex = 1;
+            radioButton34.TabStop = true;
+            radioButton34.Text = "Trabajador/a independiente o por cuenta propia: sin empleados/as contratados/as";
+            radioButton34.UseVisualStyleBackColor = true;
+            // 
+            // radioButton38
+            // 
+            radioButton38.AutoSize = true;
+            radioButton38.Location = new Point(6, 12);
+            radioButton38.Name = "radioButton38";
+            radioButton38.Size = new Size(337, 19);
+            radioButton38.TabIndex = 0;
+            radioButton38.TabStop = true;
+            radioButton38.Text = "Empleador/a o patrón/a: con empleados/as contratados/as";
+            radioButton38.UseVisualStyleBackColor = true;
+            // 
+            // radioButton39
+            // 
+            radioButton39.AutoSize = true;
+            radioButton39.Location = new Point(6, 86);
+            radioButton39.Name = "radioButton39";
+            radioButton39.Size = new Size(298, 19);
+            radioButton39.TabIndex = 3;
+            radioButton39.TabStop = true;
+            radioButton39.Text = "Trabajador/a de casa particular o servicio doméstico";
+            radioButton39.UseVisualStyleBackColor = true;
+            // 
+            // radioButton40
+            // 
+            radioButton40.AutoSize = true;
+            radioButton40.Location = new Point(6, 111);
+            radioButton40.Name = "radioButton40";
+            radioButton40.Size = new Size(516, 19);
+            radioButton40.TabIndex = 4;
+            radioButton40.TabStop = true;
+            radioButton40.Text = "Trabajador/a familiar o personal no remunerado en un negocio de un integrante de su familia";
+            radioButton40.UseVisualStyleBackColor = true;
+            // 
+            // groupBox11
+            // 
+            groupBox11.Controls.Add(radioButton46);
+            groupBox11.Controls.Add(radioButton41);
+            groupBox11.Controls.Add(radioButton42);
+            groupBox11.Controls.Add(radioButton43);
+            groupBox11.Controls.Add(radioButton44);
+            groupBox11.Controls.Add(radioButton45);
+            groupBox11.Location = new Point(24, 198);
+            groupBox11.Name = "groupBox11";
+            groupBox11.Size = new Size(458, 163);
+            groupBox11.TabIndex = 252;
+            groupBox11.TabStop = false;
+            // 
+            // radioButton41
+            // 
+            radioButton41.AutoSize = true;
+            radioButton41.Location = new Point(6, 139);
+            radioButton41.Name = "radioButton41";
+            radioButton41.Size = new Size(99, 19);
+            radioButton41.TabIndex = 4;
+            radioButton41.TabStop = true;
+            radioButton41.Text = "Otra situación";
+            radioButton41.UseVisualStyleBackColor = true;
+            // 
+            // radioButton42
+            // 
+            radioButton42.AutoSize = true;
+            radioButton42.Location = new Point(6, 114);
+            radioButton42.Name = "radioButton42";
+            radioButton42.Size = new Size(193, 19);
+            radioButton42.TabIndex = 3;
+            radioButton42.TabStop = true;
+            radioButton42.Text = "Realizó que haceres de su hogar";
+            radioButton42.UseVisualStyleBackColor = true;
+            // 
+            // radioButton43
+            // 
+            radioButton43.AutoSize = true;
+            radioButton43.Location = new Point(6, 89);
+            radioButton43.Name = "radioButton43";
+            radioButton43.Size = new Size(224, 19);
+            radioButton43.TabIndex = 2;
+            radioButton43.TabStop = true;
+            radioButton43.Text = "Es jubilado/a, pensionado/a o rentista";
+            radioButton43.UseVisualStyleBackColor = true;
+            // 
+            // radioButton44
+            // 
+            radioButton44.AutoSize = true;
+            radioButton44.Location = new Point(6, 64);
+            radioButton44.Name = "radioButton44";
+            radioButton44.Size = new Size(121, 19);
+            radioButton44.TabIndex = 1;
+            radioButton44.TabStop = true;
+            radioButton44.Text = "Estaba estudiando";
+            radioButton44.UseVisualStyleBackColor = true;
+            // 
+            // radioButton45
+            // 
+            radioButton45.AutoSize = true;
+            radioButton45.Location = new Point(6, 40);
+            radioButton45.Name = "radioButton45";
+            radioButton45.Size = new Size(334, 19);
+            radioButton45.TabIndex = 0;
+            radioButton45.TabStop = true;
+            radioButton45.Text = "Se encontraba buscando empleo y disponible para trabajar";
+            radioButton45.UseVisualStyleBackColor = true;
+            // 
+            // radioButton46
+            // 
+            radioButton46.AutoSize = true;
+            radioButton46.Location = new Point(6, 15);
+            radioButton46.Name = "radioButton46";
+            radioButton46.Size = new Size(441, 19);
+            radioButton46.TabIndex = 5;
+            radioButton46.TabStop = true;
+            radioButton46.Text = "Tenía empleo, pero estuvo de vacaciones, con licencia, en descanso laboral, etc";
+            radioButton46.UseVisualStyleBackColor = true;
+            // 
+            // groupBox12
+            // 
+            groupBox12.Controls.Add(radioButton47);
+            groupBox12.Controls.Add(radioButton52);
+            groupBox12.Location = new Point(24, 106);
+            groupBox12.Name = "groupBox12";
+            groupBox12.Size = new Size(271, 63);
+            groupBox12.TabIndex = 253;
+            groupBox12.TabStop = false;
+            // 
+            // radioButton47
+            // 
+            radioButton47.AutoSize = true;
+            radioButton47.Location = new Point(6, 13);
+            radioButton47.Name = "radioButton47";
+            radioButton47.Size = new Size(241, 19);
+            radioButton47.TabIndex = 5;
+            radioButton47.TabStop = true;
+            radioButton47.Text = "Trabajó por un pago en dinero o especies";
+            radioButton47.UseVisualStyleBackColor = true;
+            // 
+            // radioButton52
+            // 
+            radioButton52.AutoSize = true;
+            radioButton52.Location = new Point(6, 38);
+            radioButton52.Name = "radioButton52";
+            radioButton52.Size = new Size(206, 19);
+            radioButton52.TabIndex = 0;
+            radioButton52.TabStop = true;
+            radioButton52.Text = "Trabajó sin pago para un familiar...";
+            radioButton52.UseVisualStyleBackColor = true;
+            // 
+            // groupBox13
+            // 
+            groupBox13.Controls.Add(radioButton48);
+            groupBox13.Controls.Add(radioButton49);
+            groupBox13.Location = new Point(602, 100);
+            groupBox13.Name = "groupBox13";
+            groupBox13.Size = new Size(120, 39);
+            groupBox13.TabIndex = 254;
+            groupBox13.TabStop = false;
+            // 
+            // radioButton48
+            // 
+            radioButton48.AutoSize = true;
+            radioButton48.Location = new Point(6, 13);
+            radioButton48.Name = "radioButton48";
+            radioButton48.Size = new Size(34, 19);
+            radioButton48.TabIndex = 5;
+            radioButton48.TabStop = true;
+            radioButton48.Text = "Si";
+            radioButton48.UseVisualStyleBackColor = true;
+            // 
+            // radioButton49
+            // 
+            radioButton49.AutoSize = true;
+            radioButton49.Location = new Point(65, 13);
+            radioButton49.Name = "radioButton49";
+            radioButton49.Size = new Size(41, 19);
+            radioButton49.TabIndex = 0;
+            radioButton49.TabStop = true;
+            radioButton49.Text = "No";
+            radioButton49.UseVisualStyleBackColor = true;
+            // 
+            // groupBox14
+            // 
+            groupBox14.Controls.Add(radioButton50);
+            groupBox14.Controls.Add(radioButton51);
+            groupBox14.Location = new Point(602, 229);
+            groupBox14.Name = "groupBox14";
+            groupBox14.Size = new Size(120, 39);
+            groupBox14.TabIndex = 255;
+            groupBox14.TabStop = false;
+            // 
+            // radioButton50
+            // 
+            radioButton50.AutoSize = true;
+            radioButton50.Location = new Point(6, 13);
+            radioButton50.Name = "radioButton50";
+            radioButton50.Size = new Size(34, 19);
+            radioButton50.TabIndex = 5;
+            radioButton50.TabStop = true;
+            radioButton50.Text = "Si";
+            radioButton50.UseVisualStyleBackColor = true;
+            // 
+            // radioButton51
+            // 
+            radioButton51.AutoSize = true;
+            radioButton51.Location = new Point(65, 13);
+            radioButton51.Name = "radioButton51";
+            radioButton51.Size = new Size(41, 19);
+            radioButton51.TabIndex = 0;
+            radioButton51.TabStop = true;
+            radioButton51.Text = "No";
+            radioButton51.UseVisualStyleBackColor = true;
+            // 
+            // groupBox15
+            // 
+            groupBox15.Controls.Add(radioButton62);
+            groupBox15.Controls.Add(radioButton61);
+            groupBox15.Controls.Add(radioButton60);
+            groupBox15.Controls.Add(radioButton59);
+            groupBox15.Controls.Add(radioButton58);
+            groupBox15.Controls.Add(radioButton57);
+            groupBox15.Controls.Add(radioButton56);
+            groupBox15.Controls.Add(radioButton55);
+            groupBox15.Controls.Add(radioButton53);
+            groupBox15.Controls.Add(radioButton54);
+            groupBox15.Location = new Point(29, 133);
+            groupBox15.Name = "groupBox15";
+            groupBox15.Size = new Size(113, 151);
+            groupBox15.TabIndex = 256;
+            groupBox15.TabStop = false;
+            // 
+            // radioButton53
+            // 
+            radioButton53.AutoSize = true;
+            radioButton53.Location = new Point(6, 13);
+            radioButton53.Name = "radioButton53";
+            radioButton53.Size = new Size(31, 19);
+            radioButton53.TabIndex = 5;
+            radioButton53.TabStop = true;
+            radioButton53.Text = "1";
+            radioButton53.UseVisualStyleBackColor = true;
+            // 
+            // radioButton54
+            // 
+            radioButton54.AutoSize = true;
+            radioButton54.Location = new Point(6, 38);
+            radioButton54.Name = "radioButton54";
+            radioButton54.Size = new Size(31, 19);
+            radioButton54.TabIndex = 0;
+            radioButton54.TabStop = true;
+            radioButton54.Text = "2";
+            radioButton54.UseVisualStyleBackColor = true;
+            // 
+            // radioButton55
+            // 
+            radioButton55.AutoSize = true;
+            radioButton55.Location = new Point(6, 63);
+            radioButton55.Name = "radioButton55";
+            radioButton55.Size = new Size(31, 19);
+            radioButton55.TabIndex = 6;
+            radioButton55.TabStop = true;
+            radioButton55.Text = "3";
+            radioButton55.UseVisualStyleBackColor = true;
+            // 
+            // radioButton56
+            // 
+            radioButton56.AutoSize = true;
+            radioButton56.Location = new Point(6, 88);
+            radioButton56.Name = "radioButton56";
+            radioButton56.Size = new Size(31, 19);
+            radioButton56.TabIndex = 7;
+            radioButton56.TabStop = true;
+            radioButton56.Text = "4";
+            radioButton56.UseVisualStyleBackColor = true;
+            // 
+            // radioButton57
+            // 
+            radioButton57.AutoSize = true;
+            radioButton57.Location = new Point(6, 113);
+            radioButton57.Name = "radioButton57";
+            radioButton57.Size = new Size(31, 19);
+            radioButton57.TabIndex = 8;
+            radioButton57.TabStop = true;
+            radioButton57.Text = "5";
+            radioButton57.UseVisualStyleBackColor = true;
+            // 
+            // radioButton58
+            // 
+            radioButton58.AutoSize = true;
+            radioButton58.Location = new Point(62, 13);
+            radioButton58.Name = "radioButton58";
+            radioButton58.Size = new Size(31, 19);
+            radioButton58.TabIndex = 9;
+            radioButton58.TabStop = true;
+            radioButton58.Text = "6";
+            radioButton58.UseVisualStyleBackColor = true;
+            // 
+            // radioButton59
+            // 
+            radioButton59.AutoSize = true;
+            radioButton59.Location = new Point(62, 38);
+            radioButton59.Name = "radioButton59";
+            radioButton59.Size = new Size(31, 19);
+            radioButton59.TabIndex = 10;
+            radioButton59.TabStop = true;
+            radioButton59.Text = "7";
+            radioButton59.UseVisualStyleBackColor = true;
+            // 
+            // radioButton60
+            // 
+            radioButton60.AutoSize = true;
+            radioButton60.Location = new Point(62, 63);
+            radioButton60.Name = "radioButton60";
+            radioButton60.Size = new Size(31, 19);
+            radioButton60.TabIndex = 11;
+            radioButton60.TabStop = true;
+            radioButton60.Text = "8";
+            radioButton60.UseVisualStyleBackColor = true;
+            // 
+            // radioButton61
+            // 
+            radioButton61.AutoSize = true;
+            radioButton61.Location = new Point(62, 88);
+            radioButton61.Name = "radioButton61";
+            radioButton61.Size = new Size(31, 19);
+            radioButton61.TabIndex = 12;
+            radioButton61.TabStop = true;
+            radioButton61.Text = "9";
+            radioButton61.UseVisualStyleBackColor = true;
+            // 
+            // radioButton62
+            // 
+            radioButton62.AutoSize = true;
+            radioButton62.Location = new Point(62, 113);
+            radioButton62.Name = "radioButton62";
+            radioButton62.Size = new Size(37, 19);
+            radioButton62.TabIndex = 13;
+            radioButton62.TabStop = true;
+            radioButton62.Text = "10";
+            radioButton62.UseVisualStyleBackColor = true;
+            // 
+            // groupBox16
+            // 
+            groupBox16.Controls.Add(radioButton68);
+            groupBox16.Controls.Add(radioButton69);
+            groupBox16.Controls.Add(radioButton70);
+            groupBox16.Controls.Add(radioButton71);
+            groupBox16.Controls.Add(radioButton72);
+            groupBox16.Location = new Point(321, 117);
+            groupBox16.Name = "groupBox16";
+            groupBox16.Size = new Size(195, 88);
+            groupBox16.TabIndex = 257;
+            groupBox16.TabStop = false;
+            // 
+            // radioButton68
+            // 
+            radioButton68.AutoSize = true;
+            radioButton68.Location = new Point(6, 63);
+            radioButton68.Name = "radioButton68";
+            radioButton68.Size = new Size(59, 19);
+            radioButton68.TabIndex = 8;
+            radioButton68.TabStop = true;
+            radioButton68.Text = "Kinder";
+            radioButton68.UseVisualStyleBackColor = true;
+            // 
+            // radioButton69
+            // 
+            radioButton69.AutoSize = true;
+            radioButton69.Location = new Point(117, 13);
+            radioButton69.Name = "radioButton69";
+            radioButton69.Size = new Size(75, 19);
+            radioButton69.TabIndex = 7;
+            radioButton69.TabStop = true;
+            radioButton69.Text = "Prekínder";
+            radioButton69.UseVisualStyleBackColor = true;
+            // 
+            // radioButton70
+            // 
+            radioButton70.AutoSize = true;
+            radioButton70.Location = new Point(6, 38);
+            radioButton70.Name = "radioButton70";
+            radioButton70.Size = new Size(96, 19);
+            radioButton70.TabIndex = 6;
+            radioButton70.TabStop = true;
+            radioButton70.Text = "Jardín infantil";
+            radioButton70.UseVisualStyleBackColor = true;
+            // 
+            // radioButton71
+            // 
+            radioButton71.AutoSize = true;
+            radioButton71.Location = new Point(6, 13);
+            radioButton71.Name = "radioButton71";
+            radioButton71.Size = new Size(96, 19);
+            radioButton71.TabIndex = 5;
+            radioButton71.TabStop = true;
+            radioButton71.Text = "Nunca asistió";
+            radioButton71.UseVisualStyleBackColor = true;
+            // 
+            // radioButton72
+            // 
+            radioButton72.AutoSize = true;
+            radioButton72.Location = new Point(117, 38);
+            radioButton72.Name = "radioButton72";
+            radioButton72.Size = new Size(75, 19);
+            radioButton72.TabIndex = 0;
+            radioButton72.TabStop = true;
+            radioButton72.Text = "Sala cuna";
+            radioButton72.UseVisualStyleBackColor = true;
+            // 
+            // groupBox17
+            // 
+            groupBox17.Controls.Add(radioButton73);
+            groupBox17.Controls.Add(radioButton74);
+            groupBox17.Location = new Point(40, 119);
+            groupBox17.Name = "groupBox17";
+            groupBox17.Size = new Size(120, 39);
+            groupBox17.TabIndex = 258;
+            groupBox17.TabStop = false;
+            // 
+            // radioButton73
+            // 
+            radioButton73.AutoSize = true;
+            radioButton73.Location = new Point(6, 13);
+            radioButton73.Name = "radioButton73";
+            radioButton73.Size = new Size(34, 19);
+            radioButton73.TabIndex = 5;
+            radioButton73.TabStop = true;
+            radioButton73.Text = "Si";
+            radioButton73.UseVisualStyleBackColor = true;
+            // 
+            // radioButton74
+            // 
+            radioButton74.AutoSize = true;
+            radioButton74.Location = new Point(65, 13);
+            radioButton74.Name = "radioButton74";
+            radioButton74.Size = new Size(41, 19);
+            radioButton74.TabIndex = 0;
+            radioButton74.TabStop = true;
+            radioButton74.Text = "No";
+            radioButton74.UseVisualStyleBackColor = true;
+            // 
+            // groupBox18
+            // 
+            groupBox18.Controls.Add(radioButton63);
+            groupBox18.Controls.Add(radioButton75);
+            groupBox18.Controls.Add(radioButton76);
+            groupBox18.Controls.Add(radioButton77);
+            groupBox18.Controls.Add(radioButton78);
+            groupBox18.Controls.Add(radioButton79);
+            groupBox18.Controls.Add(radioButton80);
+            groupBox18.Controls.Add(radioButton81);
+            groupBox18.Controls.Add(radioButton82);
+            groupBox18.Controls.Add(radioButton83);
+            groupBox18.Controls.Add(radioButton84);
+            groupBox18.Location = new Point(321, 198);
+            groupBox18.Name = "groupBox18";
+            groupBox18.Size = new Size(524, 211);
+            groupBox18.TabIndex = 259;
+            groupBox18.TabStop = false;
+            // 
+            // radioButton75
+            // 
+            radioButton75.AutoSize = true;
+            radioButton75.Location = new Point(240, 72);
+            radioButton75.Name = "radioButton75";
+            radioButton75.Size = new Size(81, 19);
+            radioButton75.TabIndex = 13;
+            radioButton75.TabStop = true;
+            radioButton75.Text = "Doctorado";
+            radioButton75.UseVisualStyleBackColor = true;
+            // 
+            // radioButton76
+            // 
+            radioButton76.AutoSize = true;
+            radioButton76.Location = new Point(240, 47);
+            radioButton76.Name = "radioButton76";
+            radioButton76.Size = new Size(71, 19);
+            radioButton76.TabIndex = 12;
+            radioButton76.TabStop = true;
+            radioButton76.Text = "Magíster";
+            radioButton76.UseVisualStyleBackColor = true;
+            // 
+            // radioButton77
+            // 
+            radioButton77.AutoSize = true;
+            radioButton77.Location = new Point(240, 22);
+            radioButton77.Name = "radioButton77";
+            radioButton77.Size = new Size(278, 19);
+            radioButton77.TabIndex = 11;
+            radioButton77.TabStop = true;
+            radioButton77.Text = "Profesional (4 años o más) (incluye oficial FFAA)";
+            radioButton77.UseVisualStyleBackColor = true;
+            // 
+            // radioButton78
+            // 
+            radioButton78.AutoSize = true;
+            radioButton78.Location = new Point(6, 188);
+            radioButton78.Name = "radioButton78";
+            radioButton78.Size = new Size(338, 19);
+            radioButton78.TabIndex = 10;
+            radioButton78.TabStop = true;
+            radioButton78.Text = "Técnico nivel superior (1 a 3 años) (incluye suboficial FFAA) ";
+            radioButton78.UseVisualStyleBackColor = true;
+            // 
+            // radioButton79
+            // 
+            radioButton79.AutoSize = true;
+            radioButton79.Location = new Point(6, 163);
+            radioButton79.Name = "radioButton79";
+            radioButton79.Size = new Size(329, 19);
+            radioButton79.TabIndex = 9;
+            radioButton79.TabStop = true;
+            radioButton79.Text = "Técnico comercial, industrial,normalista (sistema antiguo)";
+            radioButton79.UseVisualStyleBackColor = true;
+            // 
+            // radioButton80
+            // 
+            radioButton80.AutoSize = true;
+            radioButton80.Location = new Point(6, 113);
+            radioButton80.Name = "radioButton80";
+            radioButton80.Size = new Size(162, 19);
+            radioButton80.TabIndex = 8;
+            radioButton80.TabStop = true;
+            radioButton80.Text = "Media técnico profesional";
+            radioButton80.UseVisualStyleBackColor = true;
+            // 
+            // radioButton81
+            // 
+            radioButton81.AutoSize = true;
+            radioButton81.Location = new Point(6, 88);
+            radioButton81.Name = "radioButton81";
+            radioButton81.Size = new Size(223, 19);
+            radioButton81.TabIndex = 7;
+            radioButton81.TabStop = true;
+            radioButton81.Text = "Media científico humanista o artística";
+            radioButton81.UseVisualStyleBackColor = true;
+            // 
+            // radioButton82
+            // 
+            radioButton82.AutoSize = true;
+            radioButton82.Location = new Point(6, 63);
+            radioButton82.Name = "radioButton82";
+            radioButton82.Size = new Size(164, 19);
+            radioButton82.TabIndex = 6;
+            radioButton82.TabStop = true;
+            radioButton82.Text = "Primaria (sistema antiguo)";
+            radioButton82.UseVisualStyleBackColor = true;
+            // 
+            // radioButton83
+            // 
+            radioButton83.AutoSize = true;
+            radioButton83.Location = new Point(6, 13);
+            radioButton83.Name = "radioButton83";
+            radioButton83.Size = new Size(193, 19);
+            radioButton83.TabIndex = 5;
+            radioButton83.TabStop = true;
+            radioButton83.Text = "Educación especial o diferencial";
+            radioButton83.UseVisualStyleBackColor = true;
+            // 
+            // radioButton84
+            // 
+            radioButton84.AutoSize = true;
+            radioButton84.Location = new Point(6, 38);
+            radioButton84.Name = "radioButton84";
+            radioButton84.Size = new Size(116, 19);
+            radioButton84.TabIndex = 0;
+            radioButton84.TabStop = true;
+            radioButton84.Text = "Educación básica";
+            radioButton84.UseVisualStyleBackColor = true;
+            // 
+            // radioButton63
+            // 
+            radioButton63.AutoSize = true;
+            radioButton63.Location = new Point(6, 138);
+            radioButton63.Name = "radioButton63";
+            radioButton63.Size = new Size(194, 19);
+            radioButton63.TabIndex = 14;
+            radioButton63.TabStop = true;
+            radioButton63.Text = "Humanidades (sistema antiguo)";
+            radioButton63.UseVisualStyleBackColor = true;
+            // 
+            // groupBox19
+            // 
+            groupBox19.Controls.Add(radioButton89);
+            groupBox19.Controls.Add(radioButton90);
+            groupBox19.Controls.Add(radioButton91);
+            groupBox19.Controls.Add(radioButton92);
+            groupBox19.Controls.Add(radioButton67);
+            groupBox19.Controls.Add(radioButton86);
+            groupBox19.Controls.Add(radioButton87);
+            groupBox19.Controls.Add(radioButton88);
+            groupBox19.Controls.Add(radioButton64);
+            groupBox19.Controls.Add(radioButton65);
+            groupBox19.Controls.Add(radioButton66);
+            groupBox19.Controls.Add(radioButton85);
+            groupBox19.Location = new Point(786, 79);
+            groupBox19.Name = "groupBox19";
+            groupBox19.Size = new Size(116, 187);
+            groupBox19.TabIndex = 258;
+            groupBox19.TabStop = false;
+            // 
+            // radioButton66
+            // 
+            radioButton66.AutoSize = true;
+            radioButton66.Location = new Point(64, 22);
+            radioButton66.Name = "radioButton66";
+            radioButton66.Size = new Size(41, 19);
+            radioButton66.TabIndex = 6;
+            radioButton66.TabStop = true;
+            radioButton66.Text = "No";
+            radioButton66.UseVisualStyleBackColor = true;
+            // 
+            // radioButton85
+            // 
+            radioButton85.AutoSize = true;
+            radioButton85.Location = new Point(6, 22);
+            radioButton85.Name = "radioButton85";
+            radioButton85.Size = new Size(34, 19);
+            radioButton85.TabIndex = 0;
+            radioButton85.TabStop = true;
+            radioButton85.Text = "Si";
+            radioButton85.UseVisualStyleBackColor = true;
+            // 
+            // radioButton64
+            // 
+            radioButton64.AutoSize = true;
+            radioButton64.Location = new Point(64, 47);
+            radioButton64.Name = "radioButton64";
+            radioButton64.Size = new Size(41, 19);
+            radioButton64.TabIndex = 8;
+            radioButton64.TabStop = true;
+            radioButton64.Text = "No";
+            radioButton64.UseVisualStyleBackColor = true;
+            // 
+            // radioButton65
+            // 
+            radioButton65.AutoSize = true;
+            radioButton65.Location = new Point(6, 47);
+            radioButton65.Name = "radioButton65";
+            radioButton65.Size = new Size(34, 19);
+            radioButton65.TabIndex = 7;
+            radioButton65.TabStop = true;
+            radioButton65.Text = "Si";
+            radioButton65.UseVisualStyleBackColor = true;
+            // 
+            // radioButton67
+            // 
+            radioButton67.AutoSize = true;
+            radioButton67.Location = new Point(64, 97);
+            radioButton67.Name = "radioButton67";
+            radioButton67.Size = new Size(41, 19);
+            radioButton67.TabIndex = 12;
+            radioButton67.TabStop = true;
+            radioButton67.Text = "No";
+            radioButton67.UseVisualStyleBackColor = true;
+            // 
+            // radioButton86
+            // 
+            radioButton86.AutoSize = true;
+            radioButton86.Location = new Point(6, 97);
+            radioButton86.Name = "radioButton86";
+            radioButton86.Size = new Size(34, 19);
+            radioButton86.TabIndex = 11;
+            radioButton86.TabStop = true;
+            radioButton86.Text = "Si";
+            radioButton86.UseVisualStyleBackColor = true;
+            // 
+            // radioButton87
+            // 
+            radioButton87.AutoSize = true;
+            radioButton87.Location = new Point(64, 72);
+            radioButton87.Name = "radioButton87";
+            radioButton87.Size = new Size(41, 19);
+            radioButton87.TabIndex = 10;
+            radioButton87.TabStop = true;
+            radioButton87.Text = "No";
+            radioButton87.UseVisualStyleBackColor = true;
+            // 
+            // radioButton88
+            // 
+            radioButton88.AutoSize = true;
+            radioButton88.Location = new Point(6, 72);
+            radioButton88.Name = "radioButton88";
+            radioButton88.Size = new Size(34, 19);
+            radioButton88.TabIndex = 9;
+            radioButton88.TabStop = true;
+            radioButton88.Text = "Si";
+            radioButton88.UseVisualStyleBackColor = true;
+            // 
+            // radioButton89
+            // 
+            radioButton89.AutoSize = true;
+            radioButton89.Location = new Point(64, 147);
+            radioButton89.Name = "radioButton89";
+            radioButton89.Size = new Size(41, 19);
+            radioButton89.TabIndex = 16;
+            radioButton89.TabStop = true;
+            radioButton89.Text = "No";
+            radioButton89.UseVisualStyleBackColor = true;
+            // 
+            // radioButton90
+            // 
+            radioButton90.AutoSize = true;
+            radioButton90.Location = new Point(6, 147);
+            radioButton90.Name = "radioButton90";
+            radioButton90.Size = new Size(34, 19);
+            radioButton90.TabIndex = 15;
+            radioButton90.TabStop = true;
+            radioButton90.Text = "Si";
+            radioButton90.UseVisualStyleBackColor = true;
+            // 
+            // radioButton91
+            // 
+            radioButton91.AutoSize = true;
+            radioButton91.Location = new Point(64, 122);
+            radioButton91.Name = "radioButton91";
+            radioButton91.Size = new Size(41, 19);
+            radioButton91.TabIndex = 14;
+            radioButton91.TabStop = true;
+            radioButton91.Text = "No";
+            radioButton91.UseVisualStyleBackColor = true;
+            // 
+            // radioButton92
+            // 
+            radioButton92.AutoSize = true;
+            radioButton92.Location = new Point(6, 122);
+            radioButton92.Name = "radioButton92";
+            radioButton92.Size = new Size(34, 19);
+            radioButton92.TabIndex = 13;
+            radioButton92.TabStop = true;
+            radioButton92.Text = "Si";
+            radioButton92.UseVisualStyleBackColor = true;
+            // 
+            // groupBox20
+            // 
+            groupBox20.Controls.Add(radioButton93);
+            groupBox20.Controls.Add(radioButton94);
+            groupBox20.Controls.Add(radioButton95);
+            groupBox20.Controls.Add(radioButton96);
+            groupBox20.Controls.Add(radioButton97);
+            groupBox20.Controls.Add(radioButton98);
+            groupBox20.Controls.Add(radioButton99);
+            groupBox20.Controls.Add(radioButton100);
+            groupBox20.Controls.Add(radioButton101);
+            groupBox20.Controls.Add(radioButton102);
+            groupBox20.Controls.Add(radioButton103);
+            groupBox20.Controls.Add(radioButton104);
+            groupBox20.Location = new Point(30, 70);
+            groupBox20.Name = "groupBox20";
+            groupBox20.Size = new Size(309, 191);
+            groupBox20.TabIndex = 259;
+            groupBox20.TabStop = false;
+            // 
+            // radioButton93
+            // 
+            radioButton93.AutoSize = true;
+            radioButton93.Location = new Point(169, 147);
+            radioButton93.Name = "radioButton93";
+            radioButton93.Size = new Size(71, 19);
+            radioButton93.TabIndex = 16;
+            radioButton93.TabStop = true;
+            radioButton93.Text = "Ninguna";
+            radioButton93.UseVisualStyleBackColor = true;
+            // 
+            // radioButton94
+            // 
+            radioButton94.AutoSize = true;
+            radioButton94.Location = new Point(6, 147);
+            radioButton94.Name = "radioButton94";
+            radioButton94.Size = new Size(121, 19);
+            radioButton94.TabIndex = 15;
+            radioButton94.TabStop = true;
+            radioButton94.Text = "Católica Ortodoxa";
+            radioButton94.UseVisualStyleBackColor = true;
+            // 
+            // radioButton95
+            // 
+            radioButton95.AutoSize = true;
+            radioButton95.Location = new Point(169, 122);
+            radioButton95.Name = "radioButton95";
+            radioButton95.Size = new Size(134, 19);
+            radioButton95.TabIndex = 14;
+            radioButton95.TabStop = true;
+            radioButton95.Text = "Otra religión o credo";
+            radioButton95.UseVisualStyleBackColor = true;
+            // 
+            // radioButton96
+            // 
+            radioButton96.AutoSize = true;
+            radioButton96.Location = new Point(6, 122);
+            radioButton96.Name = "radioButton96";
+            radioButton96.Size = new Size(72, 19);
+            radioButton96.TabIndex = 13;
+            radioButton96.TabStop = true;
+            radioButton96.Text = "Mormón";
+            radioButton96.UseVisualStyleBackColor = true;
+            // 
+            // radioButton97
+            // 
+            radioButton97.AutoSize = true;
+            radioButton97.Location = new Point(169, 97);
+            radioButton97.Name = "radioButton97";
+            radioButton97.Size = new Size(117, 19);
+            radioButton97.TabIndex = 12;
+            radioButton97.TabStop = true;
+            radioButton97.Text = "Testigo de Jehová";
+            radioButton97.UseVisualStyleBackColor = true;
+            // 
+            // radioButton98
+            // 
+            radioButton98.AutoSize = true;
+            radioButton98.Location = new Point(6, 97);
+            radioButton98.Name = "radioButton98";
+            radioButton98.Size = new Size(88, 19);
+            radioButton98.TabIndex = 11;
+            radioButton98.TabStop = true;
+            radioButton98.Text = "Musulmana";
+            radioButton98.UseVisualStyleBackColor = true;
+            // 
+            // radioButton99
+            // 
+            radioButton99.AutoSize = true;
+            radioButton99.Location = new Point(169, 72);
+            radioButton99.Name = "radioButton99";
+            radioButton99.Size = new Size(72, 19);
+            radioButton99.TabIndex = 10;
+            radioButton99.TabStop = true;
+            radioButton99.Text = "Fe Bahá’í";
+            radioButton99.UseVisualStyleBackColor = true;
+            // 
+            // radioButton100
+            // 
+            radioButton100.AutoSize = true;
+            radioButton100.Location = new Point(6, 72);
+            radioButton100.Name = "radioButton100";
+            radioButton100.Size = new Size(52, 19);
+            radioButton100.TabIndex = 9;
+            radioButton100.TabStop = true;
+            radioButton100.Text = "Judía";
+            radioButton100.UseVisualStyleBackColor = true;
+            // 
+            // radioButton101
+            // 
+            radioButton101.AutoSize = true;
+            radioButton101.Location = new Point(169, 47);
+            radioButton101.Name = "radioButton101";
+            radioButton101.Size = new Size(76, 19);
+            radioButton101.TabIndex = 8;
+            radioButton101.TabStop = true;
+            radioButton101.Text = "Hinduista";
+            radioButton101.UseVisualStyleBackColor = true;
+            // 
+            // radioButton102
+            // 
+            radioButton102.AutoSize = true;
+            radioButton102.Location = new Point(6, 47);
+            radioButton102.Name = "radioButton102";
+            radioButton102.Size = new Size(154, 19);
+            radioButton102.TabIndex = 7;
+            radioButton102.TabStop = true;
+            radioButton102.Text = "Evangélica o protestante";
+            radioButton102.UseVisualStyleBackColor = true;
+            // 
+            // radioButton103
+            // 
+            radioButton103.AutoSize = true;
+            radioButton103.Location = new Point(169, 22);
+            radioButton103.Name = "radioButton103";
+            radioButton103.Size = new Size(64, 19);
+            radioButton103.TabIndex = 6;
+            radioButton103.TabStop = true;
+            radioButton103.Text = "Budista";
+            radioButton103.UseVisualStyleBackColor = true;
+            // 
+            // radioButton104
+            // 
+            radioButton104.AutoSize = true;
+            radioButton104.Location = new Point(6, 22);
+            radioButton104.Name = "radioButton104";
+            radioButton104.Size = new Size(68, 19);
+            radioButton104.TabIndex = 0;
+            radioButton104.TabStop = true;
+            radioButton104.Text = "Católica";
+            radioButton104.UseVisualStyleBackColor = true;
+            radioButton104.CheckedChanged += radioButton104_CheckedChanged;
+            // 
+            // groupBox21
+            // 
+            groupBox21.Controls.Add(radioButton105);
+            groupBox21.Controls.Add(radioButton106);
+            groupBox21.Controls.Add(radioButton108);
+            groupBox21.Controls.Add(radioButton110);
+            groupBox21.Controls.Add(radioButton112);
+            groupBox21.Controls.Add(radioButton114);
+            groupBox21.Controls.Add(radioButton116);
+            groupBox21.Location = new Point(29, 90);
+            groupBox21.Name = "groupBox21";
+            groupBox21.Size = new Size(302, 217);
+            groupBox21.TabIndex = 260;
+            groupBox21.TabStop = false;
+            // 
+            // radioButton105
+            // 
+            radioButton105.AutoSize = true;
+            radioButton105.Location = new Point(6, 172);
+            radioButton105.Name = "radioButton105";
+            radioButton105.Size = new Size(159, 19);
+            radioButton105.TabIndex = 16;
+            radioButton105.TabStop = true;
+            radioButton105.Text = "Ninguna de las anteriores";
+            radioButton105.UseVisualStyleBackColor = true;
+            // 
+            // radioButton106
+            // 
+            radioButton106.AutoSize = true;
+            radioButton106.Location = new Point(6, 147);
+            radioButton106.Name = "radioButton106";
+            radioButton106.Size = new Size(142, 19);
+            radioButton106.TabIndex = 15;
+            radioButton106.TabStop = true;
+            radioButton106.Text = "Negro/a de la Chimba";
+            radioButton106.UseVisualStyleBackColor = true;
+            // 
+            // radioButton108
+            // 
+            radioButton108.AutoSize = true;
+            radioButton108.Location = new Point(6, 122);
+            radioButton108.Name = "radioButton108";
+            radioButton108.Size = new Size(129, 19);
+            radioButton108.TabIndex = 13;
+            radioButton108.TabStop = true;
+            radioButton108.Text = "Moreno/a de Azapa";
+            radioButton108.UseVisualStyleBackColor = true;
+            // 
+            // radioButton110
+            // 
+            radioButton110.AutoSize = true;
+            radioButton110.Location = new Point(6, 97);
+            radioButton110.Name = "radioButton110";
+            radioButton110.Size = new Size(253, 19);
+            radioButton110.TabIndex = 11;
+            radioButton110.TabStop = true;
+            radioButton110.Text = "Del Pueblo Tribal Afrodescendiente Chileno";
+            radioButton110.UseVisualStyleBackColor = true;
+            // 
+            // radioButton112
+            // 
+            radioButton112.AutoSize = true;
+            radioButton112.Location = new Point(6, 72);
+            radioButton112.Name = "radioButton112";
+            radioButton112.Size = new Size(69, 19);
+            radioButton112.TabIndex = 9;
+            radioButton112.TabStop = true;
+            radioButton112.Text = "Negro/a";
+            radioButton112.UseVisualStyleBackColor = true;
+            // 
+            // radioButton114
+            // 
+            radioButton114.AutoSize = true;
+            radioButton114.Location = new Point(6, 47);
+            radioButton114.Name = "radioButton114";
+            radioButton114.Size = new Size(98, 19);
+            radioButton114.TabIndex = 7;
+            radioButton114.TabStop = true;
+            radioButton114.Text = "Afrochileno/a";
+            radioButton114.UseVisualStyleBackColor = true;
+            // 
+            // radioButton116
+            // 
+            radioButton116.AutoSize = true;
+            radioButton116.Location = new Point(6, 22);
+            radioButton116.Name = "radioButton116";
+            radioButton116.Size = new Size(118, 19);
+            radioButton116.TabIndex = 0;
+            radioButton116.TabStop = true;
+            radioButton116.Text = "Afrodescendiente";
+            radioButton116.UseVisualStyleBackColor = true;
+            // 
+            // groupBox22
+            // 
+            groupBox22.Controls.Add(radioButton120);
+            groupBox22.Controls.Add(radioButton121);
+            groupBox22.Controls.Add(radioButton122);
+            groupBox22.Controls.Add(radioButton107);
+            groupBox22.Controls.Add(radioButton109);
+            groupBox22.Controls.Add(radioButton111);
+            groupBox22.Controls.Add(radioButton113);
+            groupBox22.Controls.Add(radioButton115);
+            groupBox22.Controls.Add(radioButton117);
+            groupBox22.Controls.Add(radioButton118);
+            groupBox22.Location = new Point(588, 146);
+            groupBox22.Name = "groupBox22";
+            groupBox22.Size = new Size(386, 161);
+            groupBox22.TabIndex = 261;
+            groupBox22.TabStop = false;
+            // 
+            // radioButton107
+            // 
+            radioButton107.AutoSize = true;
+            radioButton107.Location = new Point(201, 47);
+            radioButton107.Name = "radioButton107";
+            radioButton107.Size = new Size(75, 19);
+            radioButton107.TabIndex = 16;
+            radioButton107.TabStop = true;
+            radioButton107.Text = "Kawésqar";
+            radioButton107.UseVisualStyleBackColor = true;
+            // 
+            // radioButton109
+            // 
+            radioButton109.AutoSize = true;
+            radioButton109.Location = new Point(201, 22);
+            radioButton109.Name = "radioButton109";
+            radioButton109.Size = new Size(64, 19);
+            radioButton109.TabIndex = 15;
+            radioButton109.TabStop = true;
+            radioButton109.Text = "Ckunza";
+            radioButton109.UseVisualStyleBackColor = true;
+            // 
+            // radioButton111
+            // 
+            radioButton111.AutoSize = true;
+            radioButton111.Location = new Point(6, 122);
+            radioButton111.Name = "radioButton111";
+            radioButton111.Size = new Size(159, 19);
+            radioButton111.TabIndex = 13;
+            radioButton111.TabStop = true;
+            radioButton111.Text = "Lengua indígena de Chile";
+            radioButton111.UseVisualStyleBackColor = true;
+            // 
+            // radioButton113
+            // 
+            radioButton113.AutoSize = true;
+            radioButton113.Location = new Point(6, 97);
+            radioButton113.Name = "radioButton113";
+            radioButton113.Size = new Size(73, 19);
+            radioButton113.TabIndex = 11;
+            radioButton113.TabStop = true;
+            radioButton113.Text = "Rapa Nui";
+            radioButton113.UseVisualStyleBackColor = true;
+            // 
+            // radioButton115
+            // 
+            radioButton115.AutoSize = true;
+            radioButton115.Location = new Point(6, 72);
+            radioButton115.Name = "radioButton115";
+            radioButton115.Size = new Size(73, 19);
+            radioButton115.TabIndex = 9;
+            radioButton115.TabStop = true;
+            radioButton115.Text = "Quechua";
+            radioButton115.UseVisualStyleBackColor = true;
+            // 
+            // radioButton117
+            // 
+            radioButton117.AutoSize = true;
+            radioButton117.Location = new Point(6, 47);
+            radioButton117.Name = "radioButton117";
+            radioButton117.Size = new Size(66, 19);
+            radioButton117.TabIndex = 7;
+            radioButton117.TabStop = true;
+            radioButton117.Text = "Aymara";
+            radioButton117.UseVisualStyleBackColor = true;
+            // 
+            // radioButton118
+            // 
+            radioButton118.AutoSize = true;
+            radioButton118.Location = new Point(6, 22);
+            radioButton118.Name = "radioButton118";
+            radioButton118.Size = new Size(189, 19);
+            radioButton118.TabIndex = 0;
+            radioButton118.TabStop = true;
+            radioButton118.Text = "Mapuzugun (lengua mapuche)";
+            radioButton118.UseVisualStyleBackColor = true;
+            // 
+            // radioButton120
+            // 
+            radioButton120.AutoSize = true;
+            radioButton120.Location = new Point(201, 120);
+            radioButton120.Name = "radioButton120";
+            radioButton120.Size = new Size(182, 19);
+            radioButton120.TabIndex = 19;
+            radioButton120.TabStop = true;
+            radioButton120.Text = "No habla ni entiende ninguna";
+            radioButton120.UseVisualStyleBackColor = true;
+            // 
+            // radioButton121
+            // 
+            radioButton121.AutoSize = true;
+            radioButton121.Location = new Point(201, 95);
+            radioButton121.Name = "radioButton121";
+            radioButton121.Size = new Size(185, 19);
+            radioButton121.TabIndex = 18;
+            radioButton121.TabStop = true;
+            radioButton121.Text = "Otra lengua indígena de Chile ";
+            radioButton121.UseVisualStyleBackColor = true;
+            // 
+            // radioButton122
+            // 
+            radioButton122.AutoSize = true;
+            radioButton122.Location = new Point(201, 70);
+            radioButton122.Name = "radioButton122";
+            radioButton122.Size = new Size(57, 19);
+            radioButton122.TabIndex = 17;
+            radioButton122.TabStop = true;
+            radioButton122.Text = "Yagán";
+            radioButton122.UseVisualStyleBackColor = true;
+            // 
+            // groupBox23
+            // 
+            groupBox23.Controls.Add(radioButton133);
+            groupBox23.Controls.Add(radioButton132);
+            groupBox23.Controls.Add(radioButton119);
+            groupBox23.Controls.Add(radioButton123);
+            groupBox23.Controls.Add(radioButton124);
+            groupBox23.Controls.Add(radioButton125);
+            groupBox23.Controls.Add(radioButton126);
+            groupBox23.Controls.Add(radioButton127);
+            groupBox23.Controls.Add(radioButton128);
+            groupBox23.Controls.Add(radioButton129);
+            groupBox23.Controls.Add(radioButton130);
+            groupBox23.Controls.Add(radioButton131);
+            groupBox23.Location = new Point(593, 158);
+            groupBox23.Name = "groupBox23";
+            groupBox23.Size = new Size(381, 101);
+            groupBox23.TabIndex = 262;
+            groupBox23.TabStop = false;
+            // 
+            // radioButton119
+            // 
+            radioButton119.AutoSize = true;
+            radioButton119.Location = new Point(303, 47);
+            radioButton119.Name = "radioButton119";
+            radioButton119.Size = new Size(73, 19);
+            radioButton119.TabIndex = 19;
+            radioButton119.TabStop = true;
+            radioButton119.Text = "Selk’nam";
+            radioButton119.UseVisualStyleBackColor = true;
+            // 
+            // radioButton123
+            // 
+            radioButton123.AutoSize = true;
+            radioButton123.Location = new Point(303, 22);
+            radioButton123.Name = "radioButton123";
+            radioButton123.Size = new Size(67, 19);
+            radioButton123.TabIndex = 18;
+            radioButton123.TabStop = true;
+            radioButton123.Text = "Chango";
+            radioButton123.UseVisualStyleBackColor = true;
+            // 
+            // radioButton124
+            // 
+            radioButton124.AutoSize = true;
+            radioButton124.Location = new Point(87, 70);
+            radioButton124.Name = "radioButton124";
+            radioButton124.Size = new Size(57, 19);
+            radioButton124.TabIndex = 17;
+            radioButton124.TabStop = true;
+            radioButton124.Text = "Yagán";
+            radioButton124.UseVisualStyleBackColor = true;
+            // 
+            // radioButton125
+            // 
+            radioButton125.AutoSize = true;
+            radioButton125.Location = new Point(87, 47);
+            radioButton125.Name = "radioButton125";
+            radioButton125.Size = new Size(75, 19);
+            radioButton125.TabIndex = 16;
+            radioButton125.TabStop = true;
+            radioButton125.Text = "Kawésqar";
+            radioButton125.UseVisualStyleBackColor = true;
+            // 
+            // radioButton126
+            // 
+            radioButton126.AutoSize = true;
+            radioButton126.Location = new Point(87, 22);
+            radioButton126.Name = "radioButton126";
+            radioButton126.Size = new Size(69, 19);
+            radioButton126.TabIndex = 15;
+            radioButton126.TabStop = true;
+            radioButton126.Text = "Diaguita";
+            radioButton126.UseVisualStyleBackColor = true;
+            // 
+            // radioButton127
+            // 
+            radioButton127.AutoSize = true;
+            radioButton127.Location = new Point(171, 24);
+            radioButton127.Name = "radioButton127";
+            radioButton127.Size = new Size(126, 19);
+            radioButton127.TabIndex = 13;
+            radioButton127.TabStop = true;
+            radioButton127.Text = "Atacameño o Licka";
+            radioButton127.UseVisualStyleBackColor = true;
+            // 
+            // radioButton128
+            // 
+            radioButton128.AutoSize = true;
+            radioButton128.Location = new Point(6, 72);
+            radioButton128.Name = "radioButton128";
+            radioButton128.Size = new Size(73, 19);
+            radioButton128.TabIndex = 11;
+            radioButton128.TabStop = true;
+            radioButton128.Text = "Rapa Nui";
+            radioButton128.UseVisualStyleBackColor = true;
+            // 
+            // radioButton129
+            // 
+            radioButton129.AutoSize = true;
+            radioButton129.Location = new Point(171, 49);
+            radioButton129.Name = "radioButton129";
+            radioButton129.Size = new Size(73, 19);
+            radioButton129.TabIndex = 9;
+            radioButton129.TabStop = true;
+            radioButton129.Text = "Quechua";
+            radioButton129.UseVisualStyleBackColor = true;
+            // 
+            // radioButton130
+            // 
+            radioButton130.AutoSize = true;
+            radioButton130.Location = new Point(6, 47);
+            radioButton130.Name = "radioButton130";
+            radioButton130.Size = new Size(66, 19);
+            radioButton130.TabIndex = 7;
+            radioButton130.TabStop = true;
+            radioButton130.Text = "Aymara";
+            radioButton130.UseVisualStyleBackColor = true;
+            // 
+            // radioButton131
+            // 
+            radioButton131.AutoSize = true;
+            radioButton131.Location = new Point(6, 22);
+            radioButton131.Name = "radioButton131";
+            radioButton131.Size = new Size(75, 19);
+            radioButton131.TabIndex = 0;
+            radioButton131.TabStop = true;
+            radioButton131.Text = "Mapuche";
+            radioButton131.UseVisualStyleBackColor = true;
+            // 
+            // radioButton132
+            // 
+            radioButton132.AutoSize = true;
+            radioButton132.Location = new Point(171, 74);
+            radioButton132.Name = "radioButton132";
+            radioButton132.Size = new Size(52, 19);
+            radioButton132.TabIndex = 20;
+            radioButton132.TabStop = true;
+            radioButton132.Text = "Colla";
+            radioButton132.UseVisualStyleBackColor = true;
+            // 
+            // radioButton133
+            // 
+            radioButton133.AutoSize = true;
+            radioButton133.Location = new Point(303, 70);
+            radioButton133.Name = "radioButton133";
+            radioButton133.Size = new Size(49, 19);
+            radioButton133.TabIndex = 21;
+            radioButton133.TabStop = true;
+            radioButton133.Text = "Otro";
+            radioButton133.UseVisualStyleBackColor = true;
+            // 
+            // groupBox24
+            // 
+            groupBox24.Controls.Add(radioButton134);
+            groupBox24.Controls.Add(radioButton135);
+            groupBox24.Location = new Point(650, 84);
+            groupBox24.Name = "groupBox24";
+            groupBox24.Size = new Size(120, 39);
+            groupBox24.TabIndex = 256;
+            groupBox24.TabStop = false;
+            // 
+            // radioButton134
+            // 
+            radioButton134.AutoSize = true;
+            radioButton134.Location = new Point(6, 13);
+            radioButton134.Name = "radioButton134";
+            radioButton134.Size = new Size(34, 19);
+            radioButton134.TabIndex = 5;
+            radioButton134.TabStop = true;
+            radioButton134.Text = "Si";
+            radioButton134.UseVisualStyleBackColor = true;
+            // 
+            // radioButton135
+            // 
+            radioButton135.AutoSize = true;
+            radioButton135.Location = new Point(65, 13);
+            radioButton135.Name = "radioButton135";
+            radioButton135.Size = new Size(41, 19);
+            radioButton135.TabIndex = 0;
+            radioButton135.TabStop = true;
+            radioButton135.Text = "No";
+            radioButton135.UseVisualStyleBackColor = true;
+            // 
+            // groupBox25
+            // 
+            groupBox25.Controls.Add(radioButton138);
+            groupBox25.Controls.Add(radioButton136);
+            groupBox25.Controls.Add(radioButton137);
+            groupBox25.Location = new Point(28, 84);
+            groupBox25.Name = "groupBox25";
+            groupBox25.Size = new Size(220, 104);
+            groupBox25.TabIndex = 263;
+            groupBox25.TabStop = false;
+            // 
+            // radioButton136
+            // 
+            radioButton136.AutoSize = true;
+            radioButton136.Location = new Point(6, 13);
+            radioButton136.Name = "radioButton136";
+            radioButton136.Size = new Size(158, 19);
+            radioButton136.TabIndex = 5;
+            radioButton136.TabStop = true;
+            radioButton136.Text = "Chilena (exclusivamente)";
+            radioButton136.UseVisualStyleBackColor = true;
+            // 
+            // radioButton137
+            // 
+            radioButton137.AutoSize = true;
+            radioButton137.Location = new Point(6, 38);
+            radioButton137.Name = "radioButton137";
+            radioButton137.Size = new Size(210, 19);
+            radioButton137.TabIndex = 0;
+            radioButton137.TabStop = true;
+            radioButton137.Text = "Chilena y otra (doble nacionalidad)";
+            radioButton137.UseVisualStyleBackColor = true;
+            // 
+            // radioButton138
+            // 
+            radioButton138.AutoSize = true;
+            radioButton138.Location = new Point(6, 63);
+            radioButton138.Name = "radioButton138";
+            radioButton138.Size = new Size(119, 19);
+            radioButton138.TabIndex = 6;
+            radioButton138.TabStop = true;
+            radioButton138.Text = "Otra nacionalidad";
+            radioButton138.UseVisualStyleBackColor = true;
+            // 
+            // groupBox26
+            // 
+            groupBox26.Controls.Add(radioButton140);
+            groupBox26.Controls.Add(radioButton143);
+            groupBox26.Controls.Add(radioButton144);
+            groupBox26.Controls.Add(radioButton145);
+            groupBox26.Controls.Add(radioButton147);
+            groupBox26.Controls.Add(radioButton148);
+            groupBox26.Controls.Add(radioButton149);
+            groupBox26.Controls.Add(radioButton150);
+            groupBox26.Location = new Point(705, 163);
+            groupBox26.Name = "groupBox26";
+            groupBox26.Size = new Size(247, 129);
+            groupBox26.TabIndex = 263;
+            groupBox26.TabStop = false;
+            // 
+            // radioButton140
+            // 
+            radioButton140.AutoSize = true;
+            radioButton140.Location = new Point(6, 97);
+            radioButton140.Name = "radioButton140";
+            radioButton140.Size = new Size(115, 19);
+            radioButton140.TabIndex = 20;
+            radioButton140.TabStop = true;
+            radioButton140.Text = "Entre 2014 y 2016";
+            radioButton140.UseVisualStyleBackColor = true;
+            // 
+            // radioButton143
+            // 
+            radioButton143.AutoSize = true;
+            radioButton143.Location = new Point(131, 70);
+            radioButton143.Name = "radioButton143";
+            radioButton143.Size = new Size(115, 19);
+            radioButton143.TabIndex = 17;
+            radioButton143.TabStop = true;
+            radioButton143.Text = "Entre 1990 y 1999";
+            radioButton143.UseVisualStyleBackColor = true;
+            // 
+            // radioButton144
+            // 
+            radioButton144.AutoSize = true;
+            radioButton144.Location = new Point(131, 47);
+            radioButton144.Name = "radioButton144";
+            radioButton144.Size = new Size(115, 19);
+            radioButton144.TabIndex = 16;
+            radioButton144.TabStop = true;
+            radioButton144.Text = "Entre 2000 y 2009";
+            radioButton144.UseVisualStyleBackColor = true;
+            // 
+            // radioButton145
+            // 
+            radioButton145.AutoSize = true;
+            radioButton145.Location = new Point(131, 22);
+            radioButton145.Name = "radioButton145";
+            radioButton145.Size = new Size(115, 19);
+            radioButton145.TabIndex = 15;
+            radioButton145.TabStop = true;
+            radioButton145.Text = "Entre 2010 y 2013";
+            radioButton145.UseVisualStyleBackColor = true;
+            // 
+            // radioButton147
+            // 
+            radioButton147.AutoSize = true;
+            radioButton147.Location = new Point(6, 72);
+            radioButton147.Name = "radioButton147";
+            radioButton147.Size = new Size(115, 19);
+            radioButton147.TabIndex = 11;
+            radioButton147.TabStop = true;
+            radioButton147.Text = "Entre 2017 y 2019";
+            radioButton147.UseVisualStyleBackColor = true;
+            // 
+            // radioButton148
+            // 
+            radioButton148.AutoSize = true;
+            radioButton148.Location = new Point(131, 97);
+            radioButton148.Name = "radioButton148";
+            radioButton148.Size = new Size(98, 19);
+            radioButton148.TabIndex = 9;
+            radioButton148.TabStop = true;
+            radioButton148.Text = "Antes de 1990";
+            radioButton148.UseVisualStyleBackColor = true;
+            // 
+            // radioButton149
+            // 
+            radioButton149.AutoSize = true;
+            radioButton149.Location = new Point(6, 47);
+            radioButton149.Name = "radioButton149";
+            radioButton149.Size = new Size(115, 19);
+            radioButton149.TabIndex = 7;
+            radioButton149.TabStop = true;
+            radioButton149.Text = "Entre 2020 y 2022";
+            radioButton149.UseVisualStyleBackColor = true;
+            // 
+            // radioButton150
+            // 
+            radioButton150.AutoSize = true;
+            radioButton150.Location = new Point(6, 22);
+            radioButton150.Name = "radioButton150";
+            radioButton150.Size = new Size(115, 19);
+            radioButton150.TabIndex = 0;
+            radioButton150.TabStop = true;
+            radioButton150.Text = "Entre 2023 y 2024";
+            radioButton150.UseVisualStyleBackColor = true;
+            // 
+            // groupBox27
+            // 
+            groupBox27.Controls.Add(radioButton141);
+            groupBox27.Controls.Add(radioButton142);
+            groupBox27.Controls.Add(radioButton146);
+            groupBox27.Controls.Add(radioButton151);
+            groupBox27.Controls.Add(radioButton152);
+            groupBox27.Controls.Add(radioButton153);
+            groupBox27.Controls.Add(radioButton154);
+            groupBox27.Location = new Point(30, 96);
+            groupBox27.Name = "groupBox27";
+            groupBox27.Size = new Size(359, 93);
+            groupBox27.TabIndex = 264;
+            groupBox27.TabStop = false;
+            // 
+            // radioButton141
+            // 
+            radioButton141.AutoSize = true;
+            radioButton141.Location = new Point(185, 11);
+            radioButton141.Name = "radioButton141";
+            radioButton141.Size = new Size(73, 19);
+            radioButton141.TabIndex = 6;
+            radioButton141.TabStop = true;
+            radioButton141.Text = "Otro país";
+            radioButton141.UseVisualStyleBackColor = true;
+            // 
+            // radioButton142
+            // 
+            radioButton142.AutoSize = true;
+            radioButton142.Location = new Point(89, 61);
+            radioButton142.Name = "radioButton142";
+            radioButton142.Size = new Size(77, 19);
+            radioButton142.TabIndex = 5;
+            radioButton142.TabStop = true;
+            radioButton142.Text = "Argentina";
+            radioButton142.UseVisualStyleBackColor = true;
+            // 
+            // radioButton146
+            // 
+            radioButton146.AutoSize = true;
+            radioButton146.Location = new Point(89, 36);
+            radioButton146.Name = "radioButton146";
+            radioButton146.Size = new Size(60, 19);
+            radioButton146.TabIndex = 4;
+            radioButton146.TabStop = true;
+            radioButton146.Text = "Bolivia";
+            radioButton146.UseVisualStyleBackColor = true;
+            // 
+            // radioButton151
+            // 
+            radioButton151.AutoSize = true;
+            radioButton151.Location = new Point(89, 11);
+            radioButton151.Name = "radioButton151";
+            radioButton151.Size = new Size(77, 19);
+            radioButton151.TabIndex = 3;
+            radioButton151.TabStop = true;
+            radioButton151.Text = "Colombia";
+            radioButton151.UseVisualStyleBackColor = true;
+            // 
+            // radioButton152
+            // 
+            radioButton152.AutoSize = true;
+            radioButton152.Location = new Point(6, 61);
+            radioButton152.Name = "radioButton152";
+            radioButton152.Size = new Size(50, 19);
+            radioButton152.TabIndex = 2;
+            radioButton152.TabStop = true;
+            radioButton152.Text = "Haití";
+            radioButton152.UseVisualStyleBackColor = true;
+            // 
+            // radioButton153
+            // 
+            radioButton153.AutoSize = true;
+            radioButton153.Location = new Point(6, 36);
+            radioButton153.Name = "radioButton153";
+            radioButton153.Size = new Size(49, 19);
+            radioButton153.TabIndex = 1;
+            radioButton153.TabStop = true;
+            radioButton153.Text = "Perú";
+            radioButton153.UseVisualStyleBackColor = true;
+            // 
+            // radioButton154
+            // 
+            radioButton154.AutoSize = true;
+            radioButton154.Location = new Point(6, 11);
+            radioButton154.Name = "radioButton154";
+            radioButton154.Size = new Size(77, 19);
+            radioButton154.TabIndex = 0;
+            radioButton154.TabStop = true;
+            radioButton154.Text = "Venezuela";
+            radioButton154.UseVisualStyleBackColor = true;
+            // 
+            // groupBox28
+            // 
+            groupBox28.Controls.Add(radioButton139);
+            groupBox28.Controls.Add(radioButton155);
+            groupBox28.Controls.Add(radioButton156);
+            groupBox28.Controls.Add(radioButton157);
+            groupBox28.Controls.Add(radioButton158);
+            groupBox28.Controls.Add(radioButton159);
+            groupBox28.Controls.Add(radioButton160);
+            groupBox28.Location = new Point(23, 240);
+            groupBox28.Name = "groupBox28";
+            groupBox28.Size = new Size(326, 64);
+            groupBox28.TabIndex = 265;
+            groupBox28.TabStop = false;
+            // 
+            // radioButton139
+            // 
+            radioButton139.AutoSize = true;
+            radioButton139.Location = new Point(244, 11);
+            radioButton139.Name = "radioButton139";
+            radioButton139.Size = new Size(73, 19);
+            radioButton139.TabIndex = 6;
+            radioButton139.TabStop = true;
+            radioButton139.Text = "Otro país";
+            radioButton139.UseVisualStyleBackColor = true;
+            // 
+            // radioButton155
+            // 
+            radioButton155.AutoSize = true;
+            radioButton155.Location = new Point(165, 36);
+            radioButton155.Name = "radioButton155";
+            radioButton155.Size = new Size(77, 19);
+            radioButton155.TabIndex = 5;
+            radioButton155.TabStop = true;
+            radioButton155.Text = "Argentina";
+            radioButton155.UseVisualStyleBackColor = true;
+            // 
+            // radioButton156
+            // 
+            radioButton156.AutoSize = true;
+            radioButton156.Location = new Point(165, 11);
+            radioButton156.Name = "radioButton156";
+            radioButton156.Size = new Size(60, 19);
+            radioButton156.TabIndex = 4;
+            radioButton156.TabStop = true;
+            radioButton156.Text = "Bolivia";
+            radioButton156.UseVisualStyleBackColor = true;
+            // 
+            // radioButton157
+            // 
+            radioButton157.AutoSize = true;
+            radioButton157.Location = new Point(89, 36);
+            radioButton157.Name = "radioButton157";
+            radioButton157.Size = new Size(77, 19);
+            radioButton157.TabIndex = 3;
+            radioButton157.TabStop = true;
+            radioButton157.Text = "Colombia";
+            radioButton157.UseVisualStyleBackColor = true;
+            // 
+            // radioButton158
+            // 
+            radioButton158.AutoSize = true;
+            radioButton158.Location = new Point(89, 11);
+            radioButton158.Name = "radioButton158";
+            radioButton158.Size = new Size(50, 19);
+            radioButton158.TabIndex = 2;
+            radioButton158.TabStop = true;
+            radioButton158.Text = "Haití";
+            radioButton158.UseVisualStyleBackColor = true;
+            // 
+            // radioButton159
+            // 
+            radioButton159.AutoSize = true;
+            radioButton159.Location = new Point(6, 36);
+            radioButton159.Name = "radioButton159";
+            radioButton159.Size = new Size(49, 19);
+            radioButton159.TabIndex = 1;
+            radioButton159.TabStop = true;
+            radioButton159.Text = "Perú";
+            radioButton159.UseVisualStyleBackColor = true;
+            // 
+            // radioButton160
+            // 
+            radioButton160.AutoSize = true;
+            radioButton160.Location = new Point(6, 11);
+            radioButton160.Name = "radioButton160";
+            radioButton160.Size = new Size(77, 19);
+            radioButton160.TabIndex = 0;
+            radioButton160.TabStop = true;
+            radioButton160.Text = "Venezuela";
+            radioButton160.UseVisualStyleBackColor = true;
+            // 
+            // groupBox29
+            // 
+            groupBox29.Controls.Add(radioButton165);
+            groupBox29.Controls.Add(radioButton166);
+            groupBox29.Controls.Add(radioButton167);
+            groupBox29.Location = new Point(29, 87);
+            groupBox29.Name = "groupBox29";
+            groupBox29.Size = new Size(236, 64);
+            groupBox29.TabIndex = 266;
+            groupBox29.TabStop = false;
+            // 
+            // radioButton165
+            // 
+            radioButton165.AutoSize = true;
+            radioButton165.Location = new Point(121, 11);
+            radioButton165.Name = "radioButton165";
+            radioButton165.Size = new Size(109, 19);
+            radioButton165.TabIndex = 2;
+            radioButton165.TabStop = true;
+            radioButton165.Text = "En otra comuna";
+            radioButton165.UseVisualStyleBackColor = true;
+            // 
+            // radioButton166
+            // 
+            radioButton166.AutoSize = true;
+            radioButton166.Location = new Point(6, 36);
+            radioButton166.Name = "radioButton166";
+            radioButton166.Size = new Size(109, 19);
+            radioButton166.TabIndex = 1;
+            radioButton166.TabStop = true;
+            radioButton166.Text = "En esta comuna";
+            radioButton166.UseVisualStyleBackColor = true;
+            // 
+            // radioButton167
+            // 
+            radioButton167.AutoSize = true;
+            radioButton167.Location = new Point(6, 11);
+            radioButton167.Name = "radioButton167";
+            radioButton167.Size = new Size(95, 19);
+            radioButton167.TabIndex = 0;
+            radioButton167.TabStop = true;
+            radioButton167.Text = "Aún no nacía";
+            radioButton167.UseVisualStyleBackColor = true;
+            // 
+            // groupBox30
+            // 
+            groupBox30.Controls.Add(radioButton161);
+            groupBox30.Controls.Add(radioButton162);
+            groupBox30.Location = new Point(640, 154);
+            groupBox30.Name = "groupBox30";
+            groupBox30.Size = new Size(125, 64);
+            groupBox30.TabIndex = 267;
+            groupBox30.TabStop = false;
+            // 
+            // radioButton162
+            // 
+            radioButton162.AutoSize = true;
+            radioButton162.Location = new Point(6, 14);
+            radioButton162.Name = "radioButton162";
+            radioButton162.Size = new Size(109, 19);
+            radioButton162.TabIndex = 1;
+            radioButton162.TabStop = true;
+            radioButton162.Text = "En esta comuna";
+            radioButton162.UseVisualStyleBackColor = true;
+            // 
+            // radioButton161
+            // 
+            radioButton161.AutoSize = true;
+            radioButton161.Location = new Point(6, 35);
+            radioButton161.Name = "radioButton161";
+            radioButton161.Size = new Size(109, 19);
+            radioButton161.TabIndex = 2;
+            radioButton161.TabStop = true;
+            radioButton161.Text = "En otra comuna";
+            radioButton161.UseVisualStyleBackColor = true;
+            // 
+            // groupBox31
+            // 
+            groupBox31.Controls.Add(radioButton173);
+            groupBox31.Controls.Add(radioButton172);
+            groupBox31.Controls.Add(radioButton171);
+            groupBox31.Controls.Add(radioButton170);
+            groupBox31.Controls.Add(radioButton169);
+            groupBox31.Controls.Add(radioButton168);
+            groupBox31.Controls.Add(radioButton163);
+            groupBox31.Controls.Add(radioButton164);
+            groupBox31.Location = new Point(672, 144);
+            groupBox31.Name = "groupBox31";
+            groupBox31.Size = new Size(281, 217);
+            groupBox31.TabIndex = 268;
+            groupBox31.TabStop = false;
+            // 
+            // radioButton163
+            // 
+            radioButton163.AutoSize = true;
+            radioButton163.Location = new Point(6, 35);
+            radioButton163.Name = "radioButton163";
+            radioButton163.Size = new Size(271, 19);
+            radioButton163.TabIndex = 2;
+            radioButton163.TabStop = true;
+            radioButton163.Text = "Conviviente o pareja sin acuerdo de unión civil";
+            radioButton163.UseVisualStyleBackColor = true;
+            // 
+            // radioButton164
+            // 
+            radioButton164.AutoSize = true;
+            radioButton164.Location = new Point(6, 14);
+            radioButton164.Name = "radioButton164";
+            radioButton164.Size = new Size(75, 19);
+            radioButton164.TabIndex = 1;
+            radioButton164.TabStop = true;
+            radioButton164.Text = "Casado/a";
+            radioButton164.UseVisualStyleBackColor = true;
+            // 
+            // radioButton168
+            // 
+            radioButton168.AutoSize = true;
+            radioButton168.Location = new Point(6, 59);
+            radioButton168.Name = "radioButton168";
+            radioButton168.Size = new Size(263, 19);
+            radioButton168.TabIndex = 3;
+            radioButton168.TabStop = true;
+            radioButton168.Text = "Conviviente civil (con acuerdo de unión civil)";
+            radioButton168.UseVisualStyleBackColor = true;
+            // 
+            // radioButton169
+            // 
+            radioButton169.AutoSize = true;
+            radioButton169.Location = new Point(6, 83);
+            radioButton169.Name = "radioButton169";
+            radioButton169.Size = new Size(81, 19);
+            radioButton169.TabIndex = 4;
+            radioButton169.TabStop = true;
+            radioButton169.Text = "Anulado/a";
+            radioButton169.UseVisualStyleBackColor = true;
+            // 
+            // radioButton170
+            // 
+            radioButton170.AutoSize = true;
+            radioButton170.Location = new Point(6, 108);
+            radioButton170.Name = "radioButton170";
+            radioButton170.Size = new Size(85, 19);
+            radioButton170.TabIndex = 5;
+            radioButton170.TabStop = true;
+            radioButton170.Text = "Separado/a";
+            radioButton170.UseVisualStyleBackColor = true;
+            // 
+            // radioButton171
+            // 
+            radioButton171.AutoSize = true;
+            radioButton171.Location = new Point(6, 133);
+            radioButton171.Name = "radioButton171";
+            radioButton171.Size = new Size(93, 19);
+            radioButton171.TabIndex = 6;
+            radioButton171.TabStop = true;
+            radioButton171.Text = "Divorciado/a";
+            radioButton171.UseVisualStyleBackColor = true;
+            // 
+            // radioButton172
+            // 
+            radioButton172.AutoSize = true;
+            radioButton172.Location = new Point(6, 158);
+            radioButton172.Name = "radioButton172";
+            radioButton172.Size = new Size(67, 19);
+            radioButton172.TabIndex = 7;
+            radioButton172.TabStop = true;
+            radioButton172.Text = "Viudo/a";
+            radioButton172.UseVisualStyleBackColor = true;
+            // 
+            // radioButton173
+            // 
+            radioButton173.AutoSize = true;
+            radioButton173.Location = new Point(6, 183);
+            radioButton173.Name = "radioButton173";
+            radioButton173.Size = new Size(73, 19);
+            radioButton173.TabIndex = 8;
+            radioButton173.TabStop = true;
+            radioButton173.Text = "Soltero/a";
+            radioButton173.UseVisualStyleBackColor = true;
+            // 
+            // groupBox32
+            // 
+            groupBox32.Controls.Add(radioButton174);
+            groupBox32.Controls.Add(radioButton175);
+            groupBox32.Location = new Point(463, 135);
+            groupBox32.Name = "groupBox32";
+            groupBox32.Size = new Size(146, 44);
+            groupBox32.TabIndex = 269;
+            groupBox32.TabStop = false;
+            // 
+            // radioButton174
+            // 
+            radioButton174.AutoSize = true;
+            radioButton174.Location = new Point(84, 17);
+            radioButton174.Name = "radioButton174";
+            radioButton174.Size = new Size(56, 19);
+            radioButton174.TabIndex = 2;
+            radioButton174.TabStop = true;
+            radioButton174.Text = "Mujer";
+            radioButton174.UseVisualStyleBackColor = true;
+            // 
+            // radioButton175
+            // 
+            radioButton175.AutoSize = true;
+            radioButton175.Location = new Point(6, 17);
+            radioButton175.Name = "radioButton175";
+            radioButton175.Size = new Size(69, 19);
+            radioButton175.TabIndex = 1;
+            radioButton175.TabStop = true;
+            radioButton175.Text = "Hombre";
+            radioButton175.UseVisualStyleBackColor = true;
+            // 
+            // groupBox33
+            // 
+            groupBox33.Controls.Add(radioButton189);
+            groupBox33.Controls.Add(radioButton190);
+            groupBox33.Controls.Add(radioButton191);
+            groupBox33.Controls.Add(radioButton186);
+            groupBox33.Controls.Add(radioButton187);
+            groupBox33.Controls.Add(radioButton188);
+            groupBox33.Controls.Add(radioButton185);
+            groupBox33.Controls.Add(radioButton184);
+            groupBox33.Controls.Add(radioButton176);
+            groupBox33.Controls.Add(radioButton177);
+            groupBox33.Controls.Add(radioButton178);
+            groupBox33.Controls.Add(radioButton179);
+            groupBox33.Controls.Add(radioButton180);
+            groupBox33.Controls.Add(radioButton181);
+            groupBox33.Controls.Add(radioButton182);
+            groupBox33.Controls.Add(radioButton183);
+            groupBox33.Location = new Point(7, 144);
+            groupBox33.Name = "groupBox33";
+            groupBox33.Size = new Size(373, 217);
+            groupBox33.TabIndex = 270;
+            groupBox33.TabStop = false;
+            // 
+            // radioButton176
+            // 
+            radioButton176.AutoSize = true;
+            radioButton176.Location = new Point(250, 12);
+            radioButton176.Name = "radioButton176";
+            radioButton176.Size = new Size(94, 19);
+            radioButton176.TabIndex = 8;
+            radioButton176.TabStop = true;
+            radioButton176.Text = "Padre/Madre";
+            radioButton176.UseVisualStyleBackColor = true;
+            // 
+            // radioButton177
+            // 
+            radioButton177.AutoSize = true;
+            radioButton177.Location = new Point(6, 158);
+            radioButton177.Name = "radioButton177";
+            radioButton177.Size = new Size(86, 19);
+            radioButton177.TabIndex = 7;
+            radioButton177.TabStop = true;
+            radioButton177.Text = "Hermano/a";
+            radioButton177.UseVisualStyleBackColor = true;
+            // 
+            // radioButton178
+            // 
+            radioButton178.AutoSize = true;
+            radioButton178.Location = new Point(6, 133);
+            radioButton178.Name = "radioButton178";
+            radioButton178.Size = new Size(238, 19);
+            radioButton178.TabIndex = 6;
+            radioButton178.TabStop = true;
+            radioButton178.Text = "Hijo/a del cónyuge, conviviente o pareja";
+            radioButton178.UseVisualStyleBackColor = true;
+            // 
+            // radioButton179
+            // 
+            radioButton179.AutoSize = true;
+            radioButton179.Location = new Point(6, 108);
+            radioButton179.Name = "radioButton179";
+            radioButton179.Size = new Size(58, 19);
+            radioButton179.TabIndex = 5;
+            radioButton179.TabStop = true;
+            radioButton179.Text = "Hijo/a";
+            radioButton179.UseVisualStyleBackColor = true;
+            // 
+            // radioButton180
+            // 
+            radioButton180.AutoSize = true;
+            radioButton180.Location = new Point(6, 83);
+            radioButton180.Name = "radioButton180";
+            radioButton180.Size = new Size(185, 19);
+            radioButton180.TabIndex = 4;
+            radioButton180.TabStop = true;
+            radioButton180.Text = "Conviviente de hecho o pareja";
+            radioButton180.UseVisualStyleBackColor = true;
+            // 
+            // radioButton181
+            // 
+            radioButton181.AutoSize = true;
+            radioButton181.Location = new Point(6, 59);
+            radioButton181.Name = "radioButton181";
+            radioButton181.Size = new Size(167, 19);
+            radioButton181.TabIndex = 3;
+            radioButton181.TabStop = true;
+            radioButton181.Text = "Conviviente por unión civil";
+            radioButton181.UseVisualStyleBackColor = true;
+            // 
+            // radioButton182
+            // 
+            radioButton182.AutoSize = true;
+            radioButton182.Location = new Point(6, 35);
+            radioButton182.Name = "radioButton182";
+            radioButton182.Size = new Size(132, 19);
+            radioButton182.TabIndex = 2;
+            radioButton182.TabStop = true;
+            radioButton182.Text = "Esposo/a o cónyuge";
+            radioButton182.UseVisualStyleBackColor = true;
+            // 
+            // radioButton183
+            // 
+            radioButton183.AutoSize = true;
+            radioButton183.Location = new Point(6, 14);
+            radioButton183.Name = "radioButton183";
+            radioButton183.Size = new Size(106, 19);
+            radioButton183.TabIndex = 1;
+            radioButton183.TabStop = true;
+            radioButton183.Text = "Jefe/a de hogar";
+            radioButton183.UseVisualStyleBackColor = true;
+            // 
+            // radioButton184
+            // 
+            radioButton184.AutoSize = true;
+            radioButton184.Location = new Point(250, 37);
+            radioButton184.Name = "radioButton184";
+            radioButton184.Size = new Size(78, 19);
+            radioButton184.TabIndex = 9;
+            radioButton184.TabStop = true;
+            radioButton184.Text = "Cuñado/a";
+            radioButton184.UseVisualStyleBackColor = true;
+            // 
+            // radioButton185
+            // 
+            radioButton185.AutoSize = true;
+            radioButton185.Location = new Point(250, 62);
+            radioButton185.Name = "radioButton185";
+            radioButton185.Size = new Size(73, 19);
+            radioButton185.TabIndex = 10;
+            radioButton185.TabStop = true;
+            radioButton185.Text = "Suegro/a";
+            radioButton185.UseVisualStyleBackColor = true;
+            // 
+            // radioButton186
+            // 
+            radioButton186.AutoSize = true;
+            radioButton186.Location = new Point(250, 134);
+            radioButton186.Name = "radioButton186";
+            radioButton186.Size = new Size(74, 19);
+            radioButton186.TabIndex = 13;
+            radioButton186.TabStop = true;
+            radioButton186.Text = "Abuelo/a";
+            radioButton186.UseVisualStyleBackColor = true;
+            // 
+            // radioButton187
+            // 
+            radioButton187.AutoSize = true;
+            radioButton187.Location = new Point(250, 109);
+            radioButton187.Name = "radioButton187";
+            radioButton187.Size = new Size(65, 19);
+            radioButton187.TabIndex = 12;
+            radioButton187.TabStop = true;
+            radioButton187.Text = "Nieto/a";
+            radioButton187.UseVisualStyleBackColor = true;
+            // 
+            // radioButton188
+            // 
+            radioButton188.AutoSize = true;
+            radioButton188.Location = new Point(250, 84);
+            radioButton188.Name = "radioButton188";
+            radioButton188.Size = new Size(92, 19);
+            radioButton188.TabIndex = 11;
+            radioButton188.TabStop = true;
+            radioButton188.Text = "Yerno/Nuera";
+            radioButton188.UseVisualStyleBackColor = true;
+            // 
+            // radioButton189
+            // 
+            radioButton189.AutoSize = true;
+            radioButton189.Location = new Point(250, 180);
+            radioButton189.Name = "radioButton189";
+            radioButton189.Size = new Size(125, 34);
+            radioButton189.TabIndex = 16;
+            radioButton189.TabStop = true;
+            radioButton189.Text = "Servicio doméstico\r\n puertas adentro";
+            radioButton189.UseVisualStyleBackColor = true;
+            // 
+            // radioButton190
+            // 
+            radioButton190.AutoSize = true;
+            radioButton190.Location = new Point(250, 159);
+            radioButton190.Name = "radioButton190";
+            radioButton190.Size = new Size(87, 19);
+            radioButton190.TabIndex = 15;
+            radioButton190.TabStop = true;
+            radioButton190.Text = "No pariente";
+            radioButton190.UseVisualStyleBackColor = true;
+            // 
+            // radioButton191
+            // 
+            radioButton191.AutoSize = true;
+            radioButton191.Location = new Point(6, 180);
+            radioButton191.Name = "radioButton191";
+            radioButton191.Size = new Size(95, 19);
+            radioButton191.TabIndex = 14;
+            radioButton191.TabStop = true;
+            radioButton191.Text = "Otro pariente";
+            radioButton191.UseVisualStyleBackColor = true;
+            // 
+            // groupBox34
+            // 
+            groupBox34.Controls.Add(radioButton192);
+            groupBox34.Controls.Add(radioButton193);
+            groupBox34.Location = new Point(13, 134);
+            groupBox34.Name = "groupBox34";
+            groupBox34.Size = new Size(120, 39);
+            groupBox34.TabIndex = 257;
+            groupBox34.TabStop = false;
+            // 
+            // radioButton192
+            // 
+            radioButton192.AutoSize = true;
+            radioButton192.Location = new Point(6, 13);
+            radioButton192.Name = "radioButton192";
+            radioButton192.Size = new Size(34, 19);
+            radioButton192.TabIndex = 5;
+            radioButton192.TabStop = true;
+            radioButton192.Text = "Si";
+            radioButton192.UseVisualStyleBackColor = true;
+            // 
+            // radioButton193
+            // 
+            radioButton193.AutoSize = true;
+            radioButton193.Location = new Point(65, 13);
+            radioButton193.Name = "radioButton193";
+            radioButton193.Size = new Size(41, 19);
+            radioButton193.TabIndex = 0;
+            radioButton193.TabStop = true;
+            radioButton193.Text = "No";
+            radioButton193.UseVisualStyleBackColor = true;
+            // 
+            // groupBox35
+            // 
+            groupBox35.Controls.Add(radioButton194);
+            groupBox35.Controls.Add(radioButton195);
+            groupBox35.Location = new Point(269, 135);
+            groupBox35.Name = "groupBox35";
+            groupBox35.Size = new Size(120, 39);
+            groupBox35.TabIndex = 258;
+            groupBox35.TabStop = false;
+            // 
+            // radioButton194
+            // 
+            radioButton194.AutoSize = true;
+            radioButton194.Location = new Point(6, 13);
+            radioButton194.Name = "radioButton194";
+            radioButton194.Size = new Size(34, 19);
+            radioButton194.TabIndex = 5;
+            radioButton194.TabStop = true;
+            radioButton194.Text = "Si";
+            radioButton194.UseVisualStyleBackColor = true;
+            // 
+            // radioButton195
+            // 
+            radioButton195.AutoSize = true;
+            radioButton195.Location = new Point(65, 13);
+            radioButton195.Name = "radioButton195";
+            radioButton195.Size = new Size(41, 19);
+            radioButton195.TabIndex = 0;
+            radioButton195.TabStop = true;
+            radioButton195.Text = "No";
+            radioButton195.UseVisualStyleBackColor = true;
+            // 
+            // groupBox36
+            // 
+            groupBox36.Controls.Add(radioButton212);
+            groupBox36.Controls.Add(radioButton213);
+            groupBox36.Controls.Add(radioButton208);
+            groupBox36.Controls.Add(radioButton209);
+            groupBox36.Controls.Add(radioButton210);
+            groupBox36.Controls.Add(radioButton211);
+            groupBox36.Controls.Add(radioButton204);
+            groupBox36.Controls.Add(radioButton205);
+            groupBox36.Controls.Add(radioButton206);
+            groupBox36.Controls.Add(radioButton207);
+            groupBox36.Controls.Add(radioButton200);
+            groupBox36.Controls.Add(radioButton201);
+            groupBox36.Controls.Add(radioButton202);
+            groupBox36.Controls.Add(radioButton203);
+            groupBox36.Controls.Add(radioButton198);
+            groupBox36.Controls.Add(radioButton199);
+            groupBox36.Controls.Add(radioButton196);
+            groupBox36.Controls.Add(radioButton197);
+            groupBox36.Location = new Point(374, 96);
+            groupBox36.Name = "groupBox36";
+            groupBox36.Size = new Size(109, 269);
+            groupBox36.TabIndex = 257;
+            groupBox36.TabStop = false;
+            // 
+            // radioButton196
+            // 
+            radioButton196.AutoSize = true;
+            radioButton196.Location = new Point(6, 13);
+            radioButton196.Name = "radioButton196";
+            radioButton196.Size = new Size(34, 19);
+            radioButton196.TabIndex = 5;
+            radioButton196.TabStop = true;
+            radioButton196.Text = "H";
+            radioButton196.UseVisualStyleBackColor = true;
+            // 
+            // radioButton197
+            // 
+            radioButton197.AutoSize = true;
+            radioButton197.Location = new Point(65, 13);
+            radioButton197.Name = "radioButton197";
+            radioButton197.Size = new Size(36, 19);
+            radioButton197.TabIndex = 0;
+            radioButton197.TabStop = true;
+            radioButton197.Text = "M";
+            radioButton197.UseVisualStyleBackColor = true;
+            // 
+            // radioButton198
+            // 
+            radioButton198.AutoSize = true;
+            radioButton198.Location = new Point(6, 38);
+            radioButton198.Name = "radioButton198";
+            radioButton198.Size = new Size(34, 19);
+            radioButton198.TabIndex = 7;
+            radioButton198.TabStop = true;
+            radioButton198.Text = "H";
+            radioButton198.UseVisualStyleBackColor = true;
+            // 
+            // radioButton199
+            // 
+            radioButton199.AutoSize = true;
+            radioButton199.Location = new Point(65, 38);
+            radioButton199.Name = "radioButton199";
+            radioButton199.Size = new Size(36, 19);
+            radioButton199.TabIndex = 6;
+            radioButton199.TabStop = true;
+            radioButton199.Text = "M";
+            radioButton199.UseVisualStyleBackColor = true;
+            // 
+            // radioButton200
+            // 
+            radioButton200.AutoSize = true;
+            radioButton200.Location = new Point(6, 93);
+            radioButton200.Name = "radioButton200";
+            radioButton200.Size = new Size(34, 19);
+            radioButton200.TabIndex = 11;
+            radioButton200.TabStop = true;
+            radioButton200.Text = "H";
+            radioButton200.UseVisualStyleBackColor = true;
+            // 
+            // radioButton201
+            // 
+            radioButton201.AutoSize = true;
+            radioButton201.Location = new Point(65, 93);
+            radioButton201.Name = "radioButton201";
+            radioButton201.Size = new Size(36, 19);
+            radioButton201.TabIndex = 10;
+            radioButton201.TabStop = true;
+            radioButton201.Text = "M";
+            radioButton201.UseVisualStyleBackColor = true;
+            // 
+            // radioButton202
+            // 
+            radioButton202.AutoSize = true;
+            radioButton202.Location = new Point(6, 64);
+            radioButton202.Name = "radioButton202";
+            radioButton202.Size = new Size(34, 19);
+            radioButton202.TabIndex = 9;
+            radioButton202.TabStop = true;
+            radioButton202.Text = "H";
+            radioButton202.UseVisualStyleBackColor = true;
+            // 
+            // radioButton203
+            // 
+            radioButton203.AutoSize = true;
+            radioButton203.Location = new Point(65, 64);
+            radioButton203.Name = "radioButton203";
+            radioButton203.Size = new Size(36, 19);
+            radioButton203.TabIndex = 8;
+            radioButton203.TabStop = true;
+            radioButton203.Text = "M";
+            radioButton203.UseVisualStyleBackColor = true;
+            // 
+            // radioButton204
+            // 
+            radioButton204.AutoSize = true;
+            radioButton204.Location = new Point(6, 150);
+            radioButton204.Name = "radioButton204";
+            radioButton204.Size = new Size(34, 19);
+            radioButton204.TabIndex = 15;
+            radioButton204.TabStop = true;
+            radioButton204.Text = "H";
+            radioButton204.UseVisualStyleBackColor = true;
+            // 
+            // radioButton205
+            // 
+            radioButton205.AutoSize = true;
+            radioButton205.Location = new Point(65, 150);
+            radioButton205.Name = "radioButton205";
+            radioButton205.Size = new Size(36, 19);
+            radioButton205.TabIndex = 14;
+            radioButton205.TabStop = true;
+            radioButton205.Text = "M";
+            radioButton205.UseVisualStyleBackColor = true;
+            // 
+            // radioButton206
+            // 
+            radioButton206.AutoSize = true;
+            radioButton206.Location = new Point(6, 122);
+            radioButton206.Name = "radioButton206";
+            radioButton206.Size = new Size(34, 19);
+            radioButton206.TabIndex = 13;
+            radioButton206.TabStop = true;
+            radioButton206.Text = "H";
+            radioButton206.UseVisualStyleBackColor = true;
+            // 
+            // radioButton207
+            // 
+            radioButton207.AutoSize = true;
+            radioButton207.Location = new Point(65, 122);
+            radioButton207.Name = "radioButton207";
+            radioButton207.Size = new Size(36, 19);
+            radioButton207.TabIndex = 12;
+            radioButton207.TabStop = true;
+            radioButton207.Text = "M";
+            radioButton207.UseVisualStyleBackColor = true;
+            // 
+            // radioButton208
+            // 
+            radioButton208.AutoSize = true;
+            radioButton208.Location = new Point(6, 208);
+            radioButton208.Name = "radioButton208";
+            radioButton208.Size = new Size(34, 19);
+            radioButton208.TabIndex = 19;
+            radioButton208.TabStop = true;
+            radioButton208.Text = "H";
+            radioButton208.UseVisualStyleBackColor = true;
+            // 
+            // radioButton209
+            // 
+            radioButton209.AutoSize = true;
+            radioButton209.Location = new Point(65, 208);
+            radioButton209.Name = "radioButton209";
+            radioButton209.Size = new Size(36, 19);
+            radioButton209.TabIndex = 18;
+            radioButton209.TabStop = true;
+            radioButton209.Text = "M";
+            radioButton209.UseVisualStyleBackColor = true;
+            // 
+            // radioButton210
+            // 
+            radioButton210.AutoSize = true;
+            radioButton210.Location = new Point(6, 179);
+            radioButton210.Name = "radioButton210";
+            radioButton210.Size = new Size(34, 19);
+            radioButton210.TabIndex = 17;
+            radioButton210.TabStop = true;
+            radioButton210.Text = "H";
+            radioButton210.UseVisualStyleBackColor = true;
+            // 
+            // radioButton211
+            // 
+            radioButton211.AutoSize = true;
+            radioButton211.Location = new Point(65, 179);
+            radioButton211.Name = "radioButton211";
+            radioButton211.Size = new Size(36, 19);
+            radioButton211.TabIndex = 16;
+            radioButton211.TabStop = true;
+            radioButton211.Text = "M";
+            radioButton211.UseVisualStyleBackColor = true;
+            // 
+            // radioButton212
+            // 
+            radioButton212.AutoSize = true;
+            radioButton212.Location = new Point(6, 237);
+            radioButton212.Name = "radioButton212";
+            radioButton212.Size = new Size(34, 19);
+            radioButton212.TabIndex = 21;
+            radioButton212.TabStop = true;
+            radioButton212.Text = "H";
+            radioButton212.UseVisualStyleBackColor = true;
+            // 
+            // radioButton213
+            // 
+            radioButton213.AutoSize = true;
+            radioButton213.Location = new Point(65, 237);
+            radioButton213.Name = "radioButton213";
+            radioButton213.Size = new Size(36, 19);
+            radioButton213.TabIndex = 20;
+            radioButton213.TabStop = true;
+            radioButton213.Text = "M";
+            radioButton213.UseVisualStyleBackColor = true;
+            // 
+            // groupBox37
+            // 
+            groupBox37.Controls.Add(radioButton220);
+            groupBox37.Controls.Add(radioButton221);
+            groupBox37.Controls.Add(radioButton218);
+            groupBox37.Controls.Add(radioButton219);
+            groupBox37.Controls.Add(radioButton216);
+            groupBox37.Controls.Add(radioButton217);
+            groupBox37.Controls.Add(radioButton214);
+            groupBox37.Controls.Add(radioButton215);
+            groupBox37.Controls.Add(radioButton230);
+            groupBox37.Controls.Add(radioButton231);
+            groupBox37.Location = new Point(260, 100);
+            groupBox37.Name = "groupBox37";
+            groupBox37.Size = new Size(109, 143);
+            groupBox37.TabIndex = 258;
+            groupBox37.TabStop = false;
+            // 
+            // radioButton230
+            // 
+            radioButton230.AutoSize = true;
+            radioButton230.Location = new Point(6, 13);
+            radioButton230.Name = "radioButton230";
+            radioButton230.Size = new Size(34, 19);
+            radioButton230.TabIndex = 5;
+            radioButton230.TabStop = true;
+            radioButton230.Text = "Si";
+            radioButton230.UseVisualStyleBackColor = true;
+            // 
+            // radioButton231
+            // 
+            radioButton231.AutoSize = true;
+            radioButton231.Location = new Point(65, 13);
+            radioButton231.Name = "radioButton231";
+            radioButton231.Size = new Size(41, 19);
+            radioButton231.TabIndex = 0;
+            radioButton231.TabStop = true;
+            radioButton231.Text = "No";
+            radioButton231.UseVisualStyleBackColor = true;
+            // 
+            // radioButton214
+            // 
+            radioButton214.AutoSize = true;
+            radioButton214.Location = new Point(6, 38);
+            radioButton214.Name = "radioButton214";
+            radioButton214.Size = new Size(34, 19);
+            radioButton214.TabIndex = 7;
+            radioButton214.TabStop = true;
+            radioButton214.Text = "Si";
+            radioButton214.UseVisualStyleBackColor = true;
+            // 
+            // radioButton215
+            // 
+            radioButton215.AutoSize = true;
+            radioButton215.Location = new Point(65, 38);
+            radioButton215.Name = "radioButton215";
+            radioButton215.Size = new Size(41, 19);
+            radioButton215.TabIndex = 6;
+            radioButton215.TabStop = true;
+            radioButton215.Text = "No";
+            radioButton215.UseVisualStyleBackColor = true;
+            // 
+            // radioButton216
+            // 
+            radioButton216.AutoSize = true;
+            radioButton216.Location = new Point(6, 63);
+            radioButton216.Name = "radioButton216";
+            radioButton216.Size = new Size(34, 19);
+            radioButton216.TabIndex = 9;
+            radioButton216.TabStop = true;
+            radioButton216.Text = "Si";
+            radioButton216.UseVisualStyleBackColor = true;
+            // 
+            // radioButton217
+            // 
+            radioButton217.AutoSize = true;
+            radioButton217.Location = new Point(65, 63);
+            radioButton217.Name = "radioButton217";
+            radioButton217.Size = new Size(41, 19);
+            radioButton217.TabIndex = 8;
+            radioButton217.TabStop = true;
+            radioButton217.Text = "No";
+            radioButton217.UseVisualStyleBackColor = true;
+            // 
+            // radioButton218
+            // 
+            radioButton218.AutoSize = true;
+            radioButton218.Location = new Point(6, 88);
+            radioButton218.Name = "radioButton218";
+            radioButton218.Size = new Size(34, 19);
+            radioButton218.TabIndex = 11;
+            radioButton218.TabStop = true;
+            radioButton218.Text = "Si";
+            radioButton218.UseVisualStyleBackColor = true;
+            // 
+            // radioButton219
+            // 
+            radioButton219.AutoSize = true;
+            radioButton219.Location = new Point(65, 88);
+            radioButton219.Name = "radioButton219";
+            radioButton219.Size = new Size(41, 19);
+            radioButton219.TabIndex = 10;
+            radioButton219.TabStop = true;
+            radioButton219.Text = "No";
+            radioButton219.UseVisualStyleBackColor = true;
+            // 
+            // radioButton220
+            // 
+            radioButton220.AutoSize = true;
+            radioButton220.Location = new Point(6, 113);
+            radioButton220.Name = "radioButton220";
+            radioButton220.Size = new Size(34, 19);
+            radioButton220.TabIndex = 13;
+            radioButton220.TabStop = true;
+            radioButton220.Text = "Si";
+            radioButton220.UseVisualStyleBackColor = true;
+            // 
+            // radioButton221
+            // 
+            radioButton221.AutoSize = true;
+            radioButton221.Location = new Point(65, 113);
+            radioButton221.Name = "radioButton221";
+            radioButton221.Size = new Size(41, 19);
+            radioButton221.TabIndex = 12;
+            radioButton221.TabStop = true;
+            radioButton221.Text = "No";
+            radioButton221.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -5857,6 +8630,80 @@
             tabPage28.ResumeLayout(false);
             tabPage28.PerformLayout();
             fondoLogo.ResumeLayout(false);
+            groupBox1.ResumeLayout(false);
+            groupBox1.PerformLayout();
+            groupBox2.ResumeLayout(false);
+            groupBox2.PerformLayout();
+            groupBox3.ResumeLayout(false);
+            groupBox3.PerformLayout();
+            groupBox4.ResumeLayout(false);
+            groupBox4.PerformLayout();
+            groupBox5.ResumeLayout(false);
+            groupBox5.PerformLayout();
+            groupBox6.ResumeLayout(false);
+            groupBox6.PerformLayout();
+            groupBox7.ResumeLayout(false);
+            groupBox7.PerformLayout();
+            groupBox8.ResumeLayout(false);
+            groupBox8.PerformLayout();
+            groupBox9.ResumeLayout(false);
+            groupBox9.PerformLayout();
+            groupBox10.ResumeLayout(false);
+            groupBox10.PerformLayout();
+            groupBox11.ResumeLayout(false);
+            groupBox11.PerformLayout();
+            groupBox12.ResumeLayout(false);
+            groupBox12.PerformLayout();
+            groupBox13.ResumeLayout(false);
+            groupBox13.PerformLayout();
+            groupBox14.ResumeLayout(false);
+            groupBox14.PerformLayout();
+            groupBox15.ResumeLayout(false);
+            groupBox15.PerformLayout();
+            groupBox16.ResumeLayout(false);
+            groupBox16.PerformLayout();
+            groupBox17.ResumeLayout(false);
+            groupBox17.PerformLayout();
+            groupBox18.ResumeLayout(false);
+            groupBox18.PerformLayout();
+            groupBox19.ResumeLayout(false);
+            groupBox19.PerformLayout();
+            groupBox20.ResumeLayout(false);
+            groupBox20.PerformLayout();
+            groupBox21.ResumeLayout(false);
+            groupBox21.PerformLayout();
+            groupBox22.ResumeLayout(false);
+            groupBox22.PerformLayout();
+            groupBox23.ResumeLayout(false);
+            groupBox23.PerformLayout();
+            groupBox24.ResumeLayout(false);
+            groupBox24.PerformLayout();
+            groupBox25.ResumeLayout(false);
+            groupBox25.PerformLayout();
+            groupBox26.ResumeLayout(false);
+            groupBox26.PerformLayout();
+            groupBox27.ResumeLayout(false);
+            groupBox27.PerformLayout();
+            groupBox28.ResumeLayout(false);
+            groupBox28.PerformLayout();
+            groupBox29.ResumeLayout(false);
+            groupBox29.PerformLayout();
+            groupBox30.ResumeLayout(false);
+            groupBox30.PerformLayout();
+            groupBox31.ResumeLayout(false);
+            groupBox31.PerformLayout();
+            groupBox32.ResumeLayout(false);
+            groupBox32.PerformLayout();
+            groupBox33.ResumeLayout(false);
+            groupBox33.PerformLayout();
+            groupBox34.ResumeLayout(false);
+            groupBox34.PerformLayout();
+            groupBox35.ResumeLayout(false);
+            groupBox35.PerformLayout();
+            groupBox36.ResumeLayout(false);
+            groupBox36.PerformLayout();
+            groupBox37.ResumeLayout(false);
+            groupBox37.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -5998,7 +8845,6 @@
         private Label label70;
         private Button button16;
         private Button button15;
-        private CheckedListBox checkedListBox20;
         private Label label71;
         private Label label72;
         private Label label73;
@@ -6014,7 +8860,6 @@
         private Label label81;
         private Label label83;
         private Label label82;
-        private CheckedListBox checkedListBox21;
         private Label label86;
         private Label label85;
         private Label label84;
@@ -6063,14 +8908,10 @@
         private Label label94;
         private Label label93;
         private Label label92;
-        private CheckedListBox checkedListBox22;
-        private CheckedListBox checkedListBox23;
         private Button button20;
         private Button button19;
         private Label label102;
         private Label label101;
-        private CheckedListBox checkedListBox24;
-        private CheckedListBox checkedListBox25;
         private Label label100;
         private Button button22;
         private Button button21;
@@ -6081,7 +8922,6 @@
         private Label label104;
         private Label label103;
         private Label label107;
-        private CheckedListBox checkedListBox26;
         private Label label108;
         private Button button24;
         private Button button23;
@@ -6096,13 +8936,11 @@
         private TextBox textBox34;
         private Label label111;
         private Label label112;
-        private CheckedListBox checkedListBox27;
         private Label label110;
         private Label label109;
         private Label label119;
         private Label label120;
         private Label label118;
-        private CheckedListBox checkedListBox28;
         private TabPage tabPage13;
         private Label label121;
         private TabPage tabPage14;
@@ -6111,7 +8949,6 @@
         private Label label123;
         private Label label124;
         private TextBox textBox54;
-        private CheckedListBox checkedListBox29;
         private Label label130;
         private Label label129;
         private Label label127;
@@ -6119,9 +8956,7 @@
         private Button button25;
         private TextBox textBox55;
         private Label label126;
-        private CheckedListBox checkedListBox30;
         private Label label125;
-        private CheckedListBox checkedListBox31;
         private Label label131;
         private TextBox textBox56;
         private Button button26;
@@ -6134,13 +8969,10 @@
         private Button button28;
         private TextBox textBox57;
         private Label label134;
-        private CheckedListBox checkedListBox32;
         private Label label133;
-        private CheckedListBox checkedListBox33;
         private Label label139;
         private Label label138;
         private TextBox textBox58;
-        private CheckedListBox checkedListBox34;
         private Label label140;
         private Label label141;
         private Label label142;
@@ -6150,11 +8982,9 @@
         private TextBox textBox59;
         private Label label144;
         private Label label145;
-        private CheckedListBox checkedListBox36;
         private Label label147;
         private Button button32;
         private Label label146;
-        private CheckedListBox checkedListBox35;
         private TextBox textBox60;
         private Label label148;
         private TabPage tabPage16;
@@ -6175,13 +9005,10 @@
         private Button button39;
         private Button button42;
         private Button button41;
-        private CheckedListBox checkedListBox38;
         private Label label153;
         private Label label154;
         private Label label155;
         private Label label152;
-        private CheckedListBox checkedListBox37;
-        private CheckedListBox checkedListBox39;
         private Label label157;
         private Label label158;
         private Label label159;
@@ -6190,10 +9017,8 @@
         private Label label160;
         private TextBox textBox61;
         private Label label156;
-        private CheckedListBox checkedListBox40;
         private Label label163;
         private Label label164;
-        private CheckedListBox checkedListBox41;
         private Label label166;
         private Label label167;
         private Label label165;
@@ -6202,17 +9027,12 @@
         private Label label169;
         private Button button43;
         private Label label171;
-        private CheckedListBox checkedListBox42;
-        private CheckedListBox checkedListBox43;
-        private CheckedListBox checkedListBox44;
         private Label label172;
         private Label label173;
         private Label label174;
-        private CheckedListBox checkedListBox45;
         private Label label175;
         private Label label176;
         private Label label177;
-        private CheckedListBox checkedListBox46;
         private Label label180;
         private Label label181;
         private Label label178;
@@ -6222,13 +9042,11 @@
         private Label label184;
         private Label label185;
         private Label label186;
-        private CheckedListBox checkedListBox47;
         private Label label188;
         private Button button44;
         private Label label187;
         private Button button45;
         private Label label189;
-        private CheckedListBox checkedListBox48;
         private TabPage tabPage21;
         private Label label193;
         private Label label194;
@@ -6237,7 +9055,6 @@
         private Label label192;
         private Button button47;
         private Button button46;
-        private CheckedListBox checkedListBox49;
         private Label label190;
         private Label label191;
         private TabPage tabPage22;
@@ -6249,7 +9066,6 @@
         private TabPage tabPage24;
         private Button button53;
         private Button button52;
-        private CheckedListBox checkedListBox50;
         private TextBox textBox62;
         private Label label195;
         private Label label197;
@@ -6264,20 +9080,16 @@
         private Label label204;
         private Button button55;
         private Label label205;
-        private CheckedListBox checkedListBox52;
         private Label label208;
         private Label label209;
         private TextBox textBox65;
         private Label label210;
         private TextBox textBox66;
         private Label label211;
-        private CheckedListBox checkedListBox53;
         private Label label212;
-        private CheckedListBox checkedListBox51;
         private Label label206;
         private Label label207;
         private Label label213;
-        private CheckedListBox checkedListBox54;
         private Label label215;
         private Label label216;
         private Label label218;
@@ -6299,13 +9111,10 @@
         private Label label228;
         private Button button57;
         private Label label227;
-        private CheckedListBox checkedListBox55;
         private TextBox textBox72;
         private Label label229;
-        private CheckedListBox checkedListBox56;
         private TabPage tabPage25;
         private Label label232;
-        private CheckedListBox checkedListBox57;
         private Label label230;
         private Label label231;
         private Button button60;
@@ -6333,9 +9142,268 @@
         private TextBox textBox75;
         private Label label242;
         private TextBox textBox74;
-        private CheckedListBox checkedListBox58;
         private Label label241;
         private Button btnNoche;
         private Button btnDia;
+        private GroupBox groupBox1;
+        private RadioButton radioButton4;
+        private RadioButton radioButton3;
+        private RadioButton radioButton2;
+        private RadioButton radioButton1;
+        private GroupBox groupBox5;
+        private RadioButton radioButton11;
+        private GroupBox groupBox4;
+        private RadioButton radioButton12;
+        private GroupBox groupBox3;
+        private RadioButton radioButton15;
+        private RadioButton radioButton16;
+        private GroupBox groupBox2;
+        private RadioButton radioButton10;
+        private RadioButton radioButton9;
+        private RadioButton radioButton5;
+        private RadioButton radioButton6;
+        private RadioButton radioButton7;
+        private RadioButton radioButton8;
+        private GroupBox groupBox6;
+        private RadioButton radioButton20;
+        private RadioButton radioButton19;
+        private RadioButton radioButton18;
+        private RadioButton radioButton17;
+        private RadioButton radioButton14;
+        private RadioButton radioButton13;
+        private GroupBox groupBox8;
+        private RadioButton radioButton35;
+        private RadioButton radioButton36;
+        private RadioButton radioButton37;
+        private GroupBox groupBox7;
+        private RadioButton radioButton29;
+        private RadioButton radioButton22;
+        private RadioButton radioButton23;
+        private RadioButton radioButton24;
+        private RadioButton radioButton25;
+        private RadioButton radioButton26;
+        private RadioButton radioButton27;
+        private RadioButton radioButton28;
+        private RadioButton radioButton21;
+        private GroupBox groupBox10;
+        private RadioButton radioButton33;
+        private RadioButton radioButton34;
+        private RadioButton radioButton38;
+        private GroupBox groupBox9;
+        private RadioButton radioButton30;
+        private RadioButton radioButton31;
+        private RadioButton radioButton32;
+        private GroupBox groupBox11;
+        private RadioButton radioButton46;
+        private RadioButton radioButton41;
+        private RadioButton radioButton42;
+        private RadioButton radioButton43;
+        private RadioButton radioButton44;
+        private RadioButton radioButton45;
+        private RadioButton radioButton40;
+        private RadioButton radioButton39;
+        private GroupBox groupBox12;
+        private RadioButton radioButton47;
+        private RadioButton radioButton52;
+        private GroupBox groupBox15;
+        private RadioButton radioButton62;
+        private RadioButton radioButton61;
+        private RadioButton radioButton60;
+        private RadioButton radioButton59;
+        private RadioButton radioButton58;
+        private RadioButton radioButton57;
+        private RadioButton radioButton56;
+        private RadioButton radioButton55;
+        private RadioButton radioButton53;
+        private RadioButton radioButton54;
+        private GroupBox groupBox14;
+        private RadioButton radioButton50;
+        private RadioButton radioButton51;
+        private GroupBox groupBox13;
+        private RadioButton radioButton48;
+        private RadioButton radioButton49;
+        private GroupBox groupBox18;
+        private RadioButton radioButton75;
+        private RadioButton radioButton76;
+        private RadioButton radioButton77;
+        private RadioButton radioButton78;
+        private RadioButton radioButton79;
+        private RadioButton radioButton80;
+        private RadioButton radioButton81;
+        private RadioButton radioButton82;
+        private RadioButton radioButton83;
+        private RadioButton radioButton84;
+        private GroupBox groupBox17;
+        private RadioButton radioButton73;
+        private RadioButton radioButton74;
+        private GroupBox groupBox16;
+        private RadioButton radioButton68;
+        private RadioButton radioButton69;
+        private RadioButton radioButton70;
+        private RadioButton radioButton71;
+        private RadioButton radioButton72;
+        private RadioButton radioButton63;
+        private GroupBox groupBox20;
+        private RadioButton radioButton93;
+        private RadioButton radioButton94;
+        private RadioButton radioButton95;
+        private RadioButton radioButton96;
+        private RadioButton radioButton97;
+        private RadioButton radioButton98;
+        private RadioButton radioButton99;
+        private RadioButton radioButton100;
+        private RadioButton radioButton101;
+        private RadioButton radioButton102;
+        private RadioButton radioButton103;
+        private RadioButton radioButton104;
+        private GroupBox groupBox19;
+        private RadioButton radioButton89;
+        private RadioButton radioButton90;
+        private RadioButton radioButton91;
+        private RadioButton radioButton92;
+        private RadioButton radioButton67;
+        private RadioButton radioButton86;
+        private RadioButton radioButton87;
+        private RadioButton radioButton88;
+        private RadioButton radioButton64;
+        private RadioButton radioButton65;
+        private RadioButton radioButton66;
+        private RadioButton radioButton85;
+        private GroupBox groupBox21;
+        private RadioButton radioButton105;
+        private RadioButton radioButton106;
+        private RadioButton radioButton108;
+        private RadioButton radioButton110;
+        private RadioButton radioButton112;
+        private RadioButton radioButton114;
+        private RadioButton radioButton116;
+        private GroupBox groupBox22;
+        private RadioButton radioButton120;
+        private RadioButton radioButton121;
+        private RadioButton radioButton122;
+        private RadioButton radioButton107;
+        private RadioButton radioButton109;
+        private RadioButton radioButton111;
+        private RadioButton radioButton113;
+        private RadioButton radioButton115;
+        private RadioButton radioButton117;
+        private RadioButton radioButton118;
+        private GroupBox groupBox23;
+        private RadioButton radioButton119;
+        private RadioButton radioButton123;
+        private RadioButton radioButton124;
+        private RadioButton radioButton125;
+        private RadioButton radioButton126;
+        private RadioButton radioButton127;
+        private RadioButton radioButton128;
+        private RadioButton radioButton129;
+        private RadioButton radioButton130;
+        private RadioButton radioButton131;
+        private GroupBox groupBox24;
+        private RadioButton radioButton134;
+        private RadioButton radioButton135;
+        private RadioButton radioButton133;
+        private RadioButton radioButton132;
+        private GroupBox groupBox25;
+        private RadioButton radioButton138;
+        private RadioButton radioButton136;
+        private RadioButton radioButton137;
+        private GroupBox groupBox26;
+        private RadioButton radioButton140;
+        private RadioButton radioButton143;
+        private RadioButton radioButton144;
+        private RadioButton radioButton145;
+        private RadioButton radioButton147;
+        private RadioButton radioButton148;
+        private RadioButton radioButton149;
+        private RadioButton radioButton150;
+        private GroupBox groupBox30;
+        private RadioButton radioButton161;
+        private RadioButton radioButton162;
+        private GroupBox groupBox29;
+        private RadioButton radioButton165;
+        private RadioButton radioButton166;
+        private RadioButton radioButton167;
+        private GroupBox groupBox28;
+        private RadioButton radioButton139;
+        private RadioButton radioButton155;
+        private RadioButton radioButton156;
+        private RadioButton radioButton157;
+        private RadioButton radioButton158;
+        private RadioButton radioButton159;
+        private RadioButton radioButton160;
+        private GroupBox groupBox27;
+        private RadioButton radioButton141;
+        private RadioButton radioButton142;
+        private RadioButton radioButton146;
+        private RadioButton radioButton151;
+        private RadioButton radioButton152;
+        private RadioButton radioButton153;
+        private RadioButton radioButton154;
+        private GroupBox groupBox33;
+        private RadioButton radioButton176;
+        private RadioButton radioButton177;
+        private RadioButton radioButton178;
+        private RadioButton radioButton179;
+        private RadioButton radioButton180;
+        private RadioButton radioButton181;
+        private RadioButton radioButton182;
+        private RadioButton radioButton183;
+        private GroupBox groupBox32;
+        private RadioButton radioButton174;
+        private RadioButton radioButton175;
+        private GroupBox groupBox31;
+        private RadioButton radioButton173;
+        private RadioButton radioButton172;
+        private RadioButton radioButton171;
+        private RadioButton radioButton170;
+        private RadioButton radioButton169;
+        private RadioButton radioButton168;
+        private RadioButton radioButton163;
+        private RadioButton radioButton164;
+        private RadioButton radioButton189;
+        private RadioButton radioButton190;
+        private RadioButton radioButton191;
+        private RadioButton radioButton186;
+        private RadioButton radioButton187;
+        private RadioButton radioButton188;
+        private RadioButton radioButton185;
+        private RadioButton radioButton184;
+        private GroupBox groupBox36;
+        private RadioButton radioButton212;
+        private RadioButton radioButton213;
+        private RadioButton radioButton208;
+        private RadioButton radioButton209;
+        private RadioButton radioButton210;
+        private RadioButton radioButton211;
+        private RadioButton radioButton204;
+        private RadioButton radioButton205;
+        private RadioButton radioButton206;
+        private RadioButton radioButton207;
+        private RadioButton radioButton200;
+        private RadioButton radioButton201;
+        private RadioButton radioButton202;
+        private RadioButton radioButton203;
+        private RadioButton radioButton198;
+        private RadioButton radioButton199;
+        private RadioButton radioButton196;
+        private RadioButton radioButton197;
+        private GroupBox groupBox35;
+        private RadioButton radioButton194;
+        private RadioButton radioButton195;
+        private GroupBox groupBox34;
+        private RadioButton radioButton192;
+        private RadioButton radioButton193;
+        private GroupBox groupBox37;
+        private RadioButton radioButton220;
+        private RadioButton radioButton221;
+        private RadioButton radioButton218;
+        private RadioButton radioButton219;
+        private RadioButton radioButton216;
+        private RadioButton radioButton217;
+        private RadioButton radioButton214;
+        private RadioButton radioButton215;
+        private RadioButton radioButton230;
+        private RadioButton radioButton231;
     }
 }
