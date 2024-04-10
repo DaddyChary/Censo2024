@@ -1,0 +1,17 @@
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo_2024.Form1.resources
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo-2024.csproj.GenerateResource.cache
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo-2024.AssemblyInfoInputs.cache
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo-2024.AssemblyInfo.cs
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo-2024.csproj.CoreCompileInputs.cache
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\bin\Debug\net8.0-windows\Censo-2024.exe
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\bin\Debug\net8.0-windows\Censo-2024.deps.json
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\bin\Debug\net8.0-windows\Censo-2024.runtimeconfig.json
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\bin\Debug\net8.0-windows\Censo-2024.dll
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\bin\Debug\net8.0-windows\Censo-2024.pdb
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo-2024.dll
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\refint\Censo-2024.dll
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo-2024.pdb
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo-2024.genruntimeconfig.cache
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\ref\Censo-2024.dll
+C:\Users\DaddyChary\source\repos\Censo-2024\Censo-2024\obj\Debug\net8.0-windows\Censo_2024.Properties.Resources.resources
