@@ -31,6 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             tablePanel2 = new TabControl();
             tabPage1 = new TabPage();
+            btnNoche = new Button();
+            btnDia = new Button();
             verCenso = new Button();
             Iniciar = new Button();
             tabPage2 = new TabPage();
@@ -440,62 +442,69 @@
             button51 = new Button();
             button50 = new Button();
             tabPage24 = new TabPage();
-            button56 = new Button();
-            label213 = new Label();
-            button53 = new Button();
-            button52 = new Button();
-            fondoLogo = new Panel();
-            label1 = new Label();
+            label243 = new Label();
+            textBox75 = new TextBox();
+            label242 = new Label();
+            textBox74 = new TextBox();
+            checkedListBox58 = new CheckedListBox();
+            label241 = new Label();
+            label219 = new Label();
+            label239 = new Label();
+            label240 = new Label();
+            checkedListBox56 = new CheckedListBox();
+            textBox72 = new TextBox();
+            label229 = new Label();
+            button58 = new Button();
+            label228 = new Label();
+            button57 = new Button();
+            label227 = new Label();
+            checkedListBox55 = new CheckedListBox();
+            label226 = new Label();
+            label224 = new Label();
+            label225 = new Label();
+            label223 = new Label();
+            label222 = new Label();
+            label221 = new Label();
+            textBox71 = new TextBox();
+            textBox70 = new TextBox();
+            label220 = new Label();
+            label218 = new Label();
+            textBox69 = new TextBox();
+            label217 = new Label();
+            textBox68 = new TextBox();
+            label214 = new Label();
+            textBox67 = new TextBox();
             checkedListBox54 = new CheckedListBox();
             label215 = new Label();
             label216 = new Label();
-            textBox67 = new TextBox();
-            label214 = new Label();
-            label217 = new Label();
-            textBox68 = new TextBox();
-            label218 = new Label();
-            textBox69 = new TextBox();
-            label219 = new Label();
-            label220 = new Label();
-            textBox70 = new TextBox();
-            textBox71 = new TextBox();
-            label221 = new Label();
-            label222 = new Label();
-            label223 = new Label();
-            label224 = new Label();
-            label225 = new Label();
-            label226 = new Label();
-            checkedListBox55 = new CheckedListBox();
-            button57 = new Button();
-            label227 = new Label();
-            button58 = new Button();
-            label228 = new Label();
-            textBox72 = new TextBox();
-            label229 = new Label();
-            checkedListBox56 = new CheckedListBox();
+            label213 = new Label();
+            button53 = new Button();
+            button52 = new Button();
             tabPage25 = new TabPage();
+            label233 = new Label();
+            button60 = new Button();
+            button59 = new Button();
+            label232 = new Label();
+            checkedListBox57 = new CheckedListBox();
             label230 = new Label();
             label231 = new Label();
-            checkedListBox57 = new CheckedListBox();
-            label232 = new Label();
-            button59 = new Button();
-            button60 = new Button();
-            label233 = new Label();
             tabPage26 = new TabPage();
-            tabPage27 = new TabPage();
-            button61 = new Button();
-            button62 = new Button();
-            label234 = new Label();
             label235 = new Label();
-            label236 = new Label();
-            label237 = new Label();
+            label234 = new Label();
+            button62 = new Button();
+            button61 = new Button();
+            tabPage27 = new TabPage();
             button63 = new Button();
             button64 = new Button();
+            label236 = new Label();
+            label237 = new Label();
             tabPage28 = new TabPage();
-            label238 = new Label();
-            textBox73 = new TextBox();
+            btnSaveForm = new Button();
             button65 = new Button();
-            button66 = new Button();
+            textBox73 = new TextBox();
+            label238 = new Label();
+            fondoLogo = new Panel();
+            label1 = new Label();
             tablePanel2.SuspendLayout();
             tabPage1.SuspendLayout();
             tabPage2.SuspendLayout();
@@ -522,11 +531,11 @@
             tabPage22.SuspendLayout();
             tabPage23.SuspendLayout();
             tabPage24.SuspendLayout();
-            fondoLogo.SuspendLayout();
             tabPage25.SuspendLayout();
             tabPage26.SuspendLayout();
             tabPage27.SuspendLayout();
             tabPage28.SuspendLayout();
+            fondoLogo.SuspendLayout();
             SuspendLayout();
             // 
             // tablePanel2
@@ -572,8 +581,12 @@
             // 
             // tabPage1
             // 
+            tabPage1.BackColor = Color.Transparent;
+            tabPage1.Controls.Add(btnNoche);
+            tabPage1.Controls.Add(btnDia);
             tabPage1.Controls.Add(verCenso);
             tabPage1.Controls.Add(Iniciar);
+            tabPage1.ForeColor = SystemColors.ActiveCaptionText;
             tabPage1.Location = new Point(4, 24);
             tabPage1.Name = "tabPage1";
             tabPage1.Padding = new Padding(3);
@@ -581,7 +594,26 @@
             tabPage1.Size = new Size(983, 420);
             tabPage1.TabIndex = 0;
             tabPage1.Text = "tabPage1";
-            tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // btnNoche
+            // 
+            btnNoche.Location = new Point(888, 20);
+            btnNoche.Name = "btnNoche";
+            btnNoche.Size = new Size(75, 23);
+            btnNoche.TabIndex = 3;
+            btnNoche.Text = "Noche";
+            btnNoche.UseVisualStyleBackColor = true;
+            btnNoche.Click += btnNoche_Click;
+            // 
+            // btnDia
+            // 
+            btnDia.Location = new Point(793, 20);
+            btnDia.Name = "btnDia";
+            btnDia.Size = new Size(75, 23);
+            btnDia.TabIndex = 2;
+            btnDia.Text = "Dia";
+            btnDia.UseVisualStyleBackColor = true;
+            btnDia.Click += btnDia_Click;
             // 
             // verCenso
             // 
@@ -592,6 +624,7 @@
             verCenso.TabIndex = 1;
             verCenso.Text = "Ver Cuestionario";
             verCenso.UseVisualStyleBackColor = true;
+            verCenso.Click += verCenso_Click;
             // 
             // Iniciar
             // 
@@ -602,6 +635,7 @@
             Iniciar.TabIndex = 0;
             Iniciar.Text = "Iniciar Censo";
             Iniciar.UseVisualStyleBackColor = true;
+            Iniciar.Click += Iniciar_Click;
             // 
             // tabPage2
             // 
@@ -667,8 +701,9 @@
             button1.Name = "button1";
             button1.Size = new Size(126, 42);
             button1.TabIndex = 47;
-            button1.Text = "button1";
+            button1.Text = "Siguiente";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button2
             // 
@@ -676,8 +711,9 @@
             button2.Name = "button2";
             button2.Size = new Size(126, 42);
             button2.TabIndex = 46;
-            button2.Text = "button2";
+            button2.Text = "Atrás";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // label22
             // 
@@ -1100,17 +1136,19 @@
             button4.Name = "button4";
             button4.Size = new Size(126, 42);
             button4.TabIndex = 19;
-            button4.Text = "button4";
+            button4.Text = "Siguiente";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button3
             // 
-            button3.Location = new Point(20, 367);
+            button3.Location = new Point(7, 367);
             button3.Name = "button3";
             button3.Size = new Size(126, 42);
             button3.TabIndex = 18;
-            button3.Text = "button3";
+            button3.Text = "Atrás";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // label29
             // 
@@ -1327,8 +1365,9 @@
             button6.Name = "button6";
             button6.Size = new Size(126, 42);
             button6.TabIndex = 20;
-            button6.Text = "button6";
+            button6.Text = "Siguiente";
             button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
             // 
             // button5
             // 
@@ -1336,8 +1375,9 @@
             button5.Name = "button5";
             button5.Size = new Size(126, 42);
             button5.TabIndex = 19;
-            button5.Text = "button5";
+            button5.Text = "Atrás";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // label36
             // 
@@ -1463,8 +1503,9 @@
             button8.Name = "button8";
             button8.Size = new Size(126, 42);
             button8.TabIndex = 44;
-            button8.Text = "button8";
+            button8.Text = "Siguiente";
             button8.UseVisualStyleBackColor = true;
+            button8.Click += button8_Click;
             // 
             // button7
             // 
@@ -1472,8 +1513,9 @@
             button7.Name = "button7";
             button7.Size = new Size(126, 42);
             button7.TabIndex = 43;
-            button7.Text = "button7";
+            button7.Text = "Atrás";
             button7.UseVisualStyleBackColor = true;
+            button7.Click += button7_Click;
             // 
             // label46
             // 
@@ -1586,8 +1628,9 @@
             button11.Name = "button11";
             button11.Size = new Size(43, 23);
             button11.TabIndex = 59;
-            button11.Text = "button11";
+            button11.Text = "Ir";
             button11.UseVisualStyleBackColor = true;
+            button11.Click += button11_Click;
             // 
             // label59
             // 
@@ -1732,8 +1775,9 @@
             button10.Name = "button10";
             button10.Size = new Size(126, 42);
             button10.TabIndex = 45;
-            button10.Text = "button10";
+            button10.Text = "Siguiente";
             button10.UseVisualStyleBackColor = true;
+            button10.Click += button10_Click;
             // 
             // button9
             // 
@@ -1741,8 +1785,9 @@
             button9.Name = "button9";
             button9.Size = new Size(126, 42);
             button9.TabIndex = 44;
-            button9.Text = "button9";
+            button9.Text = "Atrás";
             button9.UseVisualStyleBackColor = true;
+            button9.Click += button9_Click;
             // 
             // tabPage7
             // 
@@ -1773,8 +1818,9 @@
             button14.Name = "button14";
             button14.Size = new Size(126, 42);
             button14.TabIndex = 75;
-            button14.Text = "button14";
+            button14.Text = "Siguiente";
             button14.UseVisualStyleBackColor = true;
+            button14.Click += button14_Click;
             // 
             // button13
             // 
@@ -1782,8 +1828,9 @@
             button13.Name = "button13";
             button13.Size = new Size(126, 42);
             button13.TabIndex = 74;
-            button13.Text = "button13";
+            button13.Text = "Atrás";
             button13.UseVisualStyleBackColor = true;
+            button13.Click += button13_Click;
             // 
             // checkedListBox17
             // 
@@ -1802,8 +1849,9 @@
             button12.Name = "button12";
             button12.Size = new Size(43, 23);
             button12.TabIndex = 72;
-            button12.Text = "button12";
+            button12.Text = "Ir";
             button12.UseVisualStyleBackColor = true;
+            button12.Click += button12_Click;
             // 
             // label63
             // 
@@ -1936,8 +1984,9 @@
             button16.Name = "button16";
             button16.Size = new Size(126, 42);
             button16.TabIndex = 76;
-            button16.Text = "button16";
+            button16.Text = "Siguiente";
             button16.UseVisualStyleBackColor = true;
+            button16.Click += button16_Click;
             // 
             // button15
             // 
@@ -1945,8 +1994,9 @@
             button15.Name = "button15";
             button15.Size = new Size(126, 42);
             button15.TabIndex = 75;
-            button15.Text = "button15";
+            button15.Text = "Atrás";
             button15.UseVisualStyleBackColor = true;
+            button15.Click += button15_Click;
             // 
             // checkedListBox19
             // 
@@ -2089,8 +2139,9 @@
             button18.Name = "button18";
             button18.Size = new Size(126, 42);
             button18.TabIndex = 77;
-            button18.Text = "button18";
+            button18.Text = "Siguiente";
             button18.UseVisualStyleBackColor = true;
+            button18.Click += button18_Click;
             // 
             // button17
             // 
@@ -2098,8 +2149,9 @@
             button17.Name = "button17";
             button17.Size = new Size(126, 42);
             button17.TabIndex = 76;
-            button17.Text = "button17";
+            button17.Text = "Atrás";
             button17.UseVisualStyleBackColor = true;
+            button17.Click += button17_Click;
             // 
             // label74
             // 
@@ -2213,8 +2265,9 @@
             button20.Name = "button20";
             button20.Size = new Size(126, 42);
             button20.TabIndex = 125;
-            button20.Text = "button20";
+            button20.Text = "Atrás";
             button20.UseVisualStyleBackColor = true;
+            button20.Click += button20_Click;
             // 
             // button19
             // 
@@ -2222,8 +2275,9 @@
             button19.Name = "button19";
             button19.Size = new Size(126, 42);
             button19.TabIndex = 124;
-            button19.Text = "button19";
+            button19.Text = "Siguiente";
             button19.UseVisualStyleBackColor = true;
+            button19.Click += button19_Click;
             // 
             // label90
             // 
@@ -2628,8 +2682,9 @@
             button22.Name = "button22";
             button22.Size = new Size(126, 42);
             button22.TabIndex = 112;
-            button22.Text = "button22";
+            button22.Text = "Atrás";
             button22.UseVisualStyleBackColor = true;
+            button22.Click += button22_Click;
             // 
             // button21
             // 
@@ -2637,8 +2692,9 @@
             button21.Name = "button21";
             button21.Size = new Size(126, 42);
             button21.TabIndex = 111;
-            button21.Text = "button21";
+            button21.Text = "Siguiente";
             button21.UseVisualStyleBackColor = true;
+            button21.Click += button21_Click;
             // 
             // checkedListBox22
             // 
@@ -3002,8 +3058,9 @@
             button24.Name = "button24";
             button24.Size = new Size(126, 42);
             button24.TabIndex = 114;
-            button24.Text = "button24";
+            button24.Text = "Siguiente";
             button24.UseVisualStyleBackColor = true;
+            button24.Click += button24_Click;
             // 
             // button23
             // 
@@ -3011,8 +3068,9 @@
             button23.Name = "button23";
             button23.Size = new Size(126, 42);
             button23.TabIndex = 113;
-            button23.Text = "button23";
+            button23.Text = "Atrás";
             button23.UseVisualStyleBackColor = true;
+            button23.Click += button23_Click;
             // 
             // checkedListBox26
             // 
@@ -3142,8 +3200,9 @@
             button27.Name = "button27";
             button27.Size = new Size(126, 42);
             button27.TabIndex = 150;
-            button27.Text = "button27";
+            button27.Text = "Siguiente";
             button27.UseVisualStyleBackColor = true;
+            button27.Click += button27_Click;
             // 
             // button26
             // 
@@ -3151,8 +3210,9 @@
             button26.Name = "button26";
             button26.Size = new Size(43, 23);
             button26.TabIndex = 149;
-            button26.Text = "button26";
+            button26.Text = "Ir";
             button26.UseVisualStyleBackColor = true;
+            button26.Click += button26_Click;
             // 
             // label132
             // 
@@ -3241,8 +3301,9 @@
             button25.Name = "button25";
             button25.Size = new Size(126, 42);
             button25.TabIndex = 140;
-            button25.Text = "button25";
+            button25.Text = "Atrás";
             button25.UseVisualStyleBackColor = true;
+            button25.Click += button25_Click;
             // 
             // textBox55
             // 
@@ -3450,8 +3511,9 @@
             button29.Name = "button29";
             button29.Size = new Size(126, 42);
             button29.TabIndex = 148;
-            button29.Text = "button29";
+            button29.Text = "Siguiente";
             button29.UseVisualStyleBackColor = true;
+            button29.Click += button29_Click;
             // 
             // button28
             // 
@@ -3459,8 +3521,9 @@
             button28.Name = "button28";
             button28.Size = new Size(126, 42);
             button28.TabIndex = 147;
-            button28.Text = "button28";
+            button28.Text = "Atrás";
             button28.UseVisualStyleBackColor = true;
+            button28.Click += button28_Click;
             // 
             // textBox57
             // 
@@ -3573,8 +3636,9 @@
             button32.Name = "button32";
             button32.Size = new Size(43, 23);
             button32.TabIndex = 165;
-            button32.Text = "button32";
+            button32.Text = "Ir";
             button32.UseVisualStyleBackColor = true;
+            button32.Click += button32_Click;
             // 
             // label146
             // 
@@ -3625,8 +3689,9 @@
             button31.Name = "button31";
             button31.Size = new Size(126, 42);
             button31.TabIndex = 160;
-            button31.Text = "button31";
+            button31.Text = "Siguiente";
             button31.UseVisualStyleBackColor = true;
+            button31.Click += button31_Click;
             // 
             // button30
             // 
@@ -3634,8 +3699,9 @@
             button30.Name = "button30";
             button30.Size = new Size(126, 42);
             button30.TabIndex = 159;
-            button30.Text = "button30";
+            button30.Text = "Atrás";
             button30.UseVisualStyleBackColor = true;
+            button30.Click += button30_Click;
             // 
             // label143
             // 
@@ -3661,7 +3727,6 @@
             checkedListBox34.FormattingEnabled = true;
             checkedListBox34.Items.AddRange(new object[] { "Chilena (exclusivamente)", "Chilena y otra (doble nacionalidad)", "Otra nacionalidad" });
             checkedListBox34.Location = new Point(22, 82);
-            checkedListBox34.MultiColumn = true;
             checkedListBox34.Name = "checkedListBox34";
             checkedListBox34.Size = new Size(266, 108);
             checkedListBox34.TabIndex = 156;
@@ -3798,8 +3863,9 @@
             button34.Name = "button34";
             button34.Size = new Size(126, 42);
             button34.TabIndex = 161;
-            button34.Text = "button34";
+            button34.Text = "Siguiente";
             button34.UseVisualStyleBackColor = true;
+            button34.Click += button34_Click;
             // 
             // button33
             // 
@@ -3807,8 +3873,9 @@
             button33.Name = "button33";
             button33.Size = new Size(126, 42);
             button33.TabIndex = 160;
-            button33.Text = "button33";
+            button33.Text = "Atrás";
             button33.UseVisualStyleBackColor = true;
+            button33.Click += button33_Click;
             // 
             // label149
             // 
@@ -4008,8 +4075,9 @@
             button36.Name = "button36";
             button36.Size = new Size(126, 42);
             button36.TabIndex = 161;
-            button36.Text = "button36";
+            button36.Text = "Siguiente";
             button36.UseVisualStyleBackColor = true;
+            button36.Click += button36_Click;
             // 
             // button35
             // 
@@ -4017,8 +4085,9 @@
             button35.Name = "button35";
             button35.Size = new Size(126, 42);
             button35.TabIndex = 160;
-            button35.Text = "button35";
+            button35.Text = "Atrás";
             button35.UseVisualStyleBackColor = true;
+            button35.Click += button35_Click;
             // 
             // tabPage18
             // 
@@ -4061,8 +4130,9 @@
             button43.Name = "button43";
             button43.Size = new Size(43, 23);
             button43.TabIndex = 172;
-            button43.Text = "button43";
+            button43.Text = "Ir";
             button43.UseVisualStyleBackColor = true;
+            button43.Click += button43_Click;
             // 
             // label171
             // 
@@ -4171,8 +4241,9 @@
             button38.Name = "button38";
             button38.Size = new Size(126, 42);
             button38.TabIndex = 161;
-            button38.Text = "button38";
+            button38.Text = "Siguiente";
             button38.UseVisualStyleBackColor = true;
+            button38.Click += button38_Click;
             // 
             // button37
             // 
@@ -4180,8 +4251,9 @@
             button37.Name = "button37";
             button37.Size = new Size(126, 42);
             button37.TabIndex = 160;
-            button37.Text = "button37";
+            button37.Text = "Atrás";
             button37.UseVisualStyleBackColor = true;
+            button37.Click += button37_Click;
             // 
             // tabPage19
             // 
@@ -4352,8 +4424,9 @@
             button40.Name = "button40";
             button40.Size = new Size(126, 42);
             button40.TabIndex = 161;
-            button40.Text = "button40";
+            button40.Text = "Siguiente";
             button40.UseVisualStyleBackColor = true;
+            button40.Click += button40_Click;
             // 
             // button39
             // 
@@ -4361,8 +4434,9 @@
             button39.Name = "button39";
             button39.Size = new Size(126, 42);
             button39.TabIndex = 160;
-            button39.Text = "button39";
+            button39.Text = "Atrás";
             button39.UseVisualStyleBackColor = true;
+            button39.Click += button39_Click;
             // 
             // tabPage20
             // 
@@ -4395,8 +4469,9 @@
             button45.Name = "button45";
             button45.Size = new Size(43, 23);
             button45.TabIndex = 189;
-            button45.Text = "button45";
+            button45.Text = "Ir";
             button45.UseVisualStyleBackColor = true;
+            button45.Click += button45_Click;
             // 
             // label189
             // 
@@ -4433,8 +4508,9 @@
             button44.Name = "button44";
             button44.Size = new Size(43, 23);
             button44.TabIndex = 185;
-            button44.Text = "button44";
+            button44.Text = "Ir";
             button44.UseVisualStyleBackColor = true;
+            button44.Click += button44_Click;
             // 
             // label187
             // 
@@ -4531,8 +4607,9 @@
             button42.Name = "button42";
             button42.Size = new Size(126, 42);
             button42.TabIndex = 161;
-            button42.Text = "button42";
+            button42.Text = "Siguiente";
             button42.UseVisualStyleBackColor = true;
+            button42.Click += button42_Click;
             // 
             // button41
             // 
@@ -4540,8 +4617,9 @@
             button41.Name = "button41";
             button41.Size = new Size(126, 42);
             button41.TabIndex = 160;
-            button41.Text = "button41";
+            button41.Text = "Atrás";
             button41.UseVisualStyleBackColor = true;
+            button41.Click += button41_Click;
             // 
             // tabPage21
             // 
@@ -4616,8 +4694,9 @@
             button54.Name = "button54";
             button54.Size = new Size(43, 23);
             button54.TabIndex = 199;
-            button54.Text = "button54";
+            button54.Text = "Ir";
             button54.UseVisualStyleBackColor = true;
+            button54.Click += button54_Click;
             // 
             // label192
             // 
@@ -4633,8 +4712,9 @@
             button47.Name = "button47";
             button47.Size = new Size(126, 42);
             button47.TabIndex = 197;
-            button47.Text = "button47";
+            button47.Text = "Siguiente";
             button47.UseVisualStyleBackColor = true;
+            button47.Click += button47_Click;
             // 
             // button46
             // 
@@ -4642,8 +4722,9 @@
             button46.Name = "button46";
             button46.Size = new Size(126, 42);
             button46.TabIndex = 196;
-            button46.Text = "button46";
+            button46.Text = "Atrás";
             button46.UseVisualStyleBackColor = true;
+            button46.Click += button46_Click;
             // 
             // checkedListBox49
             // 
@@ -4832,8 +4913,9 @@
             button49.Name = "button49";
             button49.Size = new Size(126, 42);
             button49.TabIndex = 199;
-            button49.Text = "button49";
+            button49.Text = "Siguiente";
             button49.UseVisualStyleBackColor = true;
+            button49.Click += button49_Click;
             // 
             // button48
             // 
@@ -4841,8 +4923,9 @@
             button48.Name = "button48";
             button48.Size = new Size(126, 42);
             button48.TabIndex = 198;
-            button48.Text = "button48";
+            button48.Text = "Atrás";
             button48.UseVisualStyleBackColor = true;
+            button48.Click += button48_Click;
             // 
             // tabPage23
             // 
@@ -4966,8 +5049,9 @@
             button55.Name = "button55";
             button55.Size = new Size(43, 23);
             button55.TabIndex = 204;
-            button55.Text = "button55";
+            button55.Text = "Ir";
             button55.UseVisualStyleBackColor = true;
+            button55.Click += button55_Click;
             // 
             // label205
             // 
@@ -5017,8 +5101,9 @@
             button51.Name = "button51";
             button51.Size = new Size(126, 42);
             button51.TabIndex = 199;
-            button51.Text = "button51";
+            button51.Text = "Siguiente";
             button51.UseVisualStyleBackColor = true;
+            button51.Click += button51_Click;
             // 
             // button50
             // 
@@ -5026,11 +5111,21 @@
             button50.Name = "button50";
             button50.Size = new Size(126, 42);
             button50.TabIndex = 198;
-            button50.Text = "button50";
+            button50.Text = "Atrás";
             button50.UseVisualStyleBackColor = true;
+            button50.Click += button50_Click;
             // 
             // tabPage24
             // 
+            tabPage24.Controls.Add(label243);
+            tabPage24.Controls.Add(textBox75);
+            tabPage24.Controls.Add(label242);
+            tabPage24.Controls.Add(textBox74);
+            tabPage24.Controls.Add(checkedListBox58);
+            tabPage24.Controls.Add(label241);
+            tabPage24.Controls.Add(label219);
+            tabPage24.Controls.Add(label239);
+            tabPage24.Controls.Add(label240);
             tabPage24.Controls.Add(checkedListBox56);
             tabPage24.Controls.Add(textBox72);
             tabPage24.Controls.Add(label229);
@@ -5048,7 +5143,6 @@
             tabPage24.Controls.Add(textBox71);
             tabPage24.Controls.Add(textBox70);
             tabPage24.Controls.Add(label220);
-            tabPage24.Controls.Add(label219);
             tabPage24.Controls.Add(label218);
             tabPage24.Controls.Add(textBox69);
             tabPage24.Controls.Add(label217);
@@ -5058,7 +5152,6 @@
             tabPage24.Controls.Add(checkedListBox54);
             tabPage24.Controls.Add(label215);
             tabPage24.Controls.Add(label216);
-            tabPage24.Controls.Add(button56);
             tabPage24.Controls.Add(label213);
             tabPage24.Controls.Add(button53);
             tabPage24.Controls.Add(button52);
@@ -5070,58 +5163,298 @@
             tabPage24.Text = "tabPage24";
             tabPage24.UseVisualStyleBackColor = true;
             // 
-            // button56
+            // label243
             // 
-            button56.Location = new Point(207, 48);
-            button56.Name = "button56";
-            button56.Size = new Size(43, 23);
-            button56.TabIndex = 206;
-            button56.Text = "button56";
-            button56.UseVisualStyleBackColor = true;
+            label243.Location = new Point(353, 225);
+            label243.Name = "label243";
+            label243.Size = new Size(127, 17);
+            label243.TabIndex = 243;
+            label243.Text = "Número de hombres :";
             // 
-            // label213
+            // textBox75
             // 
-            label213.Location = new Point(104, 53);
-            label213.Name = "label213";
-            label213.Size = new Size(97, 12);
-            label213.TabIndex = 205;
-            label213.Text = "-----> PASE A 49";
+            textBox75.Location = new Point(353, 248);
+            textBox75.Name = "textBox75";
+            textBox75.Size = new Size(119, 23);
+            textBox75.TabIndex = 242;
             // 
-            // button53
+            // label242
             // 
-            button53.Location = new Point(848, 367);
-            button53.Name = "button53";
-            button53.Size = new Size(126, 42);
-            button53.TabIndex = 199;
-            button53.Text = "button53";
-            button53.UseVisualStyleBackColor = true;
+            label242.Location = new Point(216, 225);
+            label242.Name = "label242";
+            label242.Size = new Size(119, 17);
+            label242.TabIndex = 241;
+            label242.Text = "Número de mujeres :";
             // 
-            // button52
+            // textBox74
             // 
-            button52.Location = new Point(7, 367);
-            button52.Name = "button52";
-            button52.Size = new Size(126, 42);
-            button52.TabIndex = 198;
-            button52.Text = "button52";
-            button52.UseVisualStyleBackColor = true;
+            textBox74.Location = new Point(216, 248);
+            textBox74.Name = "textBox74";
+            textBox74.Size = new Size(119, 23);
+            textBox74.TabIndex = 240;
             // 
-            // fondoLogo
+            // checkedListBox58
             // 
-            fondoLogo.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-            fondoLogo.Controls.Add(label1);
-            fondoLogo.Location = new Point(1, -3);
-            fondoLogo.Name = "fondoLogo";
-            fondoLogo.Size = new Size(987, 229);
-            fondoLogo.TabIndex = 1;
+            checkedListBox58.Anchor = AnchorStyles.None;
+            checkedListBox58.BorderStyle = BorderStyle.None;
+            checkedListBox58.FormattingEnabled = true;
+            checkedListBox58.Items.AddRange(new object[] { "Ninguno" });
+            checkedListBox58.Location = new Point(27, 248);
+            checkedListBox58.MultiColumn = true;
+            checkedListBox58.Name = "checkedListBox58";
+            checkedListBox58.Size = new Size(86, 18);
+            checkedListBox58.TabIndex = 239;
             // 
-            // label1
+            // label241
             // 
-            label1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
-            label1.Image = (Image)resources.GetObject("label1.Image");
-            label1.Location = new Point(-1, 0);
-            label1.Name = "label1";
-            label1.Size = new Size(985, 177);
-            label1.TabIndex = 0;
+            label241.Location = new Point(104, 248);
+            label241.Name = "label241";
+            label241.Size = new Size(97, 12);
+            label241.TabIndex = 238;
+            label241.Text = "-----> PASE A 48";
+            // 
+            // label219
+            // 
+            label219.Anchor = AnchorStyles.None;
+            label219.BackColor = Color.DarkCyan;
+            label219.ForeColor = Color.White;
+            label219.ImageAlign = ContentAlignment.MiddleLeft;
+            label219.Location = new Point(11, 282);
+            label219.Name = "label219";
+            label219.Size = new Size(28, 23);
+            label219.TabIndex = 237;
+            label219.Text = "48.";
+            label219.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // label239
+            // 
+            label239.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label239.Location = new Point(57, 202);
+            label239.Name = "label239";
+            label239.Size = new Size(335, 23);
+            label239.TabIndex = 236;
+            label239.Text = "¿Cuántas hijas e hijos están vivos actualmente?";
+            label239.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // label240
+            // 
+            label240.Anchor = AnchorStyles.None;
+            label240.BackColor = Color.DarkCyan;
+            label240.ForeColor = Color.White;
+            label240.ImageAlign = ContentAlignment.MiddleLeft;
+            label240.Location = new Point(11, 202);
+            label240.Name = "label240";
+            label240.Size = new Size(28, 23);
+            label240.TabIndex = 235;
+            label240.Text = "47.";
+            label240.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // checkedListBox56
+            // 
+            checkedListBox56.Anchor = AnchorStyles.None;
+            checkedListBox56.BorderStyle = BorderStyle.None;
+            checkedListBox56.FormattingEnabled = true;
+            checkedListBox56.Items.AddRange(new object[] { "Prefiere no responder", "No sabe" });
+            checkedListBox56.Location = new Point(590, 334);
+            checkedListBox56.Name = "checkedListBox56";
+            checkedListBox56.Size = new Size(145, 54);
+            checkedListBox56.TabIndex = 234;
+            // 
+            // textBox72
+            // 
+            textBox72.Location = new Point(590, 290);
+            textBox72.Name = "textBox72";
+            textBox72.Size = new Size(331, 23);
+            textBox72.TabIndex = 233;
+            // 
+            // label229
+            // 
+            label229.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label229.ForeColor = Color.DarkCyan;
+            label229.Location = new Point(590, 267);
+            label229.Name = "label229";
+            label229.Size = new Size(329, 20);
+            label229.TabIndex = 232;
+            label229.Text = "Especifique";
+            // 
+            // button58
+            // 
+            button58.Location = new Point(813, 199);
+            button58.Name = "button58";
+            button58.Size = new Size(43, 30);
+            button58.TabIndex = 231;
+            button58.Text = "Ir";
+            button58.UseVisualStyleBackColor = true;
+            button58.Click += button58_Click;
+            // 
+            // label228
+            // 
+            label228.Location = new Point(710, 204);
+            label228.Name = "label228";
+            label228.Size = new Size(97, 19);
+            label228.TabIndex = 230;
+            label228.Text = "-----> PASE A 50";
+            // 
+            // button57
+            // 
+            button57.Location = new Point(813, 137);
+            button57.Name = "button57";
+            button57.Size = new Size(43, 28);
+            button57.TabIndex = 229;
+            button57.Text = "Ir";
+            button57.UseVisualStyleBackColor = true;
+            button57.Click += button57_Click;
+            // 
+            // label227
+            // 
+            label227.Location = new Point(710, 144);
+            label227.Name = "label227";
+            label227.Size = new Size(97, 22);
+            label227.TabIndex = 228;
+            label227.Text = "-----> PASE A 50";
+            // 
+            // checkedListBox55
+            // 
+            checkedListBox55.Anchor = AnchorStyles.None;
+            checkedListBox55.BorderStyle = BorderStyle.None;
+            checkedListBox55.FormattingEnabled = true;
+            checkedListBox55.Items.AddRange(new object[] { "Masculino", "Femenino ", "Transmasculino", "Transfemenino", "No binario", "Otro [No leer]" });
+            checkedListBox55.Location = new Point(590, 138);
+            checkedListBox55.MultiColumn = true;
+            checkedListBox55.Name = "checkedListBox55";
+            checkedListBox55.Size = new Size(150, 126);
+            checkedListBox55.TabIndex = 227;
+            // 
+            // label226
+            // 
+            label226.BackColor = Color.LightGray;
+            label226.Font = new Font("Segoe UI", 7F);
+            label226.ForeColor = Color.DarkCyan;
+            label226.Location = new Point(577, 76);
+            label226.Name = "label226";
+            label226.Size = new Size(406, 45);
+            label226.TabIndex = 226;
+            label226.Text = resources.GetString("label226.Text");
+            // 
+            // label224
+            // 
+            label224.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label224.Location = new Point(623, 42);
+            label224.Name = "label224";
+            label224.Size = new Size(351, 23);
+            label224.TabIndex = 225;
+            label224.Text = "¿Con cuál género se identifica?";
+            label224.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // label225
+            // 
+            label225.Anchor = AnchorStyles.None;
+            label225.BackColor = Color.DarkCyan;
+            label225.ForeColor = Color.White;
+            label225.ImageAlign = ContentAlignment.MiddleLeft;
+            label225.Location = new Point(577, 42);
+            label225.Name = "label225";
+            label225.Size = new Size(28, 23);
+            label225.TabIndex = 224;
+            label225.Text = "49.";
+            label225.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // label223
+            // 
+            label223.BackColor = Color.SkyBlue;
+            label223.Font = new Font("Segoe UI", 9F);
+            label223.ForeColor = Color.Black;
+            label223.Location = new Point(577, 3);
+            label223.Name = "label223";
+            label223.Size = new Size(406, 21);
+            label223.TabIndex = 223;
+            label223.Text = "PARA PERSONAS DE 18 AÑOS O MÁS";
+            label223.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // label222
+            // 
+            label222.Location = new Point(328, 286);
+            label222.Name = "label222";
+            label222.Size = new Size(34, 19);
+            label222.TabIndex = 222;
+            label222.Text = "Año";
+            // 
+            // label221
+            // 
+            label221.Location = new Point(279, 286);
+            label221.Name = "label221";
+            label221.Size = new Size(34, 19);
+            label221.TabIndex = 221;
+            label221.Text = "Mes";
+            // 
+            // textBox71
+            // 
+            textBox71.Location = new Point(328, 308);
+            textBox71.Name = "textBox71";
+            textBox71.Size = new Size(34, 23);
+            textBox71.TabIndex = 220;
+            // 
+            // textBox70
+            // 
+            textBox70.Location = new Point(279, 308);
+            textBox70.Name = "textBox70";
+            textBox70.Size = new Size(34, 23);
+            textBox70.TabIndex = 219;
+            // 
+            // label220
+            // 
+            label220.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label220.Location = new Point(57, 269);
+            label220.Name = "label220";
+            label220.Size = new Size(216, 62);
+            label220.TabIndex = 218;
+            label220.Text = "¿En qué mes y año nació su\r\núltima hija o hijo nacido vivo?";
+            label220.TextAlign = ContentAlignment.MiddleLeft;
+            // 
+            // label218
+            // 
+            label218.Location = new Point(34, 151);
+            label218.Name = "label218";
+            label218.Size = new Size(301, 33);
+            label218.TabIndex = 216;
+            label218.Text = "Del total de hijas e hijos que se encuentran vivos,\r\n ¿cuántos son hombres?";
+            // 
+            // textBox69
+            // 
+            textBox69.Location = new Point(341, 151);
+            textBox69.Name = "textBox69";
+            textBox69.Size = new Size(67, 23);
+            textBox69.TabIndex = 215;
+            // 
+            // label217
+            // 
+            label217.Location = new Point(34, 98);
+            label217.Name = "label217";
+            label217.Size = new Size(301, 32);
+            label217.TabIndex = 214;
+            label217.Text = "Del total de hijas e hijos que se encuentran vivos,\r\n ¿cuántas son mujeres?";
+            // 
+            // textBox68
+            // 
+            textBox68.Location = new Point(341, 98);
+            textBox68.Name = "textBox68";
+            textBox68.Size = new Size(67, 23);
+            textBox68.TabIndex = 213;
+            // 
+            // label214
+            // 
+            label214.Location = new Point(271, 52);
+            label214.Name = "label214";
+            label214.Size = new Size(64, 17);
+            label214.TabIndex = 212;
+            label214.Text = "Número :";
+            // 
+            // textBox67
+            // 
+            textBox67.Location = new Point(341, 49);
+            textBox67.Name = "textBox67";
+            textBox67.Size = new Size(67, 23);
+            textBox67.TabIndex = 211;
             // 
             // checkedListBox54
             // 
@@ -5155,226 +5488,36 @@
             label216.Name = "label216";
             label216.Size = new Size(28, 23);
             label216.TabIndex = 207;
-            label216.Text = "47.";
+            label216.Text = "46.";
             label216.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // textBox67
+            // label213
             // 
-            textBox67.Location = new Point(341, 49);
-            textBox67.Name = "textBox67";
-            textBox67.Size = new Size(67, 23);
-            textBox67.TabIndex = 211;
+            label213.Location = new Point(104, 53);
+            label213.Name = "label213";
+            label213.Size = new Size(97, 12);
+            label213.TabIndex = 205;
+            label213.Text = "-----> PASE A 49";
             // 
-            // label214
+            // button53
             // 
-            label214.Location = new Point(271, 52);
-            label214.Name = "label214";
-            label214.Size = new Size(64, 17);
-            label214.TabIndex = 212;
-            label214.Text = "Número :";
+            button53.Location = new Point(848, 367);
+            button53.Name = "button53";
+            button53.Size = new Size(126, 42);
+            button53.TabIndex = 199;
+            button53.Text = "Siguiente";
+            button53.UseVisualStyleBackColor = true;
+            button53.Click += button53_Click;
             // 
-            // label217
+            // button52
             // 
-            label217.Location = new Point(34, 98);
-            label217.Name = "label217";
-            label217.Size = new Size(301, 32);
-            label217.TabIndex = 214;
-            label217.Text = "Del total de hijas e hijos que se encuentran vivos,\r\n ¿cuántas son mujeres?";
-            // 
-            // textBox68
-            // 
-            textBox68.Location = new Point(341, 98);
-            textBox68.Name = "textBox68";
-            textBox68.Size = new Size(67, 23);
-            textBox68.TabIndex = 213;
-            // 
-            // label218
-            // 
-            label218.Location = new Point(34, 151);
-            label218.Name = "label218";
-            label218.Size = new Size(301, 33);
-            label218.TabIndex = 216;
-            label218.Text = "Del total de hijas e hijos que se encuentran vivos,\r\n ¿cuántos son hombres?";
-            // 
-            // textBox69
-            // 
-            textBox69.Location = new Point(341, 151);
-            textBox69.Name = "textBox69";
-            textBox69.Size = new Size(67, 23);
-            textBox69.TabIndex = 215;
-            // 
-            // label219
-            // 
-            label219.Anchor = AnchorStyles.None;
-            label219.BackColor = Color.DarkCyan;
-            label219.ForeColor = Color.White;
-            label219.ImageAlign = ContentAlignment.MiddleLeft;
-            label219.Location = new Point(11, 222);
-            label219.Name = "label219";
-            label219.Size = new Size(28, 62);
-            label219.TabIndex = 217;
-            label219.Text = "48.";
-            label219.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // label220
-            // 
-            label220.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label220.Location = new Point(57, 222);
-            label220.Name = "label220";
-            label220.Size = new Size(216, 62);
-            label220.TabIndex = 218;
-            label220.Text = "¿En qué mes y año nació su\r\núltima hija o hijo nacido vivo?";
-            label220.TextAlign = ContentAlignment.MiddleLeft;
-            // 
-            // textBox70
-            // 
-            textBox70.Location = new Point(279, 261);
-            textBox70.Name = "textBox70";
-            textBox70.Size = new Size(34, 23);
-            textBox70.TabIndex = 219;
-            // 
-            // textBox71
-            // 
-            textBox71.Location = new Point(328, 261);
-            textBox71.Name = "textBox71";
-            textBox71.Size = new Size(34, 23);
-            textBox71.TabIndex = 220;
-            // 
-            // label221
-            // 
-            label221.Location = new Point(279, 239);
-            label221.Name = "label221";
-            label221.Size = new Size(34, 19);
-            label221.TabIndex = 221;
-            label221.Text = "Mes";
-            // 
-            // label222
-            // 
-            label222.Location = new Point(328, 239);
-            label222.Name = "label222";
-            label222.Size = new Size(34, 19);
-            label222.TabIndex = 222;
-            label222.Text = "Año";
-            // 
-            // label223
-            // 
-            label223.BackColor = Color.SkyBlue;
-            label223.Font = new Font("Segoe UI", 9F);
-            label223.ForeColor = Color.Black;
-            label223.Location = new Point(577, 3);
-            label223.Name = "label223";
-            label223.Size = new Size(406, 21);
-            label223.TabIndex = 223;
-            label223.Text = "PARA PERSONAS DE 18 AÑOS O MÁS";
-            label223.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // label224
-            // 
-            label224.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label224.Location = new Point(623, 42);
-            label224.Name = "label224";
-            label224.Size = new Size(351, 23);
-            label224.TabIndex = 225;
-            label224.Text = "¿Con cuál género se identifica?";
-            label224.TextAlign = ContentAlignment.MiddleLeft;
-            // 
-            // label225
-            // 
-            label225.Anchor = AnchorStyles.None;
-            label225.BackColor = Color.DarkCyan;
-            label225.ForeColor = Color.White;
-            label225.ImageAlign = ContentAlignment.MiddleLeft;
-            label225.Location = new Point(577, 42);
-            label225.Name = "label225";
-            label225.Size = new Size(28, 23);
-            label225.TabIndex = 224;
-            label225.Text = "49.";
-            label225.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // label226
-            // 
-            label226.BackColor = Color.LightGray;
-            label226.Font = new Font("Segoe UI", 7F);
-            label226.ForeColor = Color.DarkCyan;
-            label226.Location = new Point(577, 76);
-            label226.Name = "label226";
-            label226.Size = new Size(406, 45);
-            label226.TabIndex = 226;
-            label226.Text = resources.GetString("label226.Text");
-            // 
-            // checkedListBox55
-            // 
-            checkedListBox55.Anchor = AnchorStyles.None;
-            checkedListBox55.BorderStyle = BorderStyle.None;
-            checkedListBox55.FormattingEnabled = true;
-            checkedListBox55.Items.AddRange(new object[] { "Masculino", "Femenino ", "Transmasculino", "Transfemenino", "No binario", "Otro [No leer]" });
-            checkedListBox55.Location = new Point(590, 138);
-            checkedListBox55.MultiColumn = true;
-            checkedListBox55.Name = "checkedListBox55";
-            checkedListBox55.Size = new Size(150, 126);
-            checkedListBox55.TabIndex = 227;
-            // 
-            // button57
-            // 
-            button57.Location = new Point(813, 137);
-            button57.Name = "button57";
-            button57.Size = new Size(43, 28);
-            button57.TabIndex = 229;
-            button57.Text = "button57";
-            button57.UseVisualStyleBackColor = true;
-            // 
-            // label227
-            // 
-            label227.Location = new Point(710, 144);
-            label227.Name = "label227";
-            label227.Size = new Size(97, 22);
-            label227.TabIndex = 228;
-            label227.Text = "-----> PASE A 50";
-            // 
-            // button58
-            // 
-            button58.Location = new Point(813, 199);
-            button58.Name = "button58";
-            button58.Size = new Size(43, 30);
-            button58.TabIndex = 231;
-            button58.Text = "button58";
-            button58.UseVisualStyleBackColor = true;
-            // 
-            // label228
-            // 
-            label228.Location = new Point(710, 204);
-            label228.Name = "label228";
-            label228.Size = new Size(97, 19);
-            label228.TabIndex = 230;
-            label228.Text = "-----> PASE A 50";
-            // 
-            // textBox72
-            // 
-            textBox72.Location = new Point(590, 290);
-            textBox72.Name = "textBox72";
-            textBox72.Size = new Size(331, 23);
-            textBox72.TabIndex = 233;
-            // 
-            // label229
-            // 
-            label229.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label229.ForeColor = Color.DarkCyan;
-            label229.Location = new Point(590, 267);
-            label229.Name = "label229";
-            label229.Size = new Size(329, 20);
-            label229.TabIndex = 232;
-            label229.Text = "Especifique";
-            // 
-            // checkedListBox56
-            // 
-            checkedListBox56.Anchor = AnchorStyles.None;
-            checkedListBox56.BorderStyle = BorderStyle.None;
-            checkedListBox56.FormattingEnabled = true;
-            checkedListBox56.Items.AddRange(new object[] { "Prefiere no responder", "No sabe" });
-            checkedListBox56.Location = new Point(590, 334);
-            checkedListBox56.Name = "checkedListBox56";
-            checkedListBox56.Size = new Size(145, 54);
-            checkedListBox56.TabIndex = 234;
+            button52.Location = new Point(7, 367);
+            button52.Name = "button52";
+            button52.Size = new Size(126, 42);
+            button52.TabIndex = 198;
+            button52.Text = "Atrás";
+            button52.UseVisualStyleBackColor = true;
+            button52.Click += button52_Click;
             // 
             // tabPage25
             // 
@@ -5392,6 +5535,60 @@
             tabPage25.TabIndex = 24;
             tabPage25.Text = "tabPage25";
             tabPage25.UseVisualStyleBackColor = true;
+            // 
+            // label233
+            // 
+            label233.Location = new Point(7, 191);
+            label233.Name = "label233";
+            label233.Size = new Size(973, 38);
+            label233.TabIndex = 232;
+            label233.Text = resources.GetString("label233.Text");
+            // 
+            // button60
+            // 
+            button60.Location = new Point(848, 367);
+            button60.Name = "button60";
+            button60.Size = new Size(126, 42);
+            button60.TabIndex = 231;
+            button60.Text = "Siguiente";
+            button60.UseVisualStyleBackColor = true;
+            button60.Click += button60_Click;
+            // 
+            // button59
+            // 
+            button59.Location = new Point(7, 372);
+            button59.Name = "button59";
+            button59.Size = new Size(126, 42);
+            button59.TabIndex = 230;
+            button59.Text = "Atrás";
+            button59.UseVisualStyleBackColor = true;
+            button59.Click += button59_Click;
+            // 
+            // label232
+            // 
+            label232.Anchor = AnchorStyles.None;
+            label232.BackColor = Color.DarkCyan;
+            label232.Font = new Font("Segoe UI", 12F);
+            label232.ForeColor = Color.White;
+            label232.ImageAlign = ContentAlignment.MiddleLeft;
+            label232.Location = new Point(0, 149);
+            label232.Name = "label232";
+            label232.Size = new Size(983, 29);
+            label232.TabIndex = 229;
+            label232.Text = "DEFINICIÓN DE RESIDENCIA HABITUAL";
+            label232.TextAlign = ContentAlignment.MiddleCenter;
+            // 
+            // checkedListBox57
+            // 
+            checkedListBox57.Anchor = AnchorStyles.None;
+            checkedListBox57.BorderStyle = BorderStyle.None;
+            checkedListBox57.FormattingEnabled = true;
+            checkedListBox57.Items.AddRange(new object[] { "Sí", "No", "Prefiere no responder", "No sabe" });
+            checkedListBox57.Location = new Point(30, 68);
+            checkedListBox57.MultiColumn = true;
+            checkedListBox57.Name = "checkedListBox57";
+            checkedListBox57.Size = new Size(150, 90);
+            checkedListBox57.TabIndex = 228;
             // 
             // label230
             // 
@@ -5416,58 +5613,6 @@
             label231.Text = "50.";
             label231.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // checkedListBox57
-            // 
-            checkedListBox57.Anchor = AnchorStyles.None;
-            checkedListBox57.BorderStyle = BorderStyle.None;
-            checkedListBox57.FormattingEnabled = true;
-            checkedListBox57.Items.AddRange(new object[] { "Sí", "No", "Prefiere no responder", "No sabe" });
-            checkedListBox57.Location = new Point(30, 68);
-            checkedListBox57.MultiColumn = true;
-            checkedListBox57.Name = "checkedListBox57";
-            checkedListBox57.Size = new Size(150, 90);
-            checkedListBox57.TabIndex = 228;
-            // 
-            // label232
-            // 
-            label232.Anchor = AnchorStyles.None;
-            label232.BackColor = Color.DarkCyan;
-            label232.Font = new Font("Segoe UI", 12F);
-            label232.ForeColor = Color.White;
-            label232.ImageAlign = ContentAlignment.MiddleLeft;
-            label232.Location = new Point(0, 149);
-            label232.Name = "label232";
-            label232.Size = new Size(983, 29);
-            label232.TabIndex = 229;
-            label232.Text = "DEFINICIÓN DE RESIDENCIA HABITUAL";
-            label232.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // button59
-            // 
-            button59.Location = new Point(7, 372);
-            button59.Name = "button59";
-            button59.Size = new Size(126, 42);
-            button59.TabIndex = 230;
-            button59.Text = "button59";
-            button59.UseVisualStyleBackColor = true;
-            // 
-            // button60
-            // 
-            button60.Location = new Point(848, 367);
-            button60.Name = "button60";
-            button60.Size = new Size(126, 42);
-            button60.TabIndex = 231;
-            button60.Text = "button60";
-            button60.UseVisualStyleBackColor = true;
-            // 
-            // label233
-            // 
-            label233.Location = new Point(7, 191);
-            label233.Name = "label233";
-            label233.Size = new Size(973, 38);
-            label233.TabIndex = 232;
-            label233.Text = resources.GetString("label233.Text");
-            // 
             // tabPage26
             // 
             tabPage26.Controls.Add(label235);
@@ -5482,37 +5627,14 @@
             tabPage26.Text = "tabPage26";
             tabPage26.UseVisualStyleBackColor = true;
             // 
-            // tabPage27
+            // label235
             // 
-            tabPage27.Controls.Add(button63);
-            tabPage27.Controls.Add(button64);
-            tabPage27.Controls.Add(label236);
-            tabPage27.Controls.Add(label237);
-            tabPage27.Location = new Point(4, 24);
-            tabPage27.Name = "tabPage27";
-            tabPage27.Padding = new Padding(3);
-            tabPage27.Size = new Size(983, 420);
-            tabPage27.TabIndex = 26;
-            tabPage27.Text = "tabPage27";
-            tabPage27.UseVisualStyleBackColor = true;
-            // 
-            // button61
-            // 
-            button61.Location = new Point(7, 367);
-            button61.Name = "button61";
-            button61.Size = new Size(126, 42);
-            button61.TabIndex = 232;
-            button61.Text = "button61";
-            button61.UseVisualStyleBackColor = true;
-            // 
-            // button62
-            // 
-            button62.Location = new Point(848, 367);
-            button62.Name = "button62";
-            button62.Size = new Size(126, 42);
-            button62.TabIndex = 233;
-            button62.Text = "button62";
-            button62.UseVisualStyleBackColor = true;
+            label235.Location = new Point(1, 71);
+            label235.Name = "label235";
+            label235.Size = new Size(973, 283);
+            label235.TabIndex = 235;
+            label235.Text = resources.GetString("label235.Text");
+            label235.TextAlign = ContentAlignment.TopCenter;
             // 
             // label234
             // 
@@ -5528,14 +5650,59 @@
             label234.Text = "✔NO OLVIDE CENSAR EN ESTA VIVIENDA\r\nA LAS SIGUIENTES PERSONAS:";
             label234.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // label235
+            // button62
             // 
-            label235.Location = new Point(1, 71);
-            label235.Name = "label235";
-            label235.Size = new Size(973, 283);
-            label235.TabIndex = 235;
-            label235.Text = resources.GetString("label235.Text");
-            label235.TextAlign = ContentAlignment.TopCenter;
+            button62.Location = new Point(848, 367);
+            button62.Name = "button62";
+            button62.Size = new Size(126, 42);
+            button62.TabIndex = 233;
+            button62.Text = "Siguiente";
+            button62.UseVisualStyleBackColor = true;
+            button62.Click += button62_Click;
+            // 
+            // button61
+            // 
+            button61.Location = new Point(7, 367);
+            button61.Name = "button61";
+            button61.Size = new Size(126, 42);
+            button61.TabIndex = 232;
+            button61.Text = "Atrás";
+            button61.UseVisualStyleBackColor = true;
+            button61.Click += button61_Click;
+            // 
+            // tabPage27
+            // 
+            tabPage27.Controls.Add(button63);
+            tabPage27.Controls.Add(button64);
+            tabPage27.Controls.Add(label236);
+            tabPage27.Controls.Add(label237);
+            tabPage27.Location = new Point(4, 24);
+            tabPage27.Name = "tabPage27";
+            tabPage27.Padding = new Padding(3);
+            tabPage27.Size = new Size(983, 420);
+            tabPage27.TabIndex = 26;
+            tabPage27.Text = "tabPage27";
+            tabPage27.UseVisualStyleBackColor = true;
+            // 
+            // button63
+            // 
+            button63.Location = new Point(848, 367);
+            button63.Name = "button63";
+            button63.Size = new Size(126, 42);
+            button63.TabIndex = 239;
+            button63.Text = "Siguiente";
+            button63.UseVisualStyleBackColor = true;
+            button63.Click += button63_Click;
+            // 
+            // button64
+            // 
+            button64.Location = new Point(7, 367);
+            button64.Name = "button64";
+            button64.Size = new Size(126, 42);
+            button64.TabIndex = 238;
+            button64.Text = "Atrás";
+            button64.UseVisualStyleBackColor = true;
+            button64.Click += button64_Click;
             // 
             // label236
             // 
@@ -5560,27 +5727,9 @@
             label237.Text = "✖NO CENSE EN ESTA VIVIENDA\r\nA LAS SIGUIENTES PERSONAS:";
             label237.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // button63
-            // 
-            button63.Location = new Point(848, 367);
-            button63.Name = "button63";
-            button63.Size = new Size(126, 42);
-            button63.TabIndex = 239;
-            button63.Text = "button63";
-            button63.UseVisualStyleBackColor = true;
-            // 
-            // button64
-            // 
-            button64.Location = new Point(7, 367);
-            button64.Name = "button64";
-            button64.Size = new Size(126, 42);
-            button64.TabIndex = 238;
-            button64.Text = "button64";
-            button64.UseVisualStyleBackColor = true;
-            // 
             // tabPage28
             // 
-            tabPage28.Controls.Add(button66);
+            tabPage28.Controls.Add(btnSaveForm);
             tabPage28.Controls.Add(button65);
             tabPage28.Controls.Add(textBox73);
             tabPage28.Controls.Add(label238);
@@ -5591,6 +5740,34 @@
             tabPage28.TabIndex = 27;
             tabPage28.Text = "tabPage28";
             tabPage28.UseVisualStyleBackColor = true;
+            // 
+            // btnSaveForm
+            // 
+            btnSaveForm.Font = new Font("Segoe UI", 12F);
+            btnSaveForm.Location = new Point(717, 333);
+            btnSaveForm.Name = "btnSaveForm";
+            btnSaveForm.Size = new Size(257, 76);
+            btnSaveForm.TabIndex = 241;
+            btnSaveForm.Text = "Guardar";
+            btnSaveForm.UseVisualStyleBackColor = true;
+            btnSaveForm.Click += btnSaveForm_Click;
+            // 
+            // button65
+            // 
+            button65.Location = new Point(7, 367);
+            button65.Name = "button65";
+            button65.Size = new Size(126, 42);
+            button65.TabIndex = 240;
+            button65.Text = "Atrás";
+            button65.UseVisualStyleBackColor = true;
+            button65.Click += button65_Click;
+            // 
+            // textBox73
+            // 
+            textBox73.Location = new Point(7, 53);
+            textBox73.Name = "textBox73";
+            textBox73.Size = new Size(967, 23);
+            textBox73.TabIndex = 238;
             // 
             // label238
             // 
@@ -5606,30 +5783,24 @@
             label238.Text = "OBSERVACIONES SOBRE LA DIRECCIÓN: ";
             label238.TextAlign = ContentAlignment.MiddleCenter;
             // 
-            // textBox73
+            // fondoLogo
             // 
-            textBox73.Location = new Point(7, 53);
-            textBox73.Name = "textBox73";
-            textBox73.Size = new Size(967, 23);
-            textBox73.TabIndex = 238;
+            fondoLogo.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            fondoLogo.BackColor = SystemColors.Control;
+            fondoLogo.Controls.Add(label1);
+            fondoLogo.Location = new Point(1, -3);
+            fondoLogo.Name = "fondoLogo";
+            fondoLogo.Size = new Size(987, 235);
+            fondoLogo.TabIndex = 1;
             // 
-            // button65
+            // label1
             // 
-            button65.Location = new Point(7, 367);
-            button65.Name = "button65";
-            button65.Size = new Size(126, 42);
-            button65.TabIndex = 240;
-            button65.Text = "button65";
-            button65.UseVisualStyleBackColor = true;
-            // 
-            // button66
-            // 
-            button66.Location = new Point(717, 333);
-            button66.Name = "button66";
-            button66.Size = new Size(257, 76);
-            button66.TabIndex = 241;
-            button66.Text = "button66";
-            button66.UseVisualStyleBackColor = true;
+            label1.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            label1.Image = (Image)resources.GetObject("label1.Image");
+            label1.Location = new Point(-1, 0);
+            label1.Name = "label1";
+            label1.Size = new Size(985, 177);
+            label1.TabIndex = 0;
             // 
             // Form1
             // 
@@ -5680,12 +5851,12 @@
             tabPage23.PerformLayout();
             tabPage24.ResumeLayout(false);
             tabPage24.PerformLayout();
-            fondoLogo.ResumeLayout(false);
             tabPage25.ResumeLayout(false);
             tabPage26.ResumeLayout(false);
             tabPage27.ResumeLayout(false);
             tabPage28.ResumeLayout(false);
             tabPage28.PerformLayout();
+            fondoLogo.ResumeLayout(false);
             ResumeLayout(false);
         }
 
@@ -6105,7 +6276,6 @@
         private CheckedListBox checkedListBox51;
         private Label label206;
         private Label label207;
-        private Button button56;
         private Label label213;
         private CheckedListBox checkedListBox54;
         private Label label215;
@@ -6120,7 +6290,6 @@
         private TextBox textBox71;
         private TextBox textBox70;
         private Label label220;
-        private Label label219;
         private Label label222;
         private Label label223;
         private Label label224;
@@ -6154,8 +6323,19 @@
         private Label label237;
         private TabPage tabPage28;
         private Label label238;
-        private Button button66;
+        private Button btnSaveForm;
         private Button button65;
         private TextBox textBox73;
+        private Label label219;
+        private Label label239;
+        private Label label240;
+        private Label label243;
+        private TextBox textBox75;
+        private Label label242;
+        private TextBox textBox74;
+        private CheckedListBox checkedListBox58;
+        private Label label241;
+        private Button btnNoche;
+        private Button btnDia;
     }
 }

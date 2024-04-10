@@ -218,6 +218,50 @@ presta. Evite respuesta como “trabajo independiente” o “empresa independie
 construcción de edificios de departamentos, colegio enseñanza básica, servicio de
 consultoría informática, transporte de pasajeros.</value>
   </data>
+  <data name="label226.Text" xml:space="preserve">
+    <value>˃ Considere que el “género” con el cual una persona se identifica puede o no correspondercon el sexo y nombre del registro de nacimiento.
+˃ No debe leer la categoría “Otro”, solo registrar respuesta espontánea. </value>
+  </data>
+  <data name="label233.Text" xml:space="preserve">
+    <value>RESIDENCIA HABITUAL: corresponde al lugar donde se ha vivido durante la mayor parte de los últimos 12 meses (es decir, al menos seis meses y un día), o donde se ha vivido menos tiempo, pero se tiene la intención de seguir residiendo ahí. </value>
+  </data>
+  <data name="label235.Text" xml:space="preserve">
+    <value>✔ Niñas y niños nacidos antes o el mismo día de la entrevista censal.
+✔ Personas ausentes temporalmente de la vivienda por un período inferior a seis meses (debido a vacaciones,
+trabajo, visita a familiares o amigos, tratamiento médico, peregrinación religiosa u otro).
+✔ Personas que llegaron al país con la intención de residir aquí y que llevan menos de seis meses
+en el último año. Estas personas deben censarse independiente de su situación migratoria.
+✔ Hijas o hijos menores de 18 años con tuición y/o cuidados compartidos, siempre que sea el domicilio
+de sus progenitores o tutores con quienes viven la mayor parte del tiempo.
+✔ Trabajadores ausentes que pernoctan fuera de la vivienda donde reside su hogar, pero que regresan
+aquí de manera semanal o periódicamente para pasar su tiempo de descanso cuando termina su
+trabajo, independiente del tiempo de ausencia en el último año. Incluye trabajadores del mar que sean civiles.
+✔ Estudiantes de enseñanza básica y media que alojan por motivos de estudios en viviendas colectivas
+como colegios, internados o pensiones deben ser censados en la vivienda de sus padres y tutores donde
+son residentes habituales.
+✔ Estudiantes de educación superior deben ser censados en la vivienda en la que residen la mayor
+parte del tiempo. Esto, aunque visiten o se queden en la vivienda de sus padres o familiares de manera ocasional.
+✔ Las personas que no tienen una vivienda fija donde vivir o no pueden determinar el lugar donde pasan
+la mayor parte del tiempo, se deben censar en la vivienda donde se encuentren</value>
+  </data>
+  <data name="label236.Text" xml:space="preserve">
+    <value>✖ Personas que se encuentran de visita en la vivienda, que llevan ahí un período menor a seis meses en el
+último año y normalmente residen en otro lugar del país. Estas serán censadas en esos lugares.
+✖ Personal de fuerzas armadas, de orden y seguridad pública que viven en dependencias de su institución
+como cuarteles, escuelas, buques navales, bases navales, aéreas u otras. Estas personas deben ser
+censadas en esas dependencias.
+✖ Personas que residen habitualmente en hoteles, hostales o pensiones. Estas serán censadas en esos lugares.
+✖ Personas que residen habitualmente en cárceles, centros hospitalarios o casas de acogida, quienes
+serán censadas en esos lugares, siempre que hayan vivido ahí más de seis meses en el último año, tengan
+la expectativa de seguir viviendo ahí o desconozcan su tiempo de permanencia.
+✖ Personas fallecidas antes del momento de la entrevista censal no se deben censar.
+✖ Turistas o extranjeros que se encuentran de visita en el país y llevan un período menor a seis meses en
+el último año, no se deben censar.
+✖ Trabajadores que se encuentran temporalmente en el país, que llevan un período menor a seis meses en
+el último año y residen normalmente en otro país, no se deben censar.
+✖ Personas que cruzan la frontera a diario o semanalmente para trabajar en el país, que residen
+habitualmente en otro país, no se deben censar. </value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="label1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -915,49 +959,5 @@ consultoría informática, transporte de pasajeros.</value>
         hmEYhmGaM8Zw9gYzEfbrx/aiZn2XsmAYhmEYhmEYhgmOuz+Ez8ahHt2Ja/NTUoZhGIZhGIZhmEiMKPba
         HwaD8SvQDSDcwA0noK9RdfO2gmadCX9O4b1tGIZhGCYqivL/ryIk2s6O6NQAAAAASUVORK5CYII=
 </value>
-  </data>
-  <data name="label226.Text" xml:space="preserve">
-    <value>˃ Considere que el “género” con el cual una persona se identifica puede o no correspondercon el sexo y nombre del registro de nacimiento.
-˃ No debe leer la categoría “Otro”, solo registrar respuesta espontánea. </value>
-  </data>
-  <data name="label233.Text" xml:space="preserve">
-    <value>RESIDENCIA HABITUAL: corresponde al lugar donde se ha vivido durante la mayor parte de los últimos 12 meses (es decir, al menos seis meses y un día), o donde se ha vivido menos tiempo, pero se tiene la intención de seguir residiendo ahí. </value>
-  </data>
-  <data name="label235.Text" xml:space="preserve">
-    <value>✔ Niñas y niños nacidos antes o el mismo día de la entrevista censal.
-✔ Personas ausentes temporalmente de la vivienda por un período inferior a seis meses (debido a vacaciones,
-trabajo, visita a familiares o amigos, tratamiento médico, peregrinación religiosa u otro).
-✔ Personas que llegaron al país con la intención de residir aquí y que llevan menos de seis meses
-en el último año. Estas personas deben censarse independiente de su situación migratoria.
-✔ Hijas o hijos menores de 18 años con tuición y/o cuidados compartidos, siempre que sea el domicilio
-de sus progenitores o tutores con quienes viven la mayor parte del tiempo.
-✔ Trabajadores ausentes que pernoctan fuera de la vivienda donde reside su hogar, pero que regresan
-aquí de manera semanal o periódicamente para pasar su tiempo de descanso cuando termina su
-trabajo, independiente del tiempo de ausencia en el último año. Incluye trabajadores del mar que sean civiles.
-✔ Estudiantes de enseñanza básica y media que alojan por motivos de estudios en viviendas colectivas
-como colegios, internados o pensiones deben ser censados en la vivienda de sus padres y tutores donde
-son residentes habituales.
-✔ Estudiantes de educación superior deben ser censados en la vivienda en la que residen la mayor
-parte del tiempo. Esto, aunque visiten o se queden en la vivienda de sus padres o familiares de manera ocasional.
-✔ Las personas que no tienen una vivienda fija donde vivir o no pueden determinar el lugar donde pasan
-la mayor parte del tiempo, se deben censar en la vivienda donde se encuentren</value>
-  </data>
-  <data name="label236.Text" xml:space="preserve">
-    <value>✖ Personas que se encuentran de visita en la vivienda, que llevan ahí un período menor a seis meses en el
-último año y normalmente residen en otro lugar del país. Estas serán censadas en esos lugares.
-✖ Personal de fuerzas armadas, de orden y seguridad pública que viven en dependencias de su institución
-como cuarteles, escuelas, buques navales, bases navales, aéreas u otras. Estas personas deben ser
-censadas en esas dependencias.
-✖ Personas que residen habitualmente en hoteles, hostales o pensiones. Estas serán censadas en esos lugares.
-✖ Personas que residen habitualmente en cárceles, centros hospitalarios o casas de acogida, quienes
-serán censadas en esos lugares, siempre que hayan vivido ahí más de seis meses en el último año, tengan
-la expectativa de seguir viviendo ahí o desconozcan su tiempo de permanencia.
-✖ Personas fallecidas antes del momento de la entrevista censal no se deben censar.
-✖ Turistas o extranjeros que se encuentran de visita en el país y llevan un período menor a seis meses en
-el último año, no se deben censar.
-✖ Trabajadores que se encuentran temporalmente en el país, que llevan un período menor a seis meses en
-el último año y residen normalmente en otro país, no se deben censar.
-✖ Personas que cruzan la frontera a diario o semanalmente para trabajar en el país, que residen
-habitualmente en otro país, no se deben censar. </value>
   </data>
 </root>
