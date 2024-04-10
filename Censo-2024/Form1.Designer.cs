@@ -77,8 +77,8 @@
             textBox7 = new TextBox();
             label10 = new Label();
             tabPage3 = new TabPage();
-            label34 = new Label();
             checkedListBox5 = new CheckedListBox();
+            label34 = new Label();
             label33 = new Label();
             checkedListBox4 = new CheckedListBox();
             label32 = new Label();
@@ -367,6 +367,7 @@
             button38 = new Button();
             button37 = new Button();
             tabPage19 = new TabPage();
+            checkedListBox44 = new CheckedListBox();
             checkedListBox46 = new CheckedListBox();
             label180 = new Label();
             label181 = new Label();
@@ -375,7 +376,6 @@
             label175 = new Label();
             label176 = new Label();
             label177 = new Label();
-            checkedListBox44 = new CheckedListBox();
             label172 = new Label();
             label173 = new Label();
             label174 = new Label();
@@ -1028,8 +1028,8 @@
             // 
             // tabPage3
             // 
-            tabPage3.Controls.Add(label34);
             tabPage3.Controls.Add(checkedListBox5);
+            tabPage3.Controls.Add(label34);
             tabPage3.Controls.Add(label33);
             tabPage3.Controls.Add(checkedListBox4);
             tabPage3.Controls.Add(label32);
@@ -1054,6 +1054,17 @@
             tabPage3.Text = "tabPage3";
             tabPage3.UseVisualStyleBackColor = true;
             // 
+            // checkedListBox5
+            // 
+            checkedListBox5.Anchor = AnchorStyles.None;
+            checkedListBox5.BorderStyle = BorderStyle.None;
+            checkedListBox5.FormattingEnabled = true;
+            checkedListBox5.Items.AddRange(new object[] { "En venta o arriendo", "Vivienda de temporada (veraneo o de uso temporal)", "Abandonada", "Otra razón de desocupación" });
+            checkedListBox5.Location = new Point(556, 267);
+            checkedListBox5.Name = "checkedListBox5";
+            checkedListBox5.Size = new Size(326, 72);
+            checkedListBox5.TabIndex = 25;
+            // 
             // label34
             // 
             label34.BackColor = Color.LightGray;
@@ -1064,17 +1075,6 @@
             label34.Size = new Size(638, 61);
             label34.TabIndex = 26;
             label34.Text = resources.GetString("label34.Text");
-            // 
-            // checkedListBox5
-            // 
-            checkedListBox5.Anchor = AnchorStyles.None;
-            checkedListBox5.BorderStyle = BorderStyle.None;
-            checkedListBox5.FormattingEnabled = true;
-            checkedListBox5.Items.AddRange(new object[] { "En venta o arriendo", "Vivienda de temporada (veraneo o de uso temporal)", "Abandonada", "Otra razón de desocupación" });
-            checkedListBox5.Location = new Point(556, 255);
-            checkedListBox5.Name = "checkedListBox5";
-            checkedListBox5.Size = new Size(326, 72);
-            checkedListBox5.TabIndex = 25;
             // 
             // label33
             // 
@@ -1343,9 +1343,9 @@
             label38.BackColor = Color.LightGray;
             label38.Font = new Font("Segoe UI", 7F);
             label38.ForeColor = Color.DarkCyan;
-            label38.Location = new Point(6, 46);
+            label38.Location = new Point(0, 46);
             label38.Name = "label38";
-            label38.Size = new Size(977, 20);
+            label38.Size = new Size(983, 20);
             label38.TabIndex = 27;
             label38.Text = "˃ Considere el material que se encuentra en mayor proporción en la vivienda.";
             // 
@@ -4257,6 +4257,7 @@
             // 
             // tabPage19
             // 
+            tabPage19.Controls.Add(checkedListBox44);
             tabPage19.Controls.Add(checkedListBox46);
             tabPage19.Controls.Add(label180);
             tabPage19.Controls.Add(label181);
@@ -4265,7 +4266,6 @@
             tabPage19.Controls.Add(label175);
             tabPage19.Controls.Add(label176);
             tabPage19.Controls.Add(label177);
-            tabPage19.Controls.Add(checkedListBox44);
             tabPage19.Controls.Add(label172);
             tabPage19.Controls.Add(label173);
             tabPage19.Controls.Add(label174);
@@ -4278,6 +4278,18 @@
             tabPage19.TabIndex = 18;
             tabPage19.Text = "tabPage19";
             tabPage19.UseVisualStyleBackColor = true;
+            // 
+            // checkedListBox44
+            // 
+            checkedListBox44.Anchor = AnchorStyles.None;
+            checkedListBox44.BorderStyle = BorderStyle.None;
+            checkedListBox44.FormattingEnabled = true;
+            checkedListBox44.Items.AddRange(new object[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10" });
+            checkedListBox44.Location = new Point(26, 144);
+            checkedListBox44.MultiColumn = true;
+            checkedListBox44.Name = "checkedListBox44";
+            checkedListBox44.Size = new Size(381, 90);
+            checkedListBox44.TabIndex = 173;
             // 
             // checkedListBox46
             // 
@@ -4371,18 +4383,6 @@
             label177.TabIndex = 174;
             label177.Text = "36.";
             label177.TextAlign = ContentAlignment.MiddleCenter;
-            // 
-            // checkedListBox44
-            // 
-            checkedListBox44.Anchor = AnchorStyles.None;
-            checkedListBox44.BorderStyle = BorderStyle.None;
-            checkedListBox44.FormattingEnabled = true;
-            checkedListBox44.Items.AddRange(new object[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "10" });
-            checkedListBox44.Location = new Point(26, 131);
-            checkedListBox44.MultiColumn = true;
-            checkedListBox44.Name = "checkedListBox44";
-            checkedListBox44.Size = new Size(381, 90);
-            checkedListBox44.TabIndex = 173;
             // 
             // label172
             // 

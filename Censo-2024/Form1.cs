@@ -719,6 +719,8 @@ namespace Censo_2024
 
         private void saveDates()
         {
+       
+
 
             string identificadorVivienda = textBox1.Text;
             string cuestionario = textBox2.Text;
@@ -755,7 +757,50 @@ namespace Censo_2024
             string edadCumplidaPersonaSiete = textBox35.Text;
             string edadCumplidaPersonaNueve = textBox36.Text;
             string edadCumplidaPersonaOcho = textBox37.Text;
+            string relacionParentescoPersonaUno = textBox39.Text;
+            string relacionParentescoPersonaDos = textBox40.Text;
+            string relacionParentescoPersonaTres = textBox41.Text;
+            string relacionParentescoPersonaCuatro = textBox42.Text;
+            string relacionParentescoPersonaCinco = textBox43.Text;
+            string relacionParentescoPersonaSeis = textBox44.Text;
+            string relacionParentescoPersonaSiete = textBox45.Text;
+            string relacionParentescoPersonaOcho = textBox46.Text;
+            string relacionParentescoPersonaNueve = textBox47.Text;
+            string cantidadHombre = textBox49.Text;
+            string cantidadMujer = textBox50.Text;
+            string cantidadTotal = textBox51.Text;
+            string datosPersonaNombreCompleto = textBox27.Text;
+            string datosPersonaNPersona = textBox38.Text;
+            string datosPersonaEdadCumplida = textBox34.Text;
+            string datosPersonaDiaNacido = textBox48.Text;
+            string datosPersonaMesNacido = textBox52.Text;
+            string datosPersonaYearNacido = textBox53.Text;
+            string preguntaVeintiCuatro_Uno = textBox54.Text;
+            string preguntaVeintiCuatro_Dos = textBox55.Text;
+            string preguntaVeintiCinco_Uno = textBox56.Text;
+            string preguntaVeintiCinco_Dos = textBox57.Text;
+            string preguntaVeintiSeis = textBox58.Text;
+            string preguntaVeintiSiete = textBox59.Text;
+            string preguntaVeintiOcho = textBox60.Text;
+            string preguntaTreintaUno = textBox61.Text;
+            string preguntaCuarentaUno = textBox62.Text;
+            string preguntaCuarentaDos = textBox63.Text;
+            string preguntaCuarentaTres = textBox64.Text;
+            string preguntaCuarentaCuatro_Uno = textBox65.Text;
+            string preguntaCuarentaCuatro_Dos = textBox66.Text;
+            string preguntaCuarentaSeis_Uno = textBox67.Text;
+            string preguntaCuarentaSeis_Dos = textBox68.Text;
+            string preguntaCuarentaSeis_Tres = textBox69.Text;
+            string preguntaCuarentaSieteMujeres = textBox74.Text;
+            string preguntaCuarentaSieteHombres = textBox75.Text;
+            string preguntaCuarentaOcho_Uno = textBox70.Text;
+            string preguntaCuarentaOcho_Dos = textBox71.Text;
+            string preguntaCuarentaNueve = textBox72.Text;
+            string observacionesDireccion = textBox73.Text;
 
+            
+
+            
 
         }
 
