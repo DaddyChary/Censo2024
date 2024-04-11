@@ -563,64 +563,8 @@ namespace Censo_2024
             label233.ForeColor = colorin;
             label235.ForeColor = colorin;
             label236.ForeColor = colorin;
-            checkedListBox1.ForeColor = colorin;
-            checkedListBox2.ForeColor = colorin;
-            checkedListBox3.ForeColor = colorin;
-            checkedListBox4.ForeColor = colorin;
-            checkedListBox5.ForeColor = colorin;
-            checkedListBox6.ForeColor = colorin;
-            checkedListBox7.ForeColor = colorin;
-            checkedListBox8.ForeColor = colorin;
-            checkedListBox9.ForeColor = colorin;
-            checkedListBox10.ForeColor = colorin;
-            checkedListBox11.ForeColor = colorin;
-            checkedListBox12.ForeColor = colorin;
-            checkedListBox13.ForeColor = colorin;
-            checkedListBox14.ForeColor = colorin;
-            checkedListBox15.ForeColor = colorin;
-            checkedListBox16.ForeColor = colorin;
-            checkedListBox17.ForeColor = colorin;
-            checkedListBox18.ForeColor = colorin;
-            checkedListBox19.ForeColor = colorin;
-            checkedListBox20.ForeColor = colorin;
-            checkedListBox21.ForeColor = colorin;
-            checkedListBox22.ForeColor = colorin;
-            checkedListBox23.ForeColor = colorin;
-            checkedListBox24.ForeColor = colorin;
-            checkedListBox25.ForeColor = colorin;
-            checkedListBox26.ForeColor = colorin;
-            checkedListBox27.ForeColor = colorin;
-            checkedListBox28.ForeColor = colorin;
-            checkedListBox29.ForeColor = colorin;
-            checkedListBox30.ForeColor = colorin;
-            checkedListBox31.ForeColor = colorin;
-            checkedListBox32.ForeColor = colorin;
-            checkedListBox33.ForeColor = colorin;
-            checkedListBox34.ForeColor = colorin;
-            checkedListBox35.ForeColor = colorin;
-            checkedListBox36.ForeColor = colorin;
-            checkedListBox37.ForeColor = colorin;
-            checkedListBox38.ForeColor = colorin;
-            checkedListBox39.ForeColor = colorin;
-            checkedListBox40.ForeColor = colorin;
-            checkedListBox41.ForeColor = colorin;
-            checkedListBox42.ForeColor = colorin;
-            checkedListBox43.ForeColor = colorin;
-            checkedListBox44.ForeColor = colorin;
-            checkedListBox45.ForeColor = colorin;
-            checkedListBox46.ForeColor = colorin;
-            checkedListBox47.ForeColor = colorin;
-            checkedListBox48.ForeColor = colorin;
-            checkedListBox49.ForeColor = colorin;
-            checkedListBox50.ForeColor = colorin;
-            checkedListBox51.ForeColor = colorin;
-            checkedListBox52.ForeColor = colorin;
-            checkedListBox53.ForeColor = colorin;
-            checkedListBox54.ForeColor = colorin;
-            checkedListBox55.ForeColor = colorin;
-            checkedListBox56.ForeColor = colorin;
-            checkedListBox57.ForeColor = colorin;
-            checkedListBox58.ForeColor = colorin;
+
+
 
         }
 
@@ -656,64 +600,7 @@ namespace Censo_2024
             tabPage26.BackColor = ClComponents;
             tabPage27.BackColor = ClComponents;
             tabPage28.BackColor = ClComponents;
-            checkedListBox1.BackColor = ClComponents;
-            checkedListBox2.BackColor = ClComponents;
-            checkedListBox3.BackColor = ClComponents;
-            checkedListBox4.BackColor = ClComponents;
-            checkedListBox5.BackColor = ClComponents;
-            checkedListBox6.BackColor = ClComponents;
-            checkedListBox7.BackColor = ClComponents;
-            checkedListBox8.BackColor = ClComponents;
-            checkedListBox9.BackColor = ClComponents;
-            checkedListBox10.BackColor = ClComponents;
-            checkedListBox11.BackColor = ClComponents;
-            checkedListBox12.BackColor = ClComponents;
-            checkedListBox13.BackColor = ClComponents;
-            checkedListBox14.BackColor = ClComponents;
-            checkedListBox15.BackColor = ClComponents;
-            checkedListBox16.BackColor = ClComponents;
-            checkedListBox17.BackColor = ClComponents;
-            checkedListBox18.BackColor = ClComponents;
-            checkedListBox19.BackColor = ClComponents;
-            checkedListBox20.BackColor = ClComponents;
-            checkedListBox21.BackColor = ClComponents;
-            checkedListBox22.BackColor = ClComponents;
-            checkedListBox23.BackColor = ClComponents;
-            checkedListBox24.BackColor = ClComponents;
-            checkedListBox25.BackColor = ClComponents;
-            checkedListBox26.BackColor = ClComponents;
-            checkedListBox27.BackColor = ClComponents;
-            checkedListBox28.BackColor = ClComponents;
-            checkedListBox29.BackColor = ClComponents;
-            checkedListBox30.BackColor = ClComponents;
-            checkedListBox31.BackColor = ClComponents;
-            checkedListBox32.BackColor = ClComponents;
-            checkedListBox33.BackColor = ClComponents;
-            checkedListBox34.BackColor = ClComponents;
-            checkedListBox35.BackColor = ClComponents;
-            checkedListBox36.BackColor = ClComponents;
-            checkedListBox37.BackColor = ClComponents;
-            checkedListBox38.BackColor = ClComponents;
-            checkedListBox39.BackColor = ClComponents;
-            checkedListBox40.BackColor = ClComponents;
-            checkedListBox41.BackColor = ClComponents;
-            checkedListBox42.BackColor = ClComponents;
-            checkedListBox43.BackColor = ClComponents;
-            checkedListBox44.BackColor = ClComponents;
-            checkedListBox45.BackColor = ClComponents;
-            checkedListBox46.BackColor = ClComponents;
-            checkedListBox47.BackColor = ClComponents;
-            checkedListBox48.BackColor = ClComponents;
-            checkedListBox49.BackColor = ClComponents;
-            checkedListBox50.BackColor = ClComponents;
-            checkedListBox51.BackColor = ClComponents;
-            checkedListBox52.BackColor = ClComponents;
-            checkedListBox53.BackColor = ClComponents;
-            checkedListBox54.BackColor = ClComponents;
-            checkedListBox55.BackColor = ClComponents;
-            checkedListBox56.BackColor = ClComponents;
-            checkedListBox57.BackColor = ClComponents;
-            checkedListBox58.BackColor = ClComponents;
+
 
         }
 
@@ -832,6 +719,16 @@ namespace Censo_2024
         }
 
         private void radioButton104_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton235_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void radioButton277_CheckedChanged(object sender, EventArgs e)
         {
 
         }

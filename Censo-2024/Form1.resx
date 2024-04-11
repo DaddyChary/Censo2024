@@ -117,14 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="label79.Text" xml:space="preserve">
-    <value>˃ Comience por la jefa o jefe de hogar. Para las personas restantes use las
-    relaciones de parentesco con la jefa o jefe de hogar que aparecen al costado derecho.
-˃ Considere a todas las personas del hogar, incluyendo a niñas y niños pequeños, 
-   personas mayores y personas con discapacidad.
-˃ Incluya a quienes se encuentran temporalmente fuera del hogar, ya sea
-   por razones de vacaciones, trabajo, enfermedad u otra razón</value>
-  </data>
   <data name="label34.Text" xml:space="preserve">
     <value>&gt; Una vivienda se considera ocupada cuando, al momento de la entrevista, las personas que residen en ella han vivido ahí durante al menos 6 meses en el último
 año. O llevando menos tiempo, tienen la intención de permanecer en ella.
@@ -148,6 +140,14 @@ cuestionario.
 ˃ Anote el N° del hogar dentro de la vivienda de forma correlativa.
 ˃ Deje en blanco la sección B. DATOS DE LA VIVIENDA.
 ˃ Comience la entrevista en la sección C. DATOS DEL HOGAR</value>
+  </data>
+  <data name="label79.Text" xml:space="preserve">
+    <value>˃ Comience por la jefa o jefe de hogar. Para las personas restantes use las
+    relaciones de parentesco con la jefa o jefe de hogar que aparecen al costado derecho.
+˃ Considere a todas las personas del hogar, incluyendo a niñas y niños pequeños, 
+   personas mayores y personas con discapacidad.
+˃ Incluya a quienes se encuentran temporalmente fuera del hogar, ya sea
+   por razones de vacaciones, trabajo, enfermedad u otra razón</value>
   </data>
   <data name="label90.Text" xml:space="preserve">
     <value>Parentesco con la
