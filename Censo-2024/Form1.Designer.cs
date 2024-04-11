@@ -37,6 +37,9 @@
             Iniciar = new Button();
             tabPage2 = new TabPage();
             panel1 = new Panel();
+            groupBox50 = new GroupBox();
+            radioButton296 = new RadioButton();
+            radioButton298 = new RadioButton();
             button1 = new Button();
             button2 = new Button();
             label22 = new Label();
@@ -76,6 +79,33 @@
             textBox7 = new TextBox();
             label10 = new Label();
             tabPage3 = new TabPage();
+            groupBox55 = new GroupBox();
+            radioButton314 = new RadioButton();
+            radioButton312 = new RadioButton();
+            radioButton313 = new RadioButton();
+            radioButton318 = new RadioButton();
+            radioButton319 = new RadioButton();
+            radioButton320 = new RadioButton();
+            radioButton315 = new RadioButton();
+            radioButton316 = new RadioButton();
+            radioButton317 = new RadioButton();
+            groupBox54 = new GroupBox();
+            radioButton308 = new RadioButton();
+            radioButton309 = new RadioButton();
+            radioButton310 = new RadioButton();
+            radioButton311 = new RadioButton();
+            groupBox53 = new GroupBox();
+            radioButton306 = new RadioButton();
+            radioButton307 = new RadioButton();
+            radioButton297 = new RadioButton();
+            radioButton299 = new RadioButton();
+            radioButton300 = new RadioButton();
+            radioButton301 = new RadioButton();
+            groupBox52 = new GroupBox();
+            radioButton302 = new RadioButton();
+            radioButton303 = new RadioButton();
+            radioButton304 = new RadioButton();
+            radioButton305 = new RadioButton();
             label34 = new Label();
             label33 = new Label();
             label32 = new Label();
@@ -91,7 +121,25 @@
             label24 = new Label();
             label23 = new Label();
             tabPage4 = new TabPage();
+            groupBox51 = new GroupBox();
+            radioButton290 = new RadioButton();
+            radioButton291 = new RadioButton();
+            radioButton292 = new RadioButton();
+            radioButton293 = new RadioButton();
+            radioButton294 = new RadioButton();
+            radioButton295 = new RadioButton();
+            groupBox49 = new GroupBox();
+            radioButton289 = new RadioButton();
+            radioButton288 = new RadioButton();
+            radioButton282 = new RadioButton();
+            radioButton283 = new RadioButton();
+            radioButton284 = new RadioButton();
+            radioButton285 = new RadioButton();
+            radioButton286 = new RadioButton();
+            radioButton287 = new RadioButton();
             groupBox48 = new GroupBox();
+            radioButton278 = new RadioButton();
+            radioButton276 = new RadioButton();
             radioButton277 = new RadioButton();
             radioButton279 = new RadioButton();
             radioButton280 = new RadioButton();
@@ -774,60 +822,19 @@
             label238 = new Label();
             fondoLogo = new Panel();
             label1 = new Label();
-            radioButton276 = new RadioButton();
-            radioButton278 = new RadioButton();
-            groupBox49 = new GroupBox();
-            radioButton282 = new RadioButton();
-            radioButton283 = new RadioButton();
-            radioButton284 = new RadioButton();
-            radioButton285 = new RadioButton();
-            radioButton286 = new RadioButton();
-            radioButton287 = new RadioButton();
-            radioButton288 = new RadioButton();
-            radioButton289 = new RadioButton();
-            radioButton298 = new RadioButton();
-            radioButton296 = new RadioButton();
-            groupBox50 = new GroupBox();
-            groupBox51 = new GroupBox();
-            radioButton290 = new RadioButton();
-            radioButton291 = new RadioButton();
-            radioButton292 = new RadioButton();
-            radioButton293 = new RadioButton();
-            radioButton294 = new RadioButton();
-            radioButton295 = new RadioButton();
-            groupBox53 = new GroupBox();
-            radioButton297 = new RadioButton();
-            radioButton299 = new RadioButton();
-            radioButton300 = new RadioButton();
-            radioButton301 = new RadioButton();
-            radioButton306 = new RadioButton();
-            radioButton307 = new RadioButton();
-            groupBox54 = new GroupBox();
-            radioButton308 = new RadioButton();
-            radioButton309 = new RadioButton();
-            radioButton310 = new RadioButton();
-            radioButton311 = new RadioButton();
-            groupBox55 = new GroupBox();
-            radioButton315 = new RadioButton();
-            radioButton316 = new RadioButton();
-            radioButton317 = new RadioButton();
-            radioButton318 = new RadioButton();
-            radioButton319 = new RadioButton();
-            radioButton320 = new RadioButton();
-            radioButton305 = new RadioButton();
-            radioButton304 = new RadioButton();
-            radioButton303 = new RadioButton();
-            radioButton302 = new RadioButton();
-            groupBox52 = new GroupBox();
-            radioButton312 = new RadioButton();
-            radioButton313 = new RadioButton();
-            radioButton314 = new RadioButton();
             tablePanel2.SuspendLayout();
             tabPage1.SuspendLayout();
             tabPage2.SuspendLayout();
             panel1.SuspendLayout();
+            groupBox50.SuspendLayout();
             tabPage3.SuspendLayout();
+            groupBox55.SuspendLayout();
+            groupBox54.SuspendLayout();
+            groupBox53.SuspendLayout();
+            groupBox52.SuspendLayout();
             tabPage4.SuspendLayout();
+            groupBox51.SuspendLayout();
+            groupBox49.SuspendLayout();
             groupBox48.SuspendLayout();
             tabPage5.SuspendLayout();
             groupBox47.SuspendLayout();
@@ -901,13 +908,6 @@
             tabPage27.SuspendLayout();
             tabPage28.SuspendLayout();
             fondoLogo.SuspendLayout();
-            groupBox49.SuspendLayout();
-            groupBox50.SuspendLayout();
-            groupBox51.SuspendLayout();
-            groupBox53.SuspendLayout();
-            groupBox54.SuspendLayout();
-            groupBox55.SuspendLayout();
-            groupBox52.SuspendLayout();
             this.SuspendLayout();
             // 
             // tablePanel2
@@ -1067,6 +1067,38 @@
             panel1.Size = new Size(987, 420);
             panel1.TabIndex = 32;
             // 
+            // groupBox50
+            // 
+            groupBox50.Controls.Add(radioButton296);
+            groupBox50.Controls.Add(radioButton298);
+            groupBox50.Location = new Point(912, 273);
+            groupBox50.Name = "groupBox50";
+            groupBox50.Size = new Size(72, 73);
+            groupBox50.TabIndex = 259;
+            groupBox50.TabStop = false;
+            // 
+            // radioButton296
+            // 
+            radioButton296.AutoSize = true;
+            radioButton296.Location = new Point(6, 38);
+            radioButton296.Name = "radioButton296";
+            radioButton296.Size = new Size(52, 19);
+            radioButton296.TabIndex = 7;
+            radioButton296.TabStop = true;
+            radioButton296.Text = "Rural";
+            radioButton296.UseVisualStyleBackColor = true;
+            // 
+            // radioButton298
+            // 
+            radioButton298.AutoSize = true;
+            radioButton298.Location = new Point(6, 13);
+            radioButton298.Name = "radioButton298";
+            radioButton298.Size = new Size(64, 19);
+            radioButton298.TabIndex = 5;
+            radioButton298.TabStop = true;
+            radioButton298.Text = "Urbano";
+            radioButton298.UseVisualStyleBackColor = true;
+            // 
             // button1
             // 
             button1.Location = new Point(852, 367);
@@ -1099,7 +1131,7 @@
             // label21
             // 
             label21.AutoSize = true;
-            label21.Location = new Point(870, 314);
+            label21.Location = new Point(870, 306);
             label21.Name = "label21";
             label21.Size = new Size(42, 15);
             label21.TabIndex = 41;
@@ -1416,6 +1448,314 @@
             tabPage3.Text = "tabPage3";
             tabPage3.UseVisualStyleBackColor = true;
             // 
+            // groupBox55
+            // 
+            groupBox55.Controls.Add(radioButton314);
+            groupBox55.Controls.Add(radioButton312);
+            groupBox55.Controls.Add(radioButton313);
+            groupBox55.Controls.Add(radioButton318);
+            groupBox55.Controls.Add(radioButton319);
+            groupBox55.Controls.Add(radioButton320);
+            groupBox55.Controls.Add(radioButton315);
+            groupBox55.Controls.Add(radioButton316);
+            groupBox55.Controls.Add(radioButton317);
+            groupBox55.Location = new Point(26, 160);
+            groupBox55.Name = "groupBox55";
+            groupBox55.Size = new Size(425, 181);
+            groupBox55.TabIndex = 268;
+            groupBox55.TabStop = false;
+            // 
+            // radioButton314
+            // 
+            radioButton314.AutoSize = true;
+            radioButton314.Location = new Point(6, 160);
+            radioButton314.Name = "radioButton314";
+            radioButton314.Size = new Size(189, 19);
+            radioButton314.TabIndex = 19;
+            radioButton314.TabStop = true;
+            radioButton314.Text = "Otro tipo de vivienda particular";
+            radioButton314.UseVisualStyleBackColor = true;
+            // 
+            // radioButton312
+            // 
+            radioButton312.AutoSize = true;
+            radioButton312.Location = new Point(6, 142);
+            radioButton312.Name = "radioButton312";
+            radioButton312.Size = new Size(216, 19);
+            radioButton312.TabIndex = 18;
+            radioButton312.TabStop = true;
+            radioButton312.Text = "Móvil (carpa, casa rodante o similar)";
+            radioButton312.UseVisualStyleBackColor = true;
+            // 
+            // radioButton313
+            // 
+            radioButton313.AutoSize = true;
+            radioButton313.Location = new Point(6, 125);
+            radioButton313.Name = "radioButton313";
+            radioButton313.Size = new Size(339, 19);
+            radioButton313.TabIndex = 17;
+            radioButton313.TabStop = true;
+            radioButton313.Text = "Mediagua, mejora, vivienda de emergencia, rancho o choza";
+            radioButton313.UseVisualStyleBackColor = true;
+            // 
+            // radioButton318
+            // 
+            radioButton318.AutoSize = true;
+            radioButton318.Location = new Point(6, 107);
+            radioButton318.Name = "radioButton318";
+            radioButton318.Size = new Size(225, 19);
+            radioButton318.TabIndex = 16;
+            radioButton318.TabStop = true;
+            radioButton318.Text = "Pieza en casa antigua o en conventillo";
+            radioButton318.UseVisualStyleBackColor = true;
+            // 
+            // radioButton319
+            // 
+            radioButton319.AutoSize = true;
+            radioButton319.Location = new Point(6, 90);
+            radioButton319.Name = "radioButton319";
+            radioButton319.Size = new Size(251, 19);
+            radioButton319.TabIndex = 15;
+            radioButton319.TabStop = true;
+            radioButton319.Text = "Vivienda tradicional indígena (ruka u otras)";
+            radioButton319.UseVisualStyleBackColor = true;
+            // 
+            // radioButton320
+            // 
+            radioButton320.AutoSize = true;
+            radioButton320.Location = new Point(6, 73);
+            radioButton320.Name = "radioButton320";
+            radioButton320.Size = new Size(226, 19);
+            radioButton320.TabIndex = 14;
+            radioButton320.TabStop = true;
+            radioButton320.Text = "Departamento en edificio sin ascensor";
+            radioButton320.UseVisualStyleBackColor = true;
+            // 
+            // radioButton315
+            // 
+            radioButton315.AutoSize = true;
+            radioButton315.Location = new Point(6, 53);
+            radioButton315.Name = "radioButton315";
+            radioButton315.Size = new Size(231, 19);
+            radioButton315.TabIndex = 9;
+            radioButton315.TabStop = true;
+            radioButton315.Text = "Departamento en edificio con ascensor";
+            radioButton315.UseVisualStyleBackColor = true;
+            // 
+            // radioButton316
+            // 
+            radioButton316.AutoSize = true;
+            radioButton316.Location = new Point(6, 33);
+            radioButton316.Name = "radioButton316";
+            radioButton316.Size = new Size(404, 19);
+            radioButton316.TabIndex = 7;
+            radioButton316.TabStop = true;
+            radioButton316.Text = "Casa en condominio cerrado (contorno cerrado y/o entrada controlada)";
+            radioButton316.UseVisualStyleBackColor = true;
+            // 
+            // radioButton317
+            // 
+            radioButton317.AutoSize = true;
+            radioButton317.Location = new Point(6, 13);
+            radioButton317.Name = "radioButton317";
+            radioButton317.Size = new Size(225, 19);
+            radioButton317.TabIndex = 5;
+            radioButton317.TabStop = true;
+            radioButton317.Text = "Casa con acceso directo desde la calle";
+            radioButton317.UseVisualStyleBackColor = true;
+            // 
+            // groupBox54
+            // 
+            groupBox54.Controls.Add(radioButton308);
+            groupBox54.Controls.Add(radioButton309);
+            groupBox54.Controls.Add(radioButton310);
+            groupBox54.Controls.Add(radioButton311);
+            groupBox54.Location = new Point(20, 75);
+            groupBox54.Name = "groupBox54";
+            groupBox54.Size = new Size(453, 42);
+            groupBox54.TabIndex = 267;
+            groupBox54.TabStop = false;
+            // 
+            // radioButton308
+            // 
+            radioButton308.AutoSize = true;
+            radioButton308.Location = new Point(347, 13);
+            radioButton308.Name = "radioButton308";
+            radioButton308.Size = new Size(102, 19);
+            radioButton308.TabIndex = 11;
+            radioButton308.TabStop = true;
+            radioButton308.Text = "Sin edificación";
+            radioButton308.UseVisualStyleBackColor = true;
+            // 
+            // radioButton309
+            // 
+            radioButton309.AutoSize = true;
+            radioButton309.Location = new Point(144, 13);
+            radioButton309.Name = "radioButton309";
+            radioButton309.Size = new Size(120, 19);
+            radioButton309.TabIndex = 9;
+            radioButton309.TabStop = true;
+            radioButton309.Text = "Vivienda colectiva";
+            radioButton309.UseVisualStyleBackColor = true;
+            // 
+            // radioButton310
+            // 
+            radioButton310.AutoSize = true;
+            radioButton310.Location = new Point(270, 13);
+            radioButton310.Name = "radioButton310";
+            radioButton310.Size = new Size(71, 19);
+            radioButton310.TabIndex = 7;
+            radioButton310.TabStop = true;
+            radioButton310.Text = "Otro uso";
+            radioButton310.UseVisualStyleBackColor = true;
+            // 
+            // radioButton311
+            // 
+            radioButton311.AutoSize = true;
+            radioButton311.Location = new Point(6, 13);
+            radioButton311.Name = "radioButton311";
+            radioButton311.Size = new Size(123, 19);
+            radioButton311.TabIndex = 5;
+            radioButton311.TabStop = true;
+            radioButton311.Text = "Vivienda particular";
+            radioButton311.UseVisualStyleBackColor = true;
+            // 
+            // groupBox53
+            // 
+            groupBox53.Controls.Add(radioButton306);
+            groupBox53.Controls.Add(radioButton307);
+            groupBox53.Controls.Add(radioButton297);
+            groupBox53.Controls.Add(radioButton299);
+            groupBox53.Controls.Add(radioButton300);
+            groupBox53.Controls.Add(radioButton301);
+            groupBox53.Location = new Point(524, 107);
+            groupBox53.Name = "groupBox53";
+            groupBox53.Size = new Size(453, 116);
+            groupBox53.TabIndex = 266;
+            groupBox53.TabStop = false;
+            // 
+            // radioButton306
+            // 
+            radioButton306.AutoSize = true;
+            radioButton306.Location = new Point(252, 78);
+            radioButton306.Name = "radioButton306";
+            radioButton306.Size = new Size(167, 19);
+            radioButton306.TabIndex = 13;
+            radioButton306.TabStop = true;
+            radioButton306.Text = "Otra razón de no entrevista";
+            radioButton306.UseVisualStyleBackColor = true;
+            // 
+            // radioButton307
+            // 
+            radioButton307.AutoSize = true;
+            radioButton307.Location = new Point(252, 53);
+            radioButton307.Name = "radioButton307";
+            radioButton307.Size = new Size(177, 19);
+            radioButton307.TabIndex = 12;
+            radioButton307.TabStop = true;
+            radioButton307.Text = "Informante no habla español";
+            radioButton307.UseVisualStyleBackColor = true;
+            // 
+            // radioButton297
+            // 
+            radioButton297.AutoSize = true;
+            radioButton297.Location = new Point(252, 13);
+            radioButton297.Name = "radioButton297";
+            radioButton297.Size = new Size(208, 34);
+            radioButton297.TabIndex = 11;
+            radioButton297.TabStop = true;
+            radioButton297.Text = "Informante tiene un impedimento \r\nfísico y/o mental para contestar";
+            radioButton297.UseVisualStyleBackColor = true;
+            // 
+            // radioButton299
+            // 
+            radioButton299.AutoSize = true;
+            radioButton299.Location = new Point(6, 78);
+            radioButton299.Name = "radioButton299";
+            radioButton299.Size = new Size(193, 19);
+            radioButton299.TabIndex = 9;
+            radioButton299.TabStop = true;
+            radioButton299.Text = "Informante rechaza la entrevista";
+            radioButton299.UseVisualStyleBackColor = true;
+            // 
+            // radioButton300
+            // 
+            radioButton300.AutoSize = true;
+            radioButton300.Location = new Point(6, 53);
+            radioButton300.Name = "radioButton300";
+            radioButton300.Size = new Size(131, 19);
+            radioButton300.TabIndex = 7;
+            radioButton300.TabStop = true;
+            radioButton300.Text = "Moradores ausentes";
+            radioButton300.UseVisualStyleBackColor = true;
+            // 
+            // radioButton301
+            // 
+            radioButton301.AutoSize = true;
+            radioButton301.Location = new Point(6, 21);
+            radioButton301.Name = "radioButton301";
+            radioButton301.Size = new Size(240, 19);
+            radioButton301.TabIndex = 5;
+            radioButton301.TabStop = true;
+            radioButton301.Text = "Informante acepta contestar la entrevista";
+            radioButton301.UseVisualStyleBackColor = true;
+            // 
+            // groupBox52
+            // 
+            groupBox52.Controls.Add(radioButton302);
+            groupBox52.Controls.Add(radioButton303);
+            groupBox52.Controls.Add(radioButton304);
+            groupBox52.Controls.Add(radioButton305);
+            groupBox52.Location = new Point(556, 269);
+            groupBox52.Name = "groupBox52";
+            groupBox52.Size = new Size(390, 80);
+            groupBox52.TabIndex = 265;
+            groupBox52.TabStop = false;
+            // 
+            // radioButton302
+            // 
+            radioButton302.AutoSize = true;
+            radioButton302.Location = new Point(190, 46);
+            radioButton302.Name = "radioButton302";
+            radioButton302.Size = new Size(173, 19);
+            radioButton302.TabIndex = 11;
+            radioButton302.TabStop = true;
+            radioButton302.Text = "Otra razón de desocupación";
+            radioButton302.UseVisualStyleBackColor = true;
+            // 
+            // radioButton303
+            // 
+            radioButton303.AutoSize = true;
+            radioButton303.Location = new Point(190, 13);
+            radioButton303.Name = "radioButton303";
+            radioButton303.Size = new Size(93, 19);
+            radioButton303.TabIndex = 9;
+            radioButton303.TabStop = true;
+            radioButton303.Text = "Abandonada";
+            radioButton303.UseVisualStyleBackColor = true;
+            // 
+            // radioButton304
+            // 
+            radioButton304.AutoSize = true;
+            radioButton304.Location = new Point(6, 38);
+            radioButton304.Name = "radioButton304";
+            radioButton304.Size = new Size(174, 34);
+            radioButton304.TabIndex = 7;
+            radioButton304.TabStop = true;
+            radioButton304.Text = "Vivienda de temporada\r\n(veraneo o de uso temporal)";
+            radioButton304.UseVisualStyleBackColor = true;
+            // 
+            // radioButton305
+            // 
+            radioButton305.AutoSize = true;
+            radioButton305.Location = new Point(6, 13);
+            radioButton305.Name = "radioButton305";
+            radioButton305.Size = new Size(127, 19);
+            radioButton305.TabIndex = 5;
+            radioButton305.TabStop = true;
+            radioButton305.Text = "En venta o arriendo";
+            radioButton305.UseVisualStyleBackColor = true;
+            // 
             // label34
             // 
             label34.BackColor = Color.LightGray;
@@ -1593,6 +1933,190 @@
             tabPage4.Text = "tabPage4";
             tabPage4.UseVisualStyleBackColor = true;
             // 
+            // groupBox51
+            // 
+            groupBox51.Controls.Add(radioButton290);
+            groupBox51.Controls.Add(radioButton291);
+            groupBox51.Controls.Add(radioButton292);
+            groupBox51.Controls.Add(radioButton293);
+            groupBox51.Controls.Add(radioButton294);
+            groupBox51.Controls.Add(radioButton295);
+            groupBox51.Location = new Point(18, 83);
+            groupBox51.Name = "groupBox51";
+            groupBox51.Size = new Size(572, 116);
+            groupBox51.TabIndex = 265;
+            groupBox51.TabStop = false;
+            // 
+            // radioButton290
+            // 
+            radioButton290.AutoSize = true;
+            radioButton290.Location = new Point(301, 48);
+            radioButton290.Name = "radioButton290";
+            radioButton290.Size = new Size(256, 34);
+            radioButton290.TabIndex = 13;
+            radioButton290.TabStop = true;
+            radioButton290.Text = "Materiales precarios o de desecho: \r\ncartón, sacos, trozos de latas o plásticos, etc";
+            radioButton290.UseVisualStyleBackColor = true;
+            // 
+            // radioButton291
+            // 
+            radioButton291.AutoSize = true;
+            radioButton291.Location = new Point(301, 13);
+            radioButton291.Name = "radioButton291";
+            radioButton291.Size = new Size(178, 34);
+            radioButton291.TabIndex = 12;
+            radioButton291.TabStop = true;
+            radioButton291.Text = "Adobe, barro, pirca, quincha \r\nu otro material artesanal";
+            radioButton291.UseVisualStyleBackColor = true;
+            // 
+            // radioButton292
+            // 
+            radioButton292.AutoSize = true;
+            radioButton292.Location = new Point(6, 88);
+            radioButton292.Name = "radioButton292";
+            radioButton292.Size = new Size(240, 19);
+            radioButton292.TabIndex = 11;
+            radioButton292.TabStop = true;
+            radioButton292.Text = "Tabique sin forro interior (madera u otro)";
+            radioButton292.UseVisualStyleBackColor = true;
+            // 
+            // radioButton293
+            // 
+            radioButton293.AutoSize = true;
+            radioButton293.Location = new Point(6, 63);
+            radioButton293.Name = "radioButton293";
+            radioButton293.Size = new Size(290, 19);
+            radioButton293.TabIndex = 9;
+            radioButton293.TabStop = true;
+            radioButton293.Text = "Tabique forrado por ambas caras (madera o acero)";
+            radioButton293.UseVisualStyleBackColor = true;
+            // 
+            // radioButton294
+            // 
+            radioButton294.AutoSize = true;
+            radioButton294.Location = new Point(6, 38);
+            radioButton294.Name = "radioButton294";
+            radioButton294.Size = new Size(278, 19);
+            radioButton294.TabIndex = 7;
+            radioButton294.TabStop = true;
+            radioButton294.Text = "Albañilería: bloque de cemento, ladrillo o piedra";
+            radioButton294.UseVisualStyleBackColor = true;
+            // 
+            // radioButton295
+            // 
+            radioButton295.AutoSize = true;
+            radioButton295.Location = new Point(6, 13);
+            radioButton295.Name = "radioButton295";
+            radioButton295.Size = new Size(124, 19);
+            radioButton295.TabIndex = 5;
+            radioButton295.TabStop = true;
+            radioButton295.Text = "Hormigón armado";
+            radioButton295.UseVisualStyleBackColor = true;
+            // 
+            // groupBox49
+            // 
+            groupBox49.Controls.Add(radioButton289);
+            groupBox49.Controls.Add(radioButton288);
+            groupBox49.Controls.Add(radioButton282);
+            groupBox49.Controls.Add(radioButton283);
+            groupBox49.Controls.Add(radioButton284);
+            groupBox49.Controls.Add(radioButton285);
+            groupBox49.Controls.Add(radioButton286);
+            groupBox49.Controls.Add(radioButton287);
+            groupBox49.Location = new Point(609, 114);
+            groupBox49.Name = "groupBox49";
+            groupBox49.Size = new Size(287, 247);
+            groupBox49.TabIndex = 264;
+            groupBox49.TabStop = false;
+            // 
+            // radioButton289
+            // 
+            radioButton289.AutoSize = true;
+            radioButton289.Location = new Point(6, 217);
+            radioButton289.Name = "radioButton289";
+            radioButton289.Size = new Size(170, 19);
+            radioButton289.TabIndex = 15;
+            radioButton289.TabStop = true;
+            radioButton289.Text = "Sin cubierta sólida de techo";
+            radioButton289.UseVisualStyleBackColor = true;
+            // 
+            // radioButton288
+            // 
+            radioButton288.AutoSize = true;
+            radioButton288.Location = new Point(6, 178);
+            radioButton288.Name = "radioButton288";
+            radioButton288.Size = new Size(262, 34);
+            radioButton288.TabIndex = 14;
+            radioButton288.TabStop = true;
+            radioButton288.Text = "Materiales precarios o de desecho:\r\n cartón, sacos, trozos de latas o plásticos, etc.";
+            radioButton288.UseVisualStyleBackColor = true;
+            // 
+            // radioButton282
+            // 
+            radioButton282.AutoSize = true;
+            radioButton282.Location = new Point(6, 153);
+            radioButton282.Name = "radioButton282";
+            radioButton282.Size = new Size(163, 19);
+            radioButton282.TabIndex = 13;
+            radioButton282.TabStop = true;
+            radioButton282.Text = "Paja, coirón, totora o caña";
+            radioButton282.UseVisualStyleBackColor = true;
+            // 
+            // radioButton283
+            // 
+            radioButton283.AutoSize = true;
+            radioButton283.Location = new Point(6, 128);
+            radioButton283.Name = "radioButton283";
+            radioButton283.Size = new Size(230, 19);
+            radioButton283.TabIndex = 12;
+            radioButton283.TabStop = true;
+            radioButton283.Text = "Fonolita o plancha de fieltro embreado";
+            radioButton283.UseVisualStyleBackColor = true;
+            // 
+            // radioButton284
+            // 
+            radioButton284.AutoSize = true;
+            radioButton284.Location = new Point(6, 103);
+            radioButton284.Name = "radioButton284";
+            radioButton284.Size = new Size(239, 19);
+            radioButton284.TabIndex = 11;
+            radioButton284.TabStop = true;
+            radioButton284.Text = "Planchas de fibrocemento tipo pizarreño";
+            radioButton284.UseVisualStyleBackColor = true;
+            // 
+            // radioButton285
+            // 
+            radioButton285.AutoSize = true;
+            radioButton285.Location = new Point(6, 78);
+            radioButton285.Name = "radioButton285";
+            radioButton285.Size = new Size(223, 19);
+            radioButton285.TabIndex = 9;
+            radioButton285.TabStop = true;
+            radioButton285.Text = "Planchas metálicas de zinc, cobre, etc";
+            radioButton285.UseVisualStyleBackColor = true;
+            // 
+            // radioButton286
+            // 
+            radioButton286.AutoSize = true;
+            radioButton286.Location = new Point(6, 53);
+            radioButton286.Name = "radioButton286";
+            radioButton286.Size = new Size(105, 19);
+            radioButton286.TabIndex = 7;
+            radioButton286.TabStop = true;
+            radioButton286.Text = "Losa hormigón";
+            radioButton286.UseVisualStyleBackColor = true;
+            // 
+            // radioButton287
+            // 
+            radioButton287.AutoSize = true;
+            radioButton287.Location = new Point(6, 13);
+            radioButton287.Name = "radioButton287";
+            radioButton287.Size = new Size(246, 34);
+            radioButton287.TabIndex = 5;
+            radioButton287.TabStop = true;
+            radioButton287.Text = "Tejas o tejuelas de arcilla, metálicas, de \r\ncemento, de madera, asfálticas o plásticas";
+            radioButton287.UseVisualStyleBackColor = true;
+            // 
             // groupBox48
             // 
             groupBox48.Controls.Add(radioButton278);
@@ -1606,6 +2130,28 @@
             groupBox48.Size = new Size(446, 133);
             groupBox48.TabIndex = 263;
             groupBox48.TabStop = false;
+            // 
+            // radioButton278
+            // 
+            radioButton278.AutoSize = true;
+            radioButton278.Location = new Point(256, 38);
+            radioButton278.Name = "radioButton278";
+            radioButton278.Size = new Size(54, 19);
+            radioButton278.TabIndex = 13;
+            radioButton278.TabStop = true;
+            radioButton278.Text = "Tierra";
+            radioButton278.UseVisualStyleBackColor = true;
+            // 
+            // radioButton276
+            // 
+            radioButton276.AutoSize = true;
+            radioButton276.Location = new Point(256, 13);
+            radioButton276.Name = "radioButton276";
+            radioButton276.Size = new Size(180, 19);
+            radioButton276.TabIndex = 12;
+            radioButton276.TabStop = true;
+            radioButton276.Text = "Capa de cemento sobre tierra";
+            radioButton276.UseVisualStyleBackColor = true;
             // 
             // radioButton277
             // 
@@ -9232,563 +9778,18 @@
             fondoLogo.Controls.Add(label1);
             fondoLogo.Location = new Point(1, -3);
             fondoLogo.Name = "fondoLogo";
-            fondoLogo.Size = new Size(987, 235);
+            fondoLogo.Size = new Size(987, 309);
             fondoLogo.TabIndex = 1;
             // 
             // label1
             // 
             label1.Anchor = (AnchorStyles)((AnchorStyles.Top) | (AnchorStyles.Left)) | (AnchorStyles.Right);
             label1.Image = (Image)resources.GetObject("label1.Image");
+            label1.ImageAlign = ContentAlignment.TopCenter;
             label1.Location = new Point(-1, 0);
             label1.Name = "label1";
-            label1.Size = new Size(985, 177);
+            label1.Size = new Size(985, 309);
             label1.TabIndex = 0;
-            // 
-            // radioButton276
-            // 
-            radioButton276.AutoSize = true;
-            radioButton276.Location = new Point(256, 13);
-            radioButton276.Name = "radioButton276";
-            radioButton276.Size = new Size(180, 19);
-            radioButton276.TabIndex = 12;
-            radioButton276.TabStop = true;
-            radioButton276.Text = "Capa de cemento sobre tierra";
-            radioButton276.UseVisualStyleBackColor = true;
-            // 
-            // radioButton278
-            // 
-            radioButton278.AutoSize = true;
-            radioButton278.Location = new Point(256, 38);
-            radioButton278.Name = "radioButton278";
-            radioButton278.Size = new Size(54, 19);
-            radioButton278.TabIndex = 13;
-            radioButton278.TabStop = true;
-            radioButton278.Text = "Tierra";
-            radioButton278.UseVisualStyleBackColor = true;
-            // 
-            // groupBox49
-            // 
-            groupBox49.Controls.Add(radioButton289);
-            groupBox49.Controls.Add(radioButton288);
-            groupBox49.Controls.Add(radioButton282);
-            groupBox49.Controls.Add(radioButton283);
-            groupBox49.Controls.Add(radioButton284);
-            groupBox49.Controls.Add(radioButton285);
-            groupBox49.Controls.Add(radioButton286);
-            groupBox49.Controls.Add(radioButton287);
-            groupBox49.Location = new Point(609, 114);
-            groupBox49.Name = "groupBox49";
-            groupBox49.Size = new Size(287, 247);
-            groupBox49.TabIndex = 264;
-            groupBox49.TabStop = false;
-            // 
-            // radioButton282
-            // 
-            radioButton282.AutoSize = true;
-            radioButton282.Location = new Point(6, 153);
-            radioButton282.Name = "radioButton282";
-            radioButton282.Size = new Size(163, 19);
-            radioButton282.TabIndex = 13;
-            radioButton282.TabStop = true;
-            radioButton282.Text = "Paja, coirón, totora o caña";
-            radioButton282.UseVisualStyleBackColor = true;
-            // 
-            // radioButton283
-            // 
-            radioButton283.AutoSize = true;
-            radioButton283.Location = new Point(6, 128);
-            radioButton283.Name = "radioButton283";
-            radioButton283.Size = new Size(230, 19);
-            radioButton283.TabIndex = 12;
-            radioButton283.TabStop = true;
-            radioButton283.Text = "Fonolita o plancha de fieltro embreado";
-            radioButton283.UseVisualStyleBackColor = true;
-            // 
-            // radioButton284
-            // 
-            radioButton284.AutoSize = true;
-            radioButton284.Location = new Point(6, 103);
-            radioButton284.Name = "radioButton284";
-            radioButton284.Size = new Size(239, 19);
-            radioButton284.TabIndex = 11;
-            radioButton284.TabStop = true;
-            radioButton284.Text = "Planchas de fibrocemento tipo pizarreño";
-            radioButton284.UseVisualStyleBackColor = true;
-            // 
-            // radioButton285
-            // 
-            radioButton285.AutoSize = true;
-            radioButton285.Location = new Point(6, 78);
-            radioButton285.Name = "radioButton285";
-            radioButton285.Size = new Size(223, 19);
-            radioButton285.TabIndex = 9;
-            radioButton285.TabStop = true;
-            radioButton285.Text = "Planchas metálicas de zinc, cobre, etc";
-            radioButton285.UseVisualStyleBackColor = true;
-            // 
-            // radioButton286
-            // 
-            radioButton286.AutoSize = true;
-            radioButton286.Location = new Point(6, 53);
-            radioButton286.Name = "radioButton286";
-            radioButton286.Size = new Size(105, 19);
-            radioButton286.TabIndex = 7;
-            radioButton286.TabStop = true;
-            radioButton286.Text = "Losa hormigón";
-            radioButton286.UseVisualStyleBackColor = true;
-            // 
-            // radioButton287
-            // 
-            radioButton287.AutoSize = true;
-            radioButton287.Location = new Point(6, 13);
-            radioButton287.Name = "radioButton287";
-            radioButton287.Size = new Size(246, 34);
-            radioButton287.TabIndex = 5;
-            radioButton287.TabStop = true;
-            radioButton287.Text = "Tejas o tejuelas de arcilla, metálicas, de \r\ncemento, de madera, asfálticas o plásticas";
-            radioButton287.UseVisualStyleBackColor = true;
-            // 
-            // radioButton288
-            // 
-            radioButton288.AutoSize = true;
-            radioButton288.Location = new Point(6, 178);
-            radioButton288.Name = "radioButton288";
-            radioButton288.Size = new Size(262, 34);
-            radioButton288.TabIndex = 14;
-            radioButton288.TabStop = true;
-            radioButton288.Text = "Materiales precarios o de desecho:\r\n cartón, sacos, trozos de latas o plásticos, etc.";
-            radioButton288.UseVisualStyleBackColor = true;
-            // 
-            // radioButton289
-            // 
-            radioButton289.AutoSize = true;
-            radioButton289.Location = new Point(6, 217);
-            radioButton289.Name = "radioButton289";
-            radioButton289.Size = new Size(170, 19);
-            radioButton289.TabIndex = 15;
-            radioButton289.TabStop = true;
-            radioButton289.Text = "Sin cubierta sólida de techo";
-            radioButton289.UseVisualStyleBackColor = true;
-            // 
-            // radioButton298
-            // 
-            radioButton298.AutoSize = true;
-            radioButton298.Location = new Point(6, 13);
-            radioButton298.Name = "radioButton298";
-            radioButton298.Size = new Size(64, 19);
-            radioButton298.TabIndex = 5;
-            radioButton298.TabStop = true;
-            radioButton298.Text = "Urbano";
-            radioButton298.UseVisualStyleBackColor = true;
-            // 
-            // radioButton296
-            // 
-            radioButton296.AutoSize = true;
-            radioButton296.Location = new Point(6, 38);
-            radioButton296.Name = "radioButton296";
-            radioButton296.Size = new Size(52, 19);
-            radioButton296.TabIndex = 7;
-            radioButton296.TabStop = true;
-            radioButton296.Text = "Rural";
-            radioButton296.UseVisualStyleBackColor = true;
-            // 
-            // groupBox50
-            // 
-            groupBox50.Controls.Add(radioButton296);
-            groupBox50.Controls.Add(radioButton298);
-            groupBox50.Location = new Point(912, 288);
-            groupBox50.Name = "groupBox50";
-            groupBox50.Size = new Size(72, 58);
-            groupBox50.TabIndex = 259;
-            groupBox50.TabStop = false;
-            // 
-            // groupBox51
-            // 
-            groupBox51.Controls.Add(radioButton290);
-            groupBox51.Controls.Add(radioButton291);
-            groupBox51.Controls.Add(radioButton292);
-            groupBox51.Controls.Add(radioButton293);
-            groupBox51.Controls.Add(radioButton294);
-            groupBox51.Controls.Add(radioButton295);
-            groupBox51.Location = new Point(18, 83);
-            groupBox51.Name = "groupBox51";
-            groupBox51.Size = new Size(572, 107);
-            groupBox51.TabIndex = 265;
-            groupBox51.TabStop = false;
-            // 
-            // radioButton290
-            // 
-            radioButton290.AutoSize = true;
-            radioButton290.Location = new Point(301, 48);
-            radioButton290.Name = "radioButton290";
-            radioButton290.Size = new Size(256, 34);
-            radioButton290.TabIndex = 13;
-            radioButton290.TabStop = true;
-            radioButton290.Text = "Materiales precarios o de desecho: \r\ncartón, sacos, trozos de latas o plásticos, etc";
-            radioButton290.UseVisualStyleBackColor = true;
-            // 
-            // radioButton291
-            // 
-            radioButton291.AutoSize = true;
-            radioButton291.Location = new Point(301, 13);
-            radioButton291.Name = "radioButton291";
-            radioButton291.Size = new Size(178, 34);
-            radioButton291.TabIndex = 12;
-            radioButton291.TabStop = true;
-            radioButton291.Text = "Adobe, barro, pirca, quincha \r\nu otro material artesanal";
-            radioButton291.UseVisualStyleBackColor = true;
-            // 
-            // radioButton292
-            // 
-            radioButton292.AutoSize = true;
-            radioButton292.Location = new Point(6, 88);
-            radioButton292.Name = "radioButton292";
-            radioButton292.Size = new Size(240, 19);
-            radioButton292.TabIndex = 11;
-            radioButton292.TabStop = true;
-            radioButton292.Text = "Tabique sin forro interior (madera u otro)";
-            radioButton292.UseVisualStyleBackColor = true;
-            // 
-            // radioButton293
-            // 
-            radioButton293.AutoSize = true;
-            radioButton293.Location = new Point(6, 63);
-            radioButton293.Name = "radioButton293";
-            radioButton293.Size = new Size(290, 19);
-            radioButton293.TabIndex = 9;
-            radioButton293.TabStop = true;
-            radioButton293.Text = "Tabique forrado por ambas caras (madera o acero)";
-            radioButton293.UseVisualStyleBackColor = true;
-            // 
-            // radioButton294
-            // 
-            radioButton294.AutoSize = true;
-            radioButton294.Location = new Point(6, 38);
-            radioButton294.Name = "radioButton294";
-            radioButton294.Size = new Size(278, 19);
-            radioButton294.TabIndex = 7;
-            radioButton294.TabStop = true;
-            radioButton294.Text = "Albañilería: bloque de cemento, ladrillo o piedra";
-            radioButton294.UseVisualStyleBackColor = true;
-            // 
-            // radioButton295
-            // 
-            radioButton295.AutoSize = true;
-            radioButton295.Location = new Point(6, 13);
-            radioButton295.Name = "radioButton295";
-            radioButton295.Size = new Size(124, 19);
-            radioButton295.TabIndex = 5;
-            radioButton295.TabStop = true;
-            radioButton295.Text = "Hormigón armado";
-            radioButton295.UseVisualStyleBackColor = true;
-            // 
-            // groupBox53
-            // 
-            groupBox53.Controls.Add(radioButton306);
-            groupBox53.Controls.Add(radioButton307);
-            groupBox53.Controls.Add(radioButton297);
-            groupBox53.Controls.Add(radioButton299);
-            groupBox53.Controls.Add(radioButton300);
-            groupBox53.Controls.Add(radioButton301);
-            groupBox53.Location = new Point(524, 107);
-            groupBox53.Name = "groupBox53";
-            groupBox53.Size = new Size(453, 116);
-            groupBox53.TabIndex = 266;
-            groupBox53.TabStop = false;
-            // 
-            // radioButton297
-            // 
-            radioButton297.AutoSize = true;
-            radioButton297.Location = new Point(252, 13);
-            radioButton297.Name = "radioButton297";
-            radioButton297.Size = new Size(208, 34);
-            radioButton297.TabIndex = 11;
-            radioButton297.TabStop = true;
-            radioButton297.Text = "Informante tiene un impedimento \r\nfísico y/o mental para contestar";
-            radioButton297.UseVisualStyleBackColor = true;
-            // 
-            // radioButton299
-            // 
-            radioButton299.AutoSize = true;
-            radioButton299.Location = new Point(6, 78);
-            radioButton299.Name = "radioButton299";
-            radioButton299.Size = new Size(193, 19);
-            radioButton299.TabIndex = 9;
-            radioButton299.TabStop = true;
-            radioButton299.Text = "Informante rechaza la entrevista";
-            radioButton299.UseVisualStyleBackColor = true;
-            // 
-            // radioButton300
-            // 
-            radioButton300.AutoSize = true;
-            radioButton300.Location = new Point(6, 53);
-            radioButton300.Name = "radioButton300";
-            radioButton300.Size = new Size(131, 19);
-            radioButton300.TabIndex = 7;
-            radioButton300.TabStop = true;
-            radioButton300.Text = "Moradores ausentes";
-            radioButton300.UseVisualStyleBackColor = true;
-            // 
-            // radioButton301
-            // 
-            radioButton301.AutoSize = true;
-            radioButton301.Location = new Point(6, 21);
-            radioButton301.Name = "radioButton301";
-            radioButton301.Size = new Size(240, 19);
-            radioButton301.TabIndex = 5;
-            radioButton301.TabStop = true;
-            radioButton301.Text = "Informante acepta contestar la entrevista";
-            radioButton301.UseVisualStyleBackColor = true;
-            // 
-            // radioButton306
-            // 
-            radioButton306.AutoSize = true;
-            radioButton306.Location = new Point(252, 78);
-            radioButton306.Name = "radioButton306";
-            radioButton306.Size = new Size(167, 19);
-            radioButton306.TabIndex = 13;
-            radioButton306.TabStop = true;
-            radioButton306.Text = "Otra razón de no entrevista";
-            radioButton306.UseVisualStyleBackColor = true;
-            // 
-            // radioButton307
-            // 
-            radioButton307.AutoSize = true;
-            radioButton307.Location = new Point(252, 53);
-            radioButton307.Name = "radioButton307";
-            radioButton307.Size = new Size(177, 19);
-            radioButton307.TabIndex = 12;
-            radioButton307.TabStop = true;
-            radioButton307.Text = "Informante no habla español";
-            radioButton307.UseVisualStyleBackColor = true;
-            // 
-            // groupBox54
-            // 
-            groupBox54.Controls.Add(radioButton308);
-            groupBox54.Controls.Add(radioButton309);
-            groupBox54.Controls.Add(radioButton310);
-            groupBox54.Controls.Add(radioButton311);
-            groupBox54.Location = new Point(20, 75);
-            groupBox54.Name = "groupBox54";
-            groupBox54.Size = new Size(453, 42);
-            groupBox54.TabIndex = 267;
-            groupBox54.TabStop = false;
-            // 
-            // radioButton308
-            // 
-            radioButton308.AutoSize = true;
-            radioButton308.Location = new Point(347, 13);
-            radioButton308.Name = "radioButton308";
-            radioButton308.Size = new Size(102, 19);
-            radioButton308.TabIndex = 11;
-            radioButton308.TabStop = true;
-            radioButton308.Text = "Sin edificación";
-            radioButton308.UseVisualStyleBackColor = true;
-            // 
-            // radioButton309
-            // 
-            radioButton309.AutoSize = true;
-            radioButton309.Location = new Point(144, 13);
-            radioButton309.Name = "radioButton309";
-            radioButton309.Size = new Size(120, 19);
-            radioButton309.TabIndex = 9;
-            radioButton309.TabStop = true;
-            radioButton309.Text = "Vivienda colectiva";
-            radioButton309.UseVisualStyleBackColor = true;
-            // 
-            // radioButton310
-            // 
-            radioButton310.AutoSize = true;
-            radioButton310.Location = new Point(270, 13);
-            radioButton310.Name = "radioButton310";
-            radioButton310.Size = new Size(71, 19);
-            radioButton310.TabIndex = 7;
-            radioButton310.TabStop = true;
-            radioButton310.Text = "Otro uso";
-            radioButton310.UseVisualStyleBackColor = true;
-            // 
-            // radioButton311
-            // 
-            radioButton311.AutoSize = true;
-            radioButton311.Location = new Point(6, 13);
-            radioButton311.Name = "radioButton311";
-            radioButton311.Size = new Size(123, 19);
-            radioButton311.TabIndex = 5;
-            radioButton311.TabStop = true;
-            radioButton311.Text = "Vivienda particular";
-            radioButton311.UseVisualStyleBackColor = true;
-            // 
-            // groupBox55
-            // 
-            groupBox55.Controls.Add(radioButton314);
-            groupBox55.Controls.Add(radioButton312);
-            groupBox55.Controls.Add(radioButton313);
-            groupBox55.Controls.Add(radioButton318);
-            groupBox55.Controls.Add(radioButton319);
-            groupBox55.Controls.Add(radioButton320);
-            groupBox55.Controls.Add(radioButton315);
-            groupBox55.Controls.Add(radioButton316);
-            groupBox55.Controls.Add(radioButton317);
-            groupBox55.Location = new Point(26, 160);
-            groupBox55.Name = "groupBox55";
-            groupBox55.Size = new Size(425, 181);
-            groupBox55.TabIndex = 268;
-            groupBox55.TabStop = false;
-            // 
-            // radioButton315
-            // 
-            radioButton315.AutoSize = true;
-            radioButton315.Location = new Point(6, 53);
-            radioButton315.Name = "radioButton315";
-            radioButton315.Size = new Size(231, 19);
-            radioButton315.TabIndex = 9;
-            radioButton315.TabStop = true;
-            radioButton315.Text = "Departamento en edificio con ascensor";
-            radioButton315.UseVisualStyleBackColor = true;
-            // 
-            // radioButton316
-            // 
-            radioButton316.AutoSize = true;
-            radioButton316.Location = new Point(6, 33);
-            radioButton316.Name = "radioButton316";
-            radioButton316.Size = new Size(404, 19);
-            radioButton316.TabIndex = 7;
-            radioButton316.TabStop = true;
-            radioButton316.Text = "Casa en condominio cerrado (contorno cerrado y/o entrada controlada)";
-            radioButton316.UseVisualStyleBackColor = true;
-            // 
-            // radioButton317
-            // 
-            radioButton317.AutoSize = true;
-            radioButton317.Location = new Point(6, 13);
-            radioButton317.Name = "radioButton317";
-            radioButton317.Size = new Size(225, 19);
-            radioButton317.TabIndex = 5;
-            radioButton317.TabStop = true;
-            radioButton317.Text = "Casa con acceso directo desde la calle";
-            radioButton317.UseVisualStyleBackColor = true;
-            // 
-            // radioButton318
-            // 
-            radioButton318.AutoSize = true;
-            radioButton318.Location = new Point(6, 107);
-            radioButton318.Name = "radioButton318";
-            radioButton318.Size = new Size(225, 19);
-            radioButton318.TabIndex = 16;
-            radioButton318.TabStop = true;
-            radioButton318.Text = "Pieza en casa antigua o en conventillo";
-            radioButton318.UseVisualStyleBackColor = true;
-            // 
-            // radioButton319
-            // 
-            radioButton319.AutoSize = true;
-            radioButton319.Location = new Point(6, 90);
-            radioButton319.Name = "radioButton319";
-            radioButton319.Size = new Size(251, 19);
-            radioButton319.TabIndex = 15;
-            radioButton319.TabStop = true;
-            radioButton319.Text = "Vivienda tradicional indígena (ruka u otras)";
-            radioButton319.UseVisualStyleBackColor = true;
-            // 
-            // radioButton320
-            // 
-            radioButton320.AutoSize = true;
-            radioButton320.Location = new Point(6, 73);
-            radioButton320.Name = "radioButton320";
-            radioButton320.Size = new Size(226, 19);
-            radioButton320.TabIndex = 14;
-            radioButton320.TabStop = true;
-            radioButton320.Text = "Departamento en edificio sin ascensor";
-            radioButton320.UseVisualStyleBackColor = true;
-            // 
-            // radioButton305
-            // 
-            radioButton305.AutoSize = true;
-            radioButton305.Location = new Point(6, 13);
-            radioButton305.Name = "radioButton305";
-            radioButton305.Size = new Size(127, 19);
-            radioButton305.TabIndex = 5;
-            radioButton305.TabStop = true;
-            radioButton305.Text = "En venta o arriendo";
-            radioButton305.UseVisualStyleBackColor = true;
-            // 
-            // radioButton304
-            // 
-            radioButton304.AutoSize = true;
-            radioButton304.Location = new Point(6, 38);
-            radioButton304.Name = "radioButton304";
-            radioButton304.Size = new Size(174, 34);
-            radioButton304.TabIndex = 7;
-            radioButton304.TabStop = true;
-            radioButton304.Text = "Vivienda de temporada\r\n(veraneo o de uso temporal)";
-            radioButton304.UseVisualStyleBackColor = true;
-            // 
-            // radioButton303
-            // 
-            radioButton303.AutoSize = true;
-            radioButton303.Location = new Point(190, 13);
-            radioButton303.Name = "radioButton303";
-            radioButton303.Size = new Size(93, 19);
-            radioButton303.TabIndex = 9;
-            radioButton303.TabStop = true;
-            radioButton303.Text = "Abandonada";
-            radioButton303.UseVisualStyleBackColor = true;
-            // 
-            // radioButton302
-            // 
-            radioButton302.AutoSize = true;
-            radioButton302.Location = new Point(190, 46);
-            radioButton302.Name = "radioButton302";
-            radioButton302.Size = new Size(173, 19);
-            radioButton302.TabIndex = 11;
-            radioButton302.TabStop = true;
-            radioButton302.Text = "Otra razón de desocupación";
-            radioButton302.UseVisualStyleBackColor = true;
-            // 
-            // groupBox52
-            // 
-            groupBox52.Controls.Add(radioButton302);
-            groupBox52.Controls.Add(radioButton303);
-            groupBox52.Controls.Add(radioButton304);
-            groupBox52.Controls.Add(radioButton305);
-            groupBox52.Location = new Point(556, 269);
-            groupBox52.Name = "groupBox52";
-            groupBox52.Size = new Size(390, 80);
-            groupBox52.TabIndex = 265;
-            groupBox52.TabStop = false;
-            // 
-            // radioButton312
-            // 
-            radioButton312.AutoSize = true;
-            radioButton312.Location = new Point(6, 142);
-            radioButton312.Name = "radioButton312";
-            radioButton312.Size = new Size(216, 19);
-            radioButton312.TabIndex = 18;
-            radioButton312.TabStop = true;
-            radioButton312.Text = "Móvil (carpa, casa rodante o similar)";
-            radioButton312.UseVisualStyleBackColor = true;
-            // 
-            // radioButton313
-            // 
-            radioButton313.AutoSize = true;
-            radioButton313.Location = new Point(6, 125);
-            radioButton313.Name = "radioButton313";
-            radioButton313.Size = new Size(339, 19);
-            radioButton313.TabIndex = 17;
-            radioButton313.TabStop = true;
-            radioButton313.Text = "Mediagua, mejora, vivienda de emergencia, rancho o choza";
-            radioButton313.UseVisualStyleBackColor = true;
-            // 
-            // radioButton314
-            // 
-            radioButton314.AutoSize = true;
-            radioButton314.Location = new Point(6, 160);
-            radioButton314.Name = "radioButton314";
-            radioButton314.Size = new Size(189, 19);
-            radioButton314.TabIndex = 19;
-            radioButton314.TabStop = true;
-            radioButton314.Text = "Otro tipo de vivienda particular";
-            radioButton314.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -9804,9 +9805,23 @@
             tabPage2.ResumeLayout(false);
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
+            groupBox50.ResumeLayout(false);
+            groupBox50.PerformLayout();
             tabPage3.ResumeLayout(false);
             tabPage3.PerformLayout();
+            groupBox55.ResumeLayout(false);
+            groupBox55.PerformLayout();
+            groupBox54.ResumeLayout(false);
+            groupBox54.PerformLayout();
+            groupBox53.ResumeLayout(false);
+            groupBox53.PerformLayout();
+            groupBox52.ResumeLayout(false);
+            groupBox52.PerformLayout();
             tabPage4.ResumeLayout(false);
+            groupBox51.ResumeLayout(false);
+            groupBox51.PerformLayout();
+            groupBox49.ResumeLayout(false);
+            groupBox49.PerformLayout();
             groupBox48.ResumeLayout(false);
             groupBox48.PerformLayout();
             tabPage5.ResumeLayout(false);
@@ -9941,20 +9956,6 @@
             tabPage28.ResumeLayout(false);
             tabPage28.PerformLayout();
             fondoLogo.ResumeLayout(false);
-            groupBox49.ResumeLayout(false);
-            groupBox49.PerformLayout();
-            groupBox50.ResumeLayout(false);
-            groupBox50.PerformLayout();
-            groupBox51.ResumeLayout(false);
-            groupBox51.PerformLayout();
-            groupBox53.ResumeLayout(false);
-            groupBox53.PerformLayout();
-            groupBox54.ResumeLayout(false);
-            groupBox54.PerformLayout();
-            groupBox55.ResumeLayout(false);
-            groupBox55.PerformLayout();
-            groupBox52.ResumeLayout(false);
-            groupBox52.PerformLayout();
             this.ResumeLayout(false);
         }
 

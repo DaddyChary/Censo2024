@@ -1,3 +1,5 @@
+using System.Security.Cryptography;
+
 namespace Censo_2024
 {
     internal static class Program
@@ -12,6 +14,7 @@ namespace Censo_2024
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+
         }
     }
 }

@@ -1,24 +1,62 @@
 using System;
 using System.Drawing;
 using System.Windows.Forms;
+using System.Threading;
+using static System.Net.Mime.MediaTypeNames;
 
 
 namespace Censo_2024
 {
     public partial class Form1 : Form
     {
+        private List<RadioButton> listaRadiobuttons = new List<RadioButton>();
+        private Thread monitorThread;
+        private bool isRunning = true; 
 
         public Form1()
         {
-
             InitializeComponent();
             funcionSize();
             this.StartPosition = FormStartPosition.CenterScreen;
-            changeColorText(Color.Black);
-            changeComponentsColor(Color.White);
-
-
+            InicializarListaRadiobuttons();
+            monitorThread = new Thread(MonitorearHora);
+            monitorThread.IsBackground = true;
+            monitorThread.Start();
         }
+
+        // cambiar dia noche
+        private void MonitorearHora()
+        {
+            // Bucle infinito para monitorear la hora
+            while (isRunning) 
+            {
+                // Obtener la hora actual
+                DateTime currentTime = DateTime.Now;
+
+                // Verificar si es de día (entre las 6:00 AM y las 11:59 PM)
+                bool esDia = currentTime.Hour >= 6 && currentTime.Hour < 21;
+
+                // Llamar a la función para cambiar día/noche
+                TuFuncionCambiarDiaNoche(esDia);
+
+                // Esperar tiempo antes de verificar la hora
+                Thread.Sleep(1000);
+            }
+        }
+        private void TuFuncionCambiarDiaNoche(bool esDia)
+        {
+            if (esDia)
+            {
+                changeColorText(Color.Black);
+                changeComponentsColor(Color.White);
+            }
+            else
+            {
+                changeColorText(Color.White);
+                changeComponentsColor(Color.DarkSlateGray);
+            }
+        }
+
 
         private void tabControl1_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -47,11 +85,14 @@ namespace Censo_2024
 
         private void Iniciar_Click(object sender, EventArgs e)
         {
+            
+            clearCampsLabel();
             tablePanel2.SelectedTab = tabPage2;
         }
 
         private void verCenso_Click(object sender, EventArgs e)
         {
+            RellenarRadiobuttons();
             tablePanel2.SelectedTab = tabPage2;
         }
 
@@ -320,6 +361,7 @@ namespace Censo_2024
             tablePanel2.SelectedTab = tabPage1;
             saveDates();
             MessageBox.Show("Se han guardado los datos correctamente");
+            GuardarEstadoRadiobuttons();
 
         }
 
@@ -378,6 +420,38 @@ namespace Censo_2024
             tablePanel2.SelectedTab = tabPage25;
 
         }
+
+        private void InicializarListaRadiobuttons()
+        {
+      
+            for (int i = 1; i <= 320; i++) {
+                 listaRadiobuttons.Add((RadioButton)this.Controls["radioButton" + i.ToString()]);
+            }
+        }
+
+        private void GuardarEstadoRadiobuttons()
+        {
+            
+            foreach (RadioButton radioButton in listaRadiobuttons)
+            {
+
+            }
+            
+        }
+
+        //changeColorText(Color.White);
+
+        private void RellenarRadiobuttons()
+        {
+            
+            foreach (RadioButton radioButton in listaRadiobuttons)
+            {
+             
+            }
+            
+        }
+
+
 
         private void changeColorText(Color colorin)
         {
@@ -563,8 +637,326 @@ namespace Censo_2024
             label233.ForeColor = colorin;
             label235.ForeColor = colorin;
             label236.ForeColor = colorin;
-
-
+            radioButton1.ForeColor = colorin;
+            radioButton2.ForeColor = colorin;
+            radioButton3.ForeColor = colorin;
+            radioButton4.ForeColor = colorin;
+            radioButton5.ForeColor = colorin;
+            radioButton6.ForeColor = colorin;
+            radioButton7.ForeColor = colorin;
+            radioButton8.ForeColor = colorin;
+            radioButton9.ForeColor = colorin;
+            radioButton10.ForeColor = colorin;
+            radioButton11.ForeColor = colorin;
+            radioButton12.ForeColor = colorin;
+            radioButton13.ForeColor = colorin;
+            radioButton14.ForeColor = colorin;
+            radioButton15.ForeColor = colorin;
+            radioButton16.ForeColor = colorin;
+            radioButton17.ForeColor = colorin;
+            radioButton18.ForeColor = colorin;
+            radioButton19.ForeColor = colorin;
+            radioButton20.ForeColor = colorin;
+            radioButton21.ForeColor = colorin;
+            radioButton22.ForeColor = colorin;
+            radioButton23.ForeColor = colorin;
+            radioButton24.ForeColor = colorin;
+            radioButton25.ForeColor = colorin;
+            radioButton26.ForeColor = colorin;
+            radioButton27.ForeColor = colorin;
+            radioButton28.ForeColor = colorin;
+            radioButton29.ForeColor = colorin;
+            radioButton30.ForeColor = colorin;
+            radioButton31.ForeColor = colorin;
+            radioButton32.ForeColor = colorin;
+            radioButton33.ForeColor = colorin;
+            radioButton34.ForeColor = colorin;
+            radioButton35.ForeColor = colorin;
+            radioButton36.ForeColor = colorin;
+            radioButton37.ForeColor = colorin;
+            radioButton38.ForeColor = colorin;
+            radioButton39.ForeColor = colorin;
+            radioButton40.ForeColor = colorin;
+            radioButton41.ForeColor = colorin;
+            radioButton42.ForeColor = colorin;
+            radioButton43.ForeColor = colorin;
+            radioButton44.ForeColor = colorin;
+            radioButton45.ForeColor = colorin;
+            radioButton46.ForeColor = colorin;
+            radioButton47.ForeColor = colorin;
+            radioButton48.ForeColor = colorin;
+            radioButton49.ForeColor = colorin;
+            radioButton50.ForeColor = colorin;
+            radioButton51.ForeColor = colorin;
+            radioButton52.ForeColor = colorin;
+            radioButton53.ForeColor = colorin;
+            radioButton54.ForeColor = colorin;
+            radioButton55.ForeColor = colorin;
+            radioButton56.ForeColor = colorin;
+            radioButton57.ForeColor = colorin;
+            radioButton58.ForeColor = colorin;
+            radioButton59.ForeColor = colorin;
+            radioButton60.ForeColor = colorin;
+            radioButton61.ForeColor = colorin;
+            radioButton62.ForeColor = colorin;
+            radioButton63.ForeColor = colorin;
+            radioButton64.ForeColor = colorin;
+            radioButton65.ForeColor = colorin;
+            radioButton66.ForeColor = colorin;
+            radioButton67.ForeColor = colorin;
+            radioButton68.ForeColor = colorin;
+            radioButton69.ForeColor = colorin;
+            radioButton70.ForeColor = colorin;
+            radioButton71.ForeColor = colorin;
+            radioButton72.ForeColor = colorin;
+            radioButton73.ForeColor = colorin;
+            radioButton74.ForeColor = colorin;
+            radioButton75.ForeColor = colorin;
+            radioButton76.ForeColor = colorin;
+            radioButton77.ForeColor = colorin;
+            radioButton78.ForeColor = colorin;
+            radioButton79.ForeColor = colorin;
+            radioButton80.ForeColor = colorin;
+            radioButton81.ForeColor = colorin;
+            radioButton82.ForeColor = colorin;
+            radioButton83.ForeColor = colorin;
+            radioButton84.ForeColor = colorin;
+            radioButton85.ForeColor = colorin;
+            radioButton86.ForeColor = colorin;
+            radioButton87.ForeColor = colorin;
+            radioButton88.ForeColor = colorin;
+            radioButton89.ForeColor = colorin;
+            radioButton90.ForeColor = colorin;
+            radioButton91.ForeColor = colorin;
+            radioButton92.ForeColor = colorin;
+            radioButton93.ForeColor = colorin;
+            radioButton94.ForeColor = colorin;
+            radioButton95.ForeColor = colorin;
+            radioButton96.ForeColor = colorin;
+            radioButton97.ForeColor = colorin;
+            radioButton98.ForeColor = colorin;
+            radioButton99.ForeColor = colorin;
+            radioButton100.ForeColor = colorin;
+            radioButton101.ForeColor = colorin;
+            radioButton102.ForeColor = colorin;
+            radioButton103.ForeColor = colorin;
+            radioButton104.ForeColor = colorin;
+            radioButton105.ForeColor = colorin;
+            radioButton106.ForeColor = colorin;
+            radioButton107.ForeColor = colorin;
+            radioButton108.ForeColor = colorin;
+            radioButton109.ForeColor = colorin;
+            radioButton110.ForeColor = colorin;
+            radioButton111.ForeColor = colorin;
+            radioButton112.ForeColor = colorin;
+            radioButton113.ForeColor = colorin;
+            radioButton114.ForeColor = colorin;
+            radioButton115.ForeColor = colorin;
+            radioButton116.ForeColor = colorin;
+            radioButton117.ForeColor = colorin;
+            radioButton118.ForeColor = colorin;
+            radioButton119.ForeColor = colorin;
+            radioButton120.ForeColor = colorin;
+            radioButton121.ForeColor = colorin;
+            radioButton122.ForeColor = colorin;
+            radioButton123.ForeColor = colorin;
+            radioButton124.ForeColor = colorin;
+            radioButton125.ForeColor = colorin;
+            radioButton126.ForeColor = colorin;
+            radioButton127.ForeColor = colorin;
+            radioButton128.ForeColor = colorin;
+            radioButton129.ForeColor = colorin;
+            radioButton130.ForeColor = colorin;
+            radioButton131.ForeColor = colorin;
+            radioButton132.ForeColor = colorin;
+            radioButton133.ForeColor = colorin;
+            radioButton134.ForeColor = colorin;
+            radioButton135.ForeColor = colorin;
+            radioButton136.ForeColor = colorin;
+            radioButton137.ForeColor = colorin;
+            radioButton138.ForeColor = colorin;
+            radioButton139.ForeColor = colorin;
+            radioButton140.ForeColor = colorin;
+            radioButton141.ForeColor = colorin;
+            radioButton142.ForeColor = colorin;
+            radioButton143.ForeColor = colorin;
+            radioButton144.ForeColor = colorin;
+            radioButton145.ForeColor = colorin;
+            radioButton146.ForeColor = colorin;
+            radioButton147.ForeColor = colorin;
+            radioButton148.ForeColor = colorin;
+            radioButton149.ForeColor = colorin;
+            radioButton150.ForeColor = colorin;
+            radioButton151.ForeColor = colorin;
+            radioButton152.ForeColor = colorin;
+            radioButton153.ForeColor = colorin;
+            radioButton154.ForeColor = colorin;
+            radioButton155.ForeColor = colorin;
+            radioButton156.ForeColor = colorin;
+            radioButton157.ForeColor = colorin;
+            radioButton158.ForeColor = colorin;
+            radioButton159.ForeColor = colorin;
+            radioButton160.ForeColor = colorin;
+            radioButton161.ForeColor = colorin;
+            radioButton162.ForeColor = colorin;
+            radioButton163.ForeColor = colorin;
+            radioButton164.ForeColor = colorin;
+            radioButton165.ForeColor = colorin;
+            radioButton166.ForeColor = colorin;
+            radioButton167.ForeColor = colorin;
+            radioButton168.ForeColor = colorin;
+            radioButton169.ForeColor = colorin;
+            radioButton170.ForeColor = colorin;
+            radioButton171.ForeColor = colorin;
+            radioButton172.ForeColor = colorin;
+            radioButton173.ForeColor = colorin;
+            radioButton174.ForeColor = colorin;
+            radioButton175.ForeColor = colorin;
+            radioButton176.ForeColor = colorin;
+            radioButton177.ForeColor = colorin;
+            radioButton178.ForeColor = colorin;
+            radioButton179.ForeColor = colorin;
+            radioButton180.ForeColor = colorin;
+            radioButton181.ForeColor = colorin;
+            radioButton182.ForeColor = colorin;
+            radioButton183.ForeColor = colorin;
+            radioButton184.ForeColor = colorin;
+            radioButton185.ForeColor = colorin;
+            radioButton186.ForeColor = colorin;
+            radioButton187.ForeColor = colorin;
+            radioButton188.ForeColor = colorin;
+            radioButton189.ForeColor = colorin;
+            radioButton190.ForeColor = colorin;
+            radioButton191.ForeColor = colorin;
+            radioButton192.ForeColor = colorin;
+            radioButton193.ForeColor = colorin;
+            radioButton194.ForeColor = colorin;
+            radioButton195.ForeColor = colorin;
+            radioButton196.ForeColor = colorin;
+            radioButton197.ForeColor = colorin;
+            radioButton198.ForeColor = colorin;
+            radioButton199.ForeColor = colorin;
+            radioButton200.ForeColor = colorin;
+            radioButton201.ForeColor = colorin;
+            radioButton202.ForeColor = colorin;
+            radioButton203.ForeColor = colorin;
+            radioButton204.ForeColor = colorin;
+            radioButton205.ForeColor = colorin;
+            radioButton206.ForeColor = colorin;
+            radioButton207.ForeColor = colorin;
+            radioButton208.ForeColor = colorin;
+            radioButton209.ForeColor = colorin;
+            radioButton210.ForeColor = colorin;
+            radioButton211.ForeColor = colorin;
+            radioButton212.ForeColor = colorin;
+            radioButton213.ForeColor = colorin;
+            radioButton214.ForeColor = colorin;
+            radioButton215.ForeColor = colorin;
+            radioButton216.ForeColor = colorin;
+            radioButton217.ForeColor = colorin;
+            radioButton218.ForeColor = colorin;
+            radioButton219.ForeColor = colorin;
+            radioButton220.ForeColor = colorin;
+            radioButton221.ForeColor = colorin;
+            radioButton222.ForeColor = colorin;
+            radioButton223.ForeColor = colorin;
+            radioButton224.ForeColor = colorin;
+            radioButton225.ForeColor = colorin;
+            radioButton226.ForeColor = colorin;
+            radioButton227.ForeColor = colorin;
+            radioButton228.ForeColor = colorin;
+            radioButton229.ForeColor = colorin;
+            radioButton230.ForeColor = colorin;
+            radioButton231.ForeColor = colorin;
+            radioButton232.ForeColor = colorin;
+            radioButton233.ForeColor = colorin;
+            radioButton234.ForeColor = colorin;
+            radioButton235.ForeColor = colorin;
+            radioButton236.ForeColor = colorin;
+            radioButton237.ForeColor = colorin;
+            radioButton238.ForeColor = colorin;
+            radioButton239.ForeColor = colorin;
+            radioButton240.ForeColor = colorin;
+            radioButton241.ForeColor = colorin;
+            radioButton242.ForeColor = colorin;
+            radioButton243.ForeColor = colorin;
+            radioButton244.ForeColor = colorin;
+            radioButton245.ForeColor = colorin;
+            radioButton246.ForeColor = colorin;
+            radioButton247.ForeColor = colorin;
+            radioButton248.ForeColor = colorin;
+            radioButton249.ForeColor = colorin;
+            radioButton250.ForeColor = colorin;
+            radioButton251.ForeColor = colorin;
+            radioButton252.ForeColor = colorin;
+            radioButton253.ForeColor = colorin;
+            radioButton254.ForeColor = colorin;
+            radioButton255.ForeColor = colorin;
+            radioButton256.ForeColor = colorin;
+            radioButton257.ForeColor = colorin;
+            radioButton258.ForeColor = colorin;
+            radioButton259.ForeColor = colorin;
+            radioButton260.ForeColor = colorin;
+            radioButton261.ForeColor = colorin;
+            radioButton262.ForeColor = colorin;
+            radioButton263.ForeColor = colorin;
+            radioButton264.ForeColor = colorin;
+            radioButton265.ForeColor = colorin;
+            radioButton266.ForeColor = colorin;
+            radioButton267.ForeColor = colorin;
+            radioButton268.ForeColor = colorin;
+            radioButton269.ForeColor = colorin;
+            radioButton270.ForeColor = colorin;
+            radioButton271.ForeColor = colorin;
+            radioButton272.ForeColor = colorin;
+            radioButton273.ForeColor = colorin;
+            radioButton274.ForeColor = colorin;
+            radioButton275.ForeColor = colorin;
+            radioButton276.ForeColor = colorin;
+            radioButton277.ForeColor = colorin;
+            radioButton278.ForeColor = colorin;
+            radioButton279.ForeColor = colorin;
+            radioButton280.ForeColor = colorin;
+            radioButton281.ForeColor = colorin;
+            radioButton282.ForeColor = colorin;
+            radioButton283.ForeColor = colorin;
+            radioButton284.ForeColor = colorin;
+            radioButton285.ForeColor = colorin;
+            radioButton286.ForeColor = colorin;
+            radioButton287.ForeColor = colorin;
+            radioButton288.ForeColor = colorin;
+            radioButton289.ForeColor = colorin;
+            radioButton290.ForeColor = colorin;
+            radioButton291.ForeColor = colorin;
+            radioButton292.ForeColor = colorin;
+            radioButton293.ForeColor = colorin;
+            radioButton294.ForeColor = colorin;
+            radioButton295.ForeColor = colorin;
+            radioButton296.ForeColor = colorin;
+            radioButton297.ForeColor = colorin;
+            radioButton298.ForeColor = colorin;
+            radioButton299.ForeColor = colorin;
+            radioButton300.ForeColor = colorin;
+            radioButton301.ForeColor = colorin;
+            radioButton302.ForeColor = colorin;
+            radioButton303.ForeColor = colorin;
+            radioButton304.ForeColor = colorin;
+            radioButton305.ForeColor = colorin;
+            radioButton306.ForeColor = colorin;
+            radioButton307.ForeColor = colorin;
+            radioButton308.ForeColor = colorin;
+            radioButton309.ForeColor = colorin;
+            radioButton310.ForeColor = colorin;
+            radioButton311.ForeColor = colorin;
+            radioButton312.ForeColor = colorin;
+            radioButton313.ForeColor = colorin;
+            radioButton314.ForeColor = colorin;
+            radioButton315.ForeColor = colorin;
+            radioButton316.ForeColor = colorin;
+            radioButton317.ForeColor = colorin;
+            radioButton318.ForeColor = colorin;
+            radioButton319.ForeColor = colorin;
+            radioButton320.ForeColor = colorin;
 
         }
 
@@ -606,8 +998,6 @@ namespace Censo_2024
 
         private void saveDates()
         {
-
-
 
             string identificadorVivienda = textBox1.Text;
             string cuestionario = textBox2.Text;
@@ -685,10 +1075,85 @@ namespace Censo_2024
             string preguntaCuarentaNueve = textBox72.Text;
             string observacionesDireccion = textBox73.Text;
 
+        }
 
-
-
-
+        private void clearCampsLabel()
+        {
+            textBox1.Text = "";
+            textBox2.Text = "";
+            textBox4.Text = "";
+            textBox5.Text = "";
+            textBox3.Text = "";
+            textBox6.Text = "";
+            textBox7.Text = "";
+            textBox8.Text = "";
+            textBox9.Text = "";
+            textBox10.Text = "";
+            textBox11.Text = "";
+            textBox12.Text = "";
+            textBox13.Text = "";
+            textBox14.Text = "";
+            textBox15.Text = "";
+            textBox16.Text = "";
+            textBox17.Text = "";
+            textBox18.Text = "";
+            textBox19.Text = "";
+            textBox20.Text = "";
+            textBox21.Text = "";
+            textBox22.Text = "";
+            textBox23.Text = "";
+            textBox24.Text = "";
+            textBox25.Text = "";
+            textBox26.Text = "";
+            textBox28.Text = "";
+            textBox29.Text = "";
+            textBox30.Text = "";
+            textBox31.Text = "";
+            textBox32.Text = "";
+            textBox33.Text = "";
+            textBox35.Text = "";
+            textBox36.Text = "";
+            textBox37.Text = "";
+            textBox39.Text = "";
+            textBox40.Text = "";
+            textBox41.Text = "";
+            textBox42.Text = "";
+            textBox43.Text = "";
+            textBox44.Text = "";
+            textBox45.Text = "";
+            textBox46.Text = "";
+            textBox47.Text = "";
+            textBox49.Text = "";
+            textBox50.Text = "";
+            textBox51.Text = "";
+            textBox27.Text = "";
+            textBox38.Text = "";
+            textBox34.Text = "";
+            textBox48.Text = "";
+            textBox52.Text = "";
+            textBox53.Text = "";
+            textBox54.Text = "";
+            textBox55.Text = "";
+            textBox56.Text = "";
+            textBox57.Text = "";
+            textBox58.Text = "";
+            textBox59.Text = "";
+            textBox60.Text = "";
+            textBox61.Text = "";
+            textBox62.Text = "";
+            textBox63.Text = "";
+            textBox64.Text = "";
+            textBox65.Text = "";
+            textBox66.Text = "";
+            textBox67.Text = "";
+            textBox68.Text = "";
+            textBox69.Text = "";
+            textBox74.Text = "";
+            textBox75.Text = "";
+            textBox70.Text = "";
+            textBox71.Text = "";
+            textBox72.Text = "";
+            textBox73.Text = "";
         }
 
 
@@ -697,8 +1162,7 @@ namespace Censo_2024
         {
             changeColorText(Color.Black);
             changeComponentsColor(Color.White);
-
-
+            isRunning = false;
 
         }
 
@@ -707,10 +1171,7 @@ namespace Censo_2024
 
             changeColorText(Color.White);
             changeComponentsColor(Color.DarkSlateGray);
-
-
-
-
+            isRunning = false;
         }
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
