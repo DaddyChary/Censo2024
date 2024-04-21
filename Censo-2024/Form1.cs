@@ -424,7 +424,8 @@ namespace Censo_2024
         private void InicializarListaRadiobuttons()
         {
       
-            for (int i = 1; i <= 320; i++) {
+            for (int i = 1; i <= 320; i++) 
+            {
                  listaRadiobuttons.Add((RadioButton)this.Controls["radioButton" + i.ToString()]);
             }
         }
@@ -450,8 +451,6 @@ namespace Censo_2024
             }
             
         }
-
-
 
         private void changeColorText(Color colorin)
         {
@@ -1195,5 +1194,3 @@ namespace Censo_2024
         }
     }
 }
-
-
