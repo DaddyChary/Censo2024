@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Censo-2024")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbeada2550b6cad681de5f00b3d6b7ea1c63cb53")]
 [assembly: System.Reflection.AssemblyProductAttribute("Censo-2024")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Censo-2024")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
